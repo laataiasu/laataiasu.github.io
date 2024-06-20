@@ -1,6 +1,6 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
-paginate: 5
+baseURL: "https://laataiasu.github.io"
+title: Laataiasu
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -8,16 +8,18 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+googleAnalytics: G-TV5901EQN9
+
 minify:
   disableXML: true
   minifyOutput: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  title: Laataiasu
+  description: "Notes on Idleness"
+  keywords: [laataiasu, notes on idleness, al-kassl]
+  author: laataiasu
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -28,7 +30,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -37,17 +39,18 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
+  hideSummary: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "safari-pinned-tab.svg"
 
   label:
     text: "Home"
@@ -56,49 +59,53 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    enabled: true # needs to be explicitly set
+    title: Laataiasu
+    subtitle: "Notes on Idleness"
+    imageUrl: "https://catatankemalasan.files.wordpress.com/2021/11/photo.jpg?resize=214%2C214"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: laataiasu
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      # - name: Writings
+      #   url: post
+      # - name: Tags
+      #   url: tags
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Laataiasu 💦" # "Hi there \U0001F44B"
+    Content: "Notes on Idleness"
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: twitter
+      url: "https://twitter.com/laataiasu"
+    # - name: stackoverflow
+    #   url: "https://stackoverflow.com"
+    - name: instagram
+      url: "https://instagram.com/notesonidleness"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/laataiasu"
+    - name: linktree
+      url: "https://linktr.ee/laataiasu"
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "lNHHQDjBfYsTAIsrTA30JCemupM27YF71k1E6MO2AFI"
     bing:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "CADE8DE57C8D148188B761178BD81544"
     yandex:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "701081e031c5a7d2"
 
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -109,22 +116,33 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
+    # - identifier: Writings
+    #   name: Writings
+    #   url: /post/
+    #   weight: 1
+    - identifier: Posts
+      name: Posts
+      url: /archives/
+      weight: 1
+    - identifier: Tags
+      name: Tags
       url: /tags/
-      weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+      weight: 2
+    - identifier: Search
+      name: Search
+      url: /search/
+      weight: 4
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 5
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 4
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>_Drafts on Laataiasu</title>
+    <link>http://localhost:1313/_draft/</link>
+    <description>Recent content in _Drafts on Laataiasu</description>
+    <image>
+      <title>Laataiasu</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/_draft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/_draft/00/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_draft/00/</guid>
+      <description>intro
+i believe data driven society could make world a better place contagion ideas i have is economy post scarcity and economic based on donation if people behave by incentive, then the currency we have right now is obsolete. people will do everything to get the incentive. most advertisment and social media company driven by interaction and engagement, no matter how destructive itself by some perspectives, it continually incentivize those behaviour.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/_draft/nti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_draft/nti/</guid>
+      <description>This is my review of working at NTI. Some of it may be harsh, but I&amp;rsquo;m just expressing how I feel. I apologize if anyone is hurt by my words, but when I voice a complaint, it&amp;rsquo;s not personal; it&amp;rsquo;s because I want everyone to improve and be better. I won&amp;rsquo;t mention anyone&amp;rsquo;s goodness here because I&amp;rsquo;m focusing solely on my own complaints. I take full responsibility for any faults I may have, and I deeply regret them.</description>
+    </item>
+  </channel>
+</rss>
