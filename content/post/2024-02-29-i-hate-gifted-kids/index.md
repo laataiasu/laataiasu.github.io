@@ -2,7 +2,7 @@
 date: "2024-02-29"
 tags:
 - story
-title: I hate Gifted Kids
+title: Burden of Giftedness
 ---
 
 When you're a smartest person in your room, you realize you'll hate yourself because it means you're in the wrong room. You see news and hear speaks from other people that most of their smartest friend end up doing nothing compare to their most bastard friend. 
