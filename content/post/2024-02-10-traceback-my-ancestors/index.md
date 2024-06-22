@@ -11,7 +11,7 @@ title: "Traceback My Ancestors"
 | Business, Economy & Finance | - Rich Dad Poor Dad ~ SMP/SMA - Peter Thiel, Zero to One ~ Kuliah - Michael Lewis Big short ~ Kuliah - AI for trading Udacity ~ covid era - Microeconomy by Khan Academy ~ 2022 - Macroeconomy by Khan Academy ~ 2022 - Finance & Capital Market by Khan Academy ~ 2022 to current - Munger & Buffett ~ Kuliah |
 | Islam | - Abu Takeru ~ SMA - Khalid Basalamah ~ covid era |
 | CSIS | **Business / System Analyst**   - black youtuber (forgot) ~ before covid era - udacity business analytics ~ covid era - udacity business analyst ~ covid era   **Blockchain**   - MIT 15.S12 Blockchain and Money, Fall 2018 ~ covid era - Web3 Blockchain Fundamentals by Bill Laboon ~ covid era - Blockchain by Berkeley University ~ covid era - Vitalik Buterin, Gavin Belson, Charles Hoskinson ~ covid era   **Cloud Devops**   - Udacity ~ covid era - Linux Torvald - OSS channel   **Data Engineering**   - Udacity ~ covid era - DWE intern tvlk ~ 2022   **Data Science**   - Udacity NLP ~ covid era - Research Intern ~ 2023   **System Architect**   - Programmer Zaman Now ~ covid era   **Webdev**   - Django & Flask by Corey Schafer ~ 2019-2020 - FUKI ~ 2020-2021   **QA**   - Tokped Devcamp ~ 2022 |
-| Culture, Literature, Movies | - Scepticism from anime fate stay ~ around SMP - Kaskus Xenophobia ~ around SMP - Kaskus SFTH ~ SMP - Ghost ~ SMP - Tere Liye ~ SMP - Gunawan Muhammad ~ SMP - Paulo Coelho ~ SMP/SMA - Murakami ~ SMA - Mark Manson ~ SMA - Oregairu, Monogatari Series, Lain ~ SMA - Mr Robot ~ SMA - GOT ~ SMA - Peaky Blinders ~ SMA - Cosmos doc ~ SMA - Orwell ~ SMA - Bo Burnham ~ covid era - Dostoevsky, Chioran ~ kuliah - Kino no Tabi, frieren / My anime list ~ Kuliah |
+| Culture, Literature, Movies | - Scepticism from anime fate/zero ~ around SMP - Kaskus Xenophobia ~ around SMP - Kaskus SFTH ~ SMP - Ghost ~ SMP - Tere Liye ~ SMP - Gunawan Muhammad ~ SMP - Paulo Coelho ~ SMP/SMA - Murakami ~ SMA - Mark Manson ~ SMA - Oregairu, Monogatari Series, Lain ~ SMA - Mr Robot ~ SMA - GOT ~ SMA - Peaky Blinders ~ SMA - Cosmos doc ~ SMA - Orwell ~ SMA - Bo Burnham ~ covid era - Dostoevsky, Chioran ~ kuliah - Kino no Tabi, frieren / My anime list ~ Kuliah |
 
 What influenced me so far as I remembered:
 
@@ -79,7 +79,7 @@ CSIS
         Tokped Devcamp ~ 2022
 
 Culture, Literature, Movies
-    Scepticism from anime fate stay ~ around SMP
+    Scepticism from anime fate/zero ~ around SMP
     Kaskus Xenophobia ~ around SMP
     Kaskus SFTH ~ SMP
     Ghost ~ SMP
