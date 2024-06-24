@@ -297,6 +297,8 @@ I think crypto is serve as transparent way to show the world. If you familiar wi
 
 I remembered something painful. I was attending movie class in my college. My lecturer ask the class whether anyone have watched Children of Heaven. My classmate raise his hand, then my lecturer ask, "What do you feel after watching that movie?". My classmate answer, "I feel pity for the little boy". I mean he's not wrong, but I just lose my faith in humanity after his answer like that. I feel each person living in a different world, there's no real world here, everything is just interpretation.
 
+---
+
 2024-06-13
 
 This month I pray again. I give up to live an agnostic/atheistic life. Laziness or ADHD I don't know which one is it, but it's hard for me to focus on something. I still don't know what I want. That's why I pray, because I really don't know what I want.
@@ -308,7 +310,7 @@ least toxic player in dota :v
 
 ---
 
-Sure! Let's incorporate the math formulas using the specified syntax for inline and block math.
+In decentralized finance (DeFi), delta-neutral strategies aim to earn a yield while maintaining a neutral position to market price movements. This approach seeks to balance the portfolio in such a way that its value remains relatively stable, regardless of fluctuations in the underlying asset prices. Let's explore the key concepts, mechanics, and examples of delta-neutral yield strategies in DeFi.
 
 ### Key Concepts
 
@@ -349,8 +351,8 @@ Let's walk through a simplified example of a delta-neutral yield strategy using 
    - Suppose you borrow 10 ETH at an interest rate of 5% APY and deposit the borrowed USDC into a platform like Compound that offers 8% APY on stablecoin deposits.
 
 4. **Calculate Yields**:
-   - From liquidity provision: $$20,000 \times 0.20 = 4,000$$ USDC/year.
-   - From interest rate arbitrage: $$20,000 \times (0.08 - 0.05) = 600$$ USDC/year.
+   - From liquidity provision: \( 20,000 \times 0.20 = 4,000 \) USDC/year.
+   - From interest rate arbitrage: \( 20,000 \times (0.08 - 0.05) = 600 \) USDC/year.
 
    Total yield = $4,600 USDC/year on a $20,000 investment.
 
@@ -358,19 +360,19 @@ Let's walk through a simplified example of a delta-neutral yield strategy using 
 
 To ensure the position remains delta-neutral, the portfolio's delta should be zero:
 
-$$
+\[
 \Delta_{\text{portfolio}} = \Delta_{\text{long}} + \Delta_{\text{short}} = 0
-$$
+\]
 
 Where:
-- $$\Delta_{\text{long}}$$ is the delta of the assets held long (e.g., liquidity pool).
-- $$\Delta_{\text{short}}$$ is the delta of the hedged positions (e.g., short positions).
+- \(\Delta_{\text{long}}\) is the delta of the assets held long (e.g., liquidity pool).
+- \(\Delta_{\text{short}}\) is the delta of the hedged positions (e.g., short positions).
 
 If you have $20,000 worth of ETH (10 ETH) and you short an equivalent amount of ETH, the net delta of the position will be:
 
-$$
-\Delta_{\text{portfolio}} = \Delta_{\text{ETH}} - \Delta_{\text{short\ ETH}} = 10 \times 1 - 10 \times 1 = 0
-$$
+\[
+\Delta_{\text{portfolio}} = \Delta_{\text{ETH}} - \Delta_{\text{short ETH}} = 10 \times 1 - 10 \times 1 = 0
+\]
 
 ### Practical Considerations
 
@@ -382,3 +384,5 @@ $$
 ### Conclusion
 
 Delta-neutral yield strategies in DeFi offer a way to earn returns while mitigating exposure to price volatility. By balancing assets in liquidity pools with short positions or other hedging instruments, users can maintain a stable portfolio and generate consistent yields. This approach requires careful consideration of transaction costs, platform risks, and market conditions.
+
+---
