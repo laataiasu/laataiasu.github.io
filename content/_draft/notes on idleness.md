@@ -39,3 +39,20 @@ Arbeit macht frei
 Intelligence is a problem-solving tools, not a self-esteem competition tools.
 
 
+# orwell
+
+Jeruk manis, 
+jeruk nipis, 
+denteng lonceng 
+Santo Klemen!
+
+Ini lilin penerang tidurmu, 
+ini parang penebang lehermu
+
+Oranges and lemons, 
+say the bells of St Clement’s
+
+...
+
+Here comes a candle to light you to bed, 
+Here comes a chopper to chop off your head
