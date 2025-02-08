@@ -562,3 +562,19 @@ when i buy nasi ayam 6rb an in semarang sold by a nenek that walk bringing big b
 
 its easy to justify cowardice by goble incompleteness theorem. but most of cases, it can be prove. you love someone, you do nothing to them and take cover that you just dont know how to prove. no you lie. you know how to prove, you just choose to be either lazy or afraid. 
 
+---
+2024-02-04
+
+yesterday, i moved places for my rent room. it was the impulsive decision actually. like i survey it directly, and just transfer the money there. i feel like its cozy and comfortable so i just decide it fastly. i moved because its hard for me to sleep when there's no air conditioner in semarang and my room was having a bad ventilation, so its very hot in the night, often i cant sleep. besides, my neighbor is very noisy, he often talks with his family in the middle of the night and bring his colleague to his room and it made me cant sleep well, and he's fucking tiktok retard viewer with loud voices, i ahte him so muh, thats why i move my room. 
+
+---
+2024-02-08
+
+its so hard to find good problems to solve right now. what people need right now is simply aggregators and integrators. 
+
+- nutrition data integrate with e-commerce data, to generate mix menu to fulfill individual needs 
+- political news data-driven (table and graphs -> real stats) that influence people to be responsible buying with their own ideology
+  - list of indonesia owners/entrepreneur and its company
+  - their ideology
+  - historical data
+
