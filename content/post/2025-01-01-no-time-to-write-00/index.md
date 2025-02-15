@@ -578,3 +578,20 @@ its so hard to find good problems to solve right now. what people need right now
   - their ideology
   - historical data
 
+---
+2024-02-09
+
+lets say wre going to do about the same about anything it wont just feel the same without you but honestly even im trying to figure out something it always never enough, i never remember the words on my keyboard. i couldn keep up with my hands. my brains are too slow i dont know how to make it fast, if t is easy words, theni can type it fast, but when it's just otoo omplex, i begin too stuk, its like my life. i dont know how to make an effort, im a ocmpletely loser who breaks someone's heart. i awlays mock someone i like so much i dont know why.
+
+
+---
+2024-02-13
+its hard for me to be articulate. i have just come accross an ideas that someone who is cheating is actually has intrinsic humility or humble. i found this from crazy rich asians in the scene where a guy was cheating to his wife because his wife is more accomplished than him. he cheated with an assistant or something and i assume that woman has lower class than the guy's wife. the wife has a successful company, donate a lot and so on. while the guy seems so stuck and then he cheated on her. 
+
+i see that phenomenan as humility, tough people might not agree with me. yes i know its mix of the loser behaviour, lack of faithfulness, and so on. but i think deep down its part of humility. the guy is too insecure, feel so stuck, feel so low, feel so undependable that makes him think that his wife is "better without me". its implicit message, that his wife is too much too handle. she grows more than him. 
+
+and we can see connect this to statistics that man is much hypogamy where most man prefer lower class woman to make him seen as someone who is dominant. and woman is tend to be hypergamy where they prefer men that is higher class than them. its explained that woman who usually has higher education, higher wealth level, higher family background status find it hard to find male partner. 
+
+and some who is cheating is resemble this, that they are insecure about themselves, and somehow they have humility. theres a thin line between insecurity and humility. but i believe most people is good deep down inside, its just because the need of external validation, they just making it looked so fucked up. but of course some who do cheating are just really losers. i just mention that there is a humility part in them that is cheating. 
+
+actually, i just want to make my friends feel better because she's cheated on. i just wan to cheer her up, that if she's cheated on by his ex, it means that she is much higher than her ex. and i can prove this, because she told the woman that her ex was cheated with is uglier and more stupid than my friend. so i think i might be true.  
