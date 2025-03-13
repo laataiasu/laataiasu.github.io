@@ -50,7 +50,7 @@ Bayangkan berapa banyak dari generasi muda yang tidak tergali potensinya. Ke-48a
 
 Siapapun yang tahu perlu memberitahu. Bahwa semuanya bukanlah jeketi. Dan tidak semuanya bertahan dalam jeketi, entah ia menjadi member, JOT, fans, atau pihak lainnya. Namun, setidaknya potensi itu harus tetap terus digali. Bukan untuk siapa-siapa, tapi untuk seluruh pihak yang berada dalam fase kebingungan dan pencarian. Semuanya perlu ditemani, hingga masalah terbesarnya bukan lagi aktualisasi diri, melainkan masalah metafisik yang tidak pernah dipahami. Maka berkat dari aktivitas ngidol ini, saya hanya ingin menyampaikan, siapapun yang berkuasa, bantulah siapapun yang ingin mencapai potensi, beritahulah siapapun yang tidak tahu potensi, jangan biarkan siapapun sendiri, kecuali ia binatang atau filsuf gila yang menjelma jadi iblis, atau ia merupakan merupakan haters jeketi.
 
-{{< tweet user="S_FloraJKT48" id="1475204812836724738" >}}
+user="S_FloraJKT48" id="1475204812836724738"
 
 
 
