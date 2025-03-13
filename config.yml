@@ -118,6 +118,7 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 
   math: true
+  social: true
   
 menu:
   main:
@@ -174,3 +175,5 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+
+ignoreLogs: ['warning-goldmark-raw-html']
