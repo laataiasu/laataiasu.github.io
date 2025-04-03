@@ -46,8 +46,13 @@ jeruk nipis,
 denteng lonceng 
 Santo Klemen!
 
+...
+
 Ini lilin penerang tidurmu, 
 ini parang penebang lehermu
+
+
+---
 
 Oranges and lemons, 
 say the bells of St Clement’s
