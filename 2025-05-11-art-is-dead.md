@@ -38,7 +38,7 @@ and when i try to believe in atheism, i believe i kill my god which is time. tha
 
 when i see most of my friends compain like a luddite about someone who prefer AI than real human work for art etc, i couldnt relate with them. 
 
-because as i see towards the future, where entropy is always increase ~ kullu nafsin da iqotul maut, i believe everything will become obsolete, useless, if we erase the dimension of time. there is time too in attention. and when i try to kill the god which is time, i become nihillistic cynic that see everything as worthless and meaningless. and it could make me improve intellection for everything, to justify for everything easily, there is no right or wrong. everything is positive sum game. intelletion is just therapy for all nihillistict people, it made them easier to justify their cowardness and stupidity, inaction or pseudo activism, risk taking or risk aversing, everything can be justify.
+because as i see towards the future, where entropy is always increase ~ kullu nafsin da iqotul maut, i believe everything will become obsolete, useless, if we erase the dimension of time. there is time too in attention. and when i try to kill the god which is time, i become nihillistic cynic that see everything as worthless and meaningless. and it could make me improve intellection for everything, to justify for everything easily, there is no right or wrong. everything is positive sum game. intellection is just therapy for all nihillistict people, it made them easier to justify their cowardness and stupidity, inaction or pseudo activism, risk taking or risk aversing, everything can be justify.
 
 and thats why i never support all collectve mass movements, because basically i dont believe in the significance of time.
 
