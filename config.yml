@@ -1,6 +1,7 @@
 baseURL: "https://laataiasu.github.io"
 title: Laataiasu
-paginate: 10
+pagination:
+  pagerSize: 10
 theme: PaperMod
 
 enableRobotsTXT: true

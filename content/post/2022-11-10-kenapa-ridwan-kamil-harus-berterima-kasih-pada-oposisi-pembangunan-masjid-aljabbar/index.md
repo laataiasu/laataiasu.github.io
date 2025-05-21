@@ -7,7 +7,7 @@ tags:
 title: Kritik, Prioritas, dan Pengambilan Keputusan Ridwan Kamil terhadap Masjid Al-Jabbar
 ---
 
-{{< tweet user="Outstandjing" id="1609517027148058624" >}}
+{{< x user="Outstandjing" id="1609517027148058624" >}}
 
 RK seharusnya berterima kasih atas banyaknya kritik yang diterima terkait Masjid Al Jabbar. Ada sebuah hadis yang mengatakan, 
 
