@@ -7,7 +7,7 @@ title: Untuk Okihita
 
 Membalas thread ini:
 
-{{< x user="okihita" id="1282963171423080448" >}}
+{{< X user="okihita" id="1282963171423080448" >}}
 
 Masnya mungkin tidak sadar, bahwa kehadiran orang-orang seperti itu rezeki buat mas.
 
