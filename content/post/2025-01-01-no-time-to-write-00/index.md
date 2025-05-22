@@ -50,9 +50,6 @@ And the question what would you do if money/material things won't matter because
 I am a loser to the level of acceptance. Some said you should actualize your ideas, and to fail to gain profit from your idea is considered as failure, afraid of commitment. But let me show you, the one that speak that is one who can't bear the world of imagination, those are the one who can only live in the actualize material world. They are the loser here in the world of ideas. You may say the world of ideas is just unreal delusion. But le me ask you, why the people in the real world right now try to build all of those delusional imagination world. Half of it, we've already built it. Why goes towards it, why goes to the world where it is the idea of madman? Why are you so afraid that you won't achieve the ideal world. Some already give up to actualize their dream, they fall into idealism that is ruin their that time present condition. It's not about winning or losing, but can't you see that who is really afraid is a practical man that can only measure everything based on material things. 
 
 ---
-2024-06-22
-
-i dream about nabila again.
 
 i have just realize i go to univ not because i want to, its because i am told to do.
 
@@ -146,10 +143,6 @@ or you can say youre a tester, where you airdrop hunting doing task related to t
 
 everything is easy now, there's no excuse for choosing something perforce. there are a lot excuse so you can keep balance id with your superego. but of course what i suggest is tell the truth, tell the truth that your just a lost boy who doesnt value life, you might surprise about they're respond to you after answer that shit. the real truth is they simply dont care about you, you just have a spotlight effect all this time, no one care about you, that might might be the worse, or best for you though.
 
----
-2024-07-20
-
-i dream about nabila again. she told me that she is intended to go to hajj, but she because one or more reason she canceled it, one of the reason is because it's so expensive. i told her, instead of go to hajj, it's better to create an AI that minimizing the number of muslim (make people murtad) so it makes less demand, so it become cheaper, she laugh beautifully. 
 
 ---
 2024-08-09
@@ -449,17 +442,6 @@ thats why, i dont know why i pray. i am a risk averse to the level of pray. i wa
 so today or yesterday i forgot about the specific day. but i found out about goddels theory. sometimes youre just wandering and surfing random stuffs you find in your memory. and we dont know how the memory just suddenly recall that i need to do this or that. like perhaps i could connect it in a way that i opened instagram first, then i check the explore page. i see some of kdramas clips which jung so min, then somehow i remembered about the quote, especially about the relationship between cat and neocortex. and then i look that quotes suddenly, then i found about goddles theorem. i remembered my lecturer was disccussing this in front off my class, but its not goddles theorem, but about halting problem computer science. then this time i tried to look it up the explanation. roger penrose, a physicist said he hate about this theorem. but when i look the explanation somehow im crying. 
 
 like its something that its so hard to explain, the feeling of something you know its real, you know its right. but you just dont know how to prove. when i saw the explanation and remember these things, i suddenly cried. i think im just carried away by my feeling too much. the theorem true only within the context of the system its proven in. perhaps this theorem its just bullshit. i always be cautious of myself, when look at something look pattern that find it is amusing. because it often a trap, a trap that you might see beauty in something, and only you can see that beauty. such things are not beauty, its just a schizophrenic experience you got because most of the truth is valued by mass society. and i think i should stop right now because its time for maghrib.
-
----
-2024-11-07
-
-met to haya's (jhs friend) friend wedding and she said that my face is whiter, Me and fams drive a car, when we back home my grandmother puke on the car. 
-
-I talked with ilham with his travelling experience 6 hours because he gabut. 
-
-This dream is really strange. First i dream about nabila, my friend supporting me when i confessed to her that she now look at me. We discuss about people nowadays lack of showing their love.
-
-Then suddenly my brother come to me, showing that there is a girl that into me through gojek. I make a review on that apps forgot about that detail i think the point is talking i like her. And tissa comment on below my comment, that she knew i gave her mixed feeling, but she really2 into me. 
 
 ---
 2024-11-20
