@@ -9,7 +9,7 @@ title: Asumsi Rasional
 {{< youtube id="JFOhvquQiS8" >}}
 
 {{< youtube id="fQ4rc7npiXQ" >}}
-
+```
 "specialization makes it hard to evaluate. sub-specialists propagandize"
 
 "I love him who wants to create over and beyond himself and thus perishes."
@@ -95,10 +95,29 @@ dan hierarki itu tetep ada, dan yang bunuh itu, jadi monster juga
 
 jadi diam, santai, dan selow aja... 
 orang-orang atas itu juru selamat! keambiguan dan self-fulfilling prophecy tentang 1 dari 73 golongan 
-itu caranya menyelamatkan orang bawah. "aku ga becus menyampaikan, maka salahkan aku saja, yang pentingkan semua tau intinya, sidik fatonah amanah tablig. aku yang bertanggung jawab atas kesalahan mereka" - salah satu kecerdasan orang atas. mungkin bakal ada yang bilang lebih baik tidak disampaikan kalo gitu, dibandingkan menyampaikan dengan ketidakjelasan, bukankah itu justru juru selamat yang 100%? "oh tidak semudah itu, kamu tidak akan jadi yang terpilih atau kamu akan tergantikan nantinya. mesti ada yang mau menggantikanmu" 
+itu caranya menyelamatkan orang bawah. 
 
-makanya ia selalu menangis di sepertiga malam, ingin menipu yang memperbudaknya, seperti kasus pascal's wager
-yang atas itu berhak untuk memperbudak yang bawah, itu bentuk tanggung jawabnya, itu bentuk cinta dan kasihnya. maka begitulah ceritanya.
+"aku ga becus menyampaikan, maka salahkan aku saja, 
+yang pentingkan semua tau intinya, sidik fatonah amanah tablig. 
+aku yang bertanggung jawab atas kesalahan mereka" 
+
+- salah satu kecerdasan orang atas. 
+
+mungkin bakal ada yang bilang lebih baik tidak disampaikan kalo gitu, 
+dibandingkan menyampaikan dengan ketidakjelasan, 
+bukankah itu justru juru selamat yang 100%? yang mengajarkan cinta?
+
+"oh tidak semudah itu, itu tidak seru namanya, 
+kamu tidak akan jadi yang terpilih atau kamu akan tergantikan nantinya. 
+mesti banyak yang mau menggantikanmu" 
+
+makanya ia selalu menangis di sepertiga malam, 
+ingin menipu yang memperbudaknya, 
+seperti kasus pascal's wager
+yang atas itu berhak untuk memperbudak yang bawah, 
+itu bentuk tanggung jawabnya, 
+itu bentuk cinta dan kasihnya. 
+maka begitulah ceritanya.
 
 ...
 
@@ -107,3 +126,5 @@ lihat? hanya satu asumsi, tapi dampaknya luar biasa besar, chaos & complex theor
 multiple mental model adalah multiple negasi, selayaknya growth mindset, dan ketiadaan asumsi itu pun membuatmu luput dari gajah di pelupuk mata. sesederhana potongan kalimat the sixth sense. "I see dead people. Walking around like regular people. They don't see each other. They only see what they want to see. They don't know they're dead." 
 
 dan saat itu dihilangkan (asumsi hal itu dapat dihilangkan), tiadalah yang namanya nafsu, sehingga hanya ada rasionalitas, tanpa bias, mati, seperti robot. bahkan kamu masih mempercayai kita memiliki bahasa yang sama? dengan pemodelan yang memiliki banyak cacat? maka dari itu, hapalkanlah cerita-cerita, tentukan probabilitasnya, jangan jalan tergesa-gesa, empatilah pada penghotbah mantra, ketundukan spirit-spirit agung, ia yang tidak menginginkan apa-apa, kerinduan dengan si maha sepi, pembangunan menuju stagnasi, penyelamatan dari interim dan lestari
+
+```
