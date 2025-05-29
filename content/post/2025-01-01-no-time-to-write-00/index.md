@@ -577,7 +577,7 @@ and we can see connect this to statistics that man is much hypogamy where most m
 
 and some who is cheating is resemble this, that they are insecure about themselves, and somehow they have humility. theres a thin line between insecurity and humility. but i believe most people is good deep down inside, its just because the need of external validation, they just making it looked so fucked up. but of course some who do cheating are just really losers. i just mention that there is a humility part in them that is cheating. 
 
-actually, i just want to make my friends feel better because she's cheated on. i just wan to cheer her up, that if she's cheated on by his ex, it means that she is much higher than her ex. and i can prove this, because she told the woman that her ex was cheated with is uglier and more stupid than my friend. so i think i might be true.  
+actually, i just want to make my friends feel better because she's cheated on. i just want to cheer her up, that if she's cheated on by his ex, it means that she is much higher than her ex. and i can prove this, because she told the woman that her ex was cheated with is uglier and more stupid than my friend. so i think i might be true.  
 
 ---
 2024-02-15
