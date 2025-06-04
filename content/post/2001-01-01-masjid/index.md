@@ -368,3 +368,5 @@ Jika ada yang merasa tidak membuang waktu, maka ini mungkin merupakan sindiran u
 - https://play.google.com/store/apps/details?id=com.blessindonesia.masjidkukom
 - https://play.google.com/store/apps/details?id=com.halomasjiddkm
 - Masjidkita : https://play.google.com/store/apps/details?id=com.edu.edulearning
+
+![Word Version](https://drive.google.com/file/d/1ulV2rb0i3AlNCFBvs3xnqn8osNiswn-1/view?usp=sharing)
