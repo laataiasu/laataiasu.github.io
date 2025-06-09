@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee4dca8677a4c8d9",
+        "id": "a74eb70661bf346c",
         "type": "tabs",
         "children": [
           {
-            "id": "49448517ab0de749",
+            "id": "b4d8e45750cbe8c1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -161,8 +161,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49448517ab0de749",
+  "active": "97b4113916cfb6a0",
   "lastOpenFiles": [
+    "2025-06-09.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "content/post/2023-06-14-santet-is-real/index.md",
+    "content/post/draft.md",
     "content/archives.md",
     "content/post/2017-12-22-sudut-pandang-penjahat/index.md",
     "content/post/diary/2025-06-09.md",
