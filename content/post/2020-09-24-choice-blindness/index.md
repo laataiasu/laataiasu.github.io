@@ -14,7 +14,7 @@ title: Choice Blindness
 
 Looking at the source above might make a little amazement at the development of science. That is, the development of the product and that theory can solve many neurological problems. But this is just the first step towards creating something "more" than this.
 
-If we let ourselves think fictionally, or it's not fiction after all, what happened in a lot of science fiction films or books can happen in real life. From erasing memories in "Hujan" until like in Transcendence movie. It's not impossible, but it takes maybe a few hundred years or more, or less.
+If we let ourselves think fictionally, or it's not fiction after all, what happened in a lot of science fiction films or books can happen in real life. From erasing memories in "Hujan" until like in [[Transcendence]] movie. It's not impossible, but it takes maybe a few hundred years or more, or less.
 
 And based on fictional thinking such that, you're gonna accept everything that happened in your life. Even you will find that you're gonna enjoy and love all of your scarcities from your perspective.
 
