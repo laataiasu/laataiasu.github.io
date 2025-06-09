@@ -1,9 +1,6 @@
 ---
 date: "2023-12-09"
-tags:
-- story
-- book
-- review
+tags: ["story", "book", "review"]
 title: "Review How Do You Live"
 ---
 

@@ -1,8 +1,6 @@
 ---
 date: "2016-02-17"
-tags:
-- story
-- review
+tags: ["story", "review"]
 title: "Rindu: Redefining Existence From Silence to Survival"
 ---
 

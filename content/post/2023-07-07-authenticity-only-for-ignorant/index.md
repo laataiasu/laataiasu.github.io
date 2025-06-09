@@ -1,8 +1,6 @@
 ---
 date: "2023-07-07"
-tags:
-- story
-- film
+tags: ["story", "film"]
 title: Why Luffy is the Authentic Hegelian Master
 ---
 

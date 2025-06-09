@@ -1,7 +1,6 @@
 ---
 date: "2017-09-07T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Golongan Tengah
 ---
 

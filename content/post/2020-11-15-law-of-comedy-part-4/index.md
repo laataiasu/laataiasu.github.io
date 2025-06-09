@@ -1,9 +1,6 @@
 ---
 date: "2020-11-15T11:59:30Z"
-tags:
-- essay
-- pseudocomedy
-- muslim
+tags: ["essay", "pseudocomedy", "muslim"]
 timeline_notification:
 - "1605416374"
 title: The Law of Comedy ~ Part 4

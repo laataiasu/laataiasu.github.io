@@ -1,7 +1,6 @@
 ---
 date: "2022-01-07T00:00:00Z"
-tags:
-- cs/is
+tags: ["cs/is"]
 title: Review Sistem Informasi UI ~Semester 5
 ---
 

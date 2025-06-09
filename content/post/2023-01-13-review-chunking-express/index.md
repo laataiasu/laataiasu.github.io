@@ -1,8 +1,6 @@
 ---
 date: "2023-01-13T00:00:00Z"
-tags:
-- film
-- review
+tags: ["film", "review"]
 title: "Chunking Express: Betapa Culasnya Sentuhan Kehidupan"
 ---
 

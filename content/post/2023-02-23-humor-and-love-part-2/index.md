@@ -1,9 +1,6 @@
 ---
 date: "2023-02-23T00:00:00Z"
-tags:
-- story
-- review
-- film
+tags: ["story", "review", "film"]
 title: Humor and Love Part 2
 ---
 

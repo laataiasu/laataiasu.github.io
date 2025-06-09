@@ -1,8 +1,6 @@
 ---
 date: "2020-07-29T00:00:00Z"
-tags:
-- muslim
-- essay
+tags: ["muslim", "essay"]
 title: Islam dan Nihilisme
 ---
 

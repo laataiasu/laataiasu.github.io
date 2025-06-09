@@ -1,7 +1,6 @@
 ---
 date: "2021-04-18T20:01:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Pekerja Seni
 ---
 

@@ -1,9 +1,6 @@
 ---
 date: "2022-07-06T17:23:09Z"
-tags:
-- story
-- review
-- film
+tags: ["story", "review", "film"]
 title: Susah Cari Kerja
 ---
 

@@ -1,9 +1,6 @@
 ---
 date: "2023-05-19T00:00:00Z"
-tags:
-- essay
-- review
-- film
+tags: ["essay", "review", "film"]
 title: "Sympathy for the Devil: Empathy for the Rich and Powerful in a Complex Society"
 ---
 

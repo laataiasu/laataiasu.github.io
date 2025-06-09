@@ -1,8 +1,7 @@
 ---
 date: "2021-06-22T08:35:00Z"
 modified_time: "2021-06-22T08:38:18.853-07:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Suara
 ---
 

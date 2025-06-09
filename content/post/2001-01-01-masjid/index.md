@@ -1,8 +1,6 @@
 ---
 date: "2001-01-01"
-tags:
-- essay
-- muslim
+tags: ["essay", "muslim"]
 title: "Manifesto"
 ---
 

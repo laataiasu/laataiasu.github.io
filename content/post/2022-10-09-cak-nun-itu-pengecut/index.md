@@ -1,9 +1,6 @@
 ---
 date: "2022-10-09T00:00:00Z"
-tags:
-- story
-- essay
-- review
+tags: ["story", "essay", "review"]
 title: Cak Nun itu Pengecut
 ---
 

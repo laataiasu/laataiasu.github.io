@@ -1,7 +1,6 @@
 ---
 date: "2020-05-20T00:00:00Z"
-tags:
-- cs/is
+tags: ["cs/is"]
 title: Review Sistem Informasi Fasilkom UI - Index
 ---
 

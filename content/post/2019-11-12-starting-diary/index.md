@@ -1,7 +1,6 @@
 ---
 date: "2019-11-12"
-tags:
-- story
+tags: ["story"]
 title: Starting Diary
 ---
 

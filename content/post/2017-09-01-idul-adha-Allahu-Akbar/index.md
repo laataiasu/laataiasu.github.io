@@ -1,8 +1,6 @@
 ---
 date: "2017-09-01"
-tags:
-- story
-- muslim
+tags: ["story", "muslim"]
 title: "Idul Adha: Pantaskah kita meneriakkan Allahu Akbar"
 ---
 

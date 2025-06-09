@@ -1,9 +1,6 @@
 ---
 date: "2022-10-07T00:00:00Z"
-tags:
-- muslim
-- essay
-- story
+tags: ["muslim", "essay", "story"]
 title: Why a Group of People Like to Go to the Mall
 ---
 

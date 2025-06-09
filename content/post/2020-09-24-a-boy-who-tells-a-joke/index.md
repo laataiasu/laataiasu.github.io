@@ -1,7 +1,6 @@
 ---
 date: "2020-09-24T11:59:35Z"
-tags:
-- essay
+tags: ["essay"]
 timeline_notification:
 - "1600923581"
 title: A Boy Who Tells A Joke

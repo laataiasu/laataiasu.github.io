@@ -1,8 +1,6 @@
 ---
 date: "2019-11-12"
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: Hipotesis
 ---
 

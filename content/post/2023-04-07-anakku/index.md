@@ -1,7 +1,6 @@
 ---
 date: "2023-04-07T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Anakku
 ---
 

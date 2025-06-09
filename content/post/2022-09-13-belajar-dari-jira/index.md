@@ -1,8 +1,6 @@
 ---
 date: "2022-09-13T00:00:00Z"
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: Belajar dari Jira
 ---
 

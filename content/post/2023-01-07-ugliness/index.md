@@ -1,7 +1,6 @@
 ---
 date: "2023-01-07"
-tags:
-- story
+tags: ["story"]
 title: Ugliness
 ---
 

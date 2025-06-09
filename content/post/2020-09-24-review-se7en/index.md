@@ -1,8 +1,6 @@
 ---
 date: "2020-09-24T11:47:43Z"
-tags:
-- review
-- film
+tags: ["review", "film"]
 timeline_notification:
 - "1600922867"
 title: Review Se7en

@@ -1,7 +1,6 @@
 ---
 date: "2022-05-05T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Siapa Yang Lebih Dulu Akan Mati?
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: "2021-01-26T10:29:52Z"
-tags:
-- essay
+tags: ["essay"]
 timeline_notification:
 - "1611631796"
 title: The Reasons Why I Like Corruptors

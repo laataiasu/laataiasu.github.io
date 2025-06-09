@@ -1,7 +1,6 @@
 ---
 date: "2023-06-17T00:00:00Z"
-tags:
-- story
+tags: ["story"]
 title: Die Like a Cat
 ---
 

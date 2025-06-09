@@ -1,7 +1,6 @@
 ---
 date: "2020-09-25"
-tags:
-- story
+tags: ["story"]
 title: My Fucked Up Experiment
 ---
 

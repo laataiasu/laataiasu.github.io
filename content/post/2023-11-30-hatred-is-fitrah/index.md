@@ -1,9 +1,6 @@
 ---
 date: "2023-11-30"
-tags:
-- story
-- muslim
-- essay
+tags: ["story", "muslim", "essay"]
 title: "Hatred is 'Fitrah'"
 ---
 

@@ -1,8 +1,6 @@
 ---
 date: "2023-09-05"
-tags:
-- story
-- muslim
+tags: ["story", "muslim"]
 title: "Sakamoto Unmasked: Navigating Tyranny with Elegance"
 ---
 

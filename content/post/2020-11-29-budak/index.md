@@ -1,8 +1,7 @@
 ---
 date: "2020-11-29T11:25:00Z"
 modified_time: "2020-11-29T11:26:04.876-07:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Budak
 ---
 

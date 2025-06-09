@@ -1,8 +1,7 @@
 ---
 date: "2017-12-22T14:31:00Z"
 modified_time: "2020-07-20T19:44:16.624-07:00"
-tags:
-- essay
+tags: ["essay"]
 title: Sudut Pandang Penjahat
 ---
 

@@ -1,8 +1,6 @@
 ---
 date: "2023-01-01T00:00:00Z"
-tags:
-- rhyme
-- story
+tags: ["rhyme", "story"]
 title: Stories from the Heart
 ---
 

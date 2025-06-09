@@ -1,8 +1,6 @@
 ---
 date: "2023-12-08"
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: "Smartband is a pain in the ass"
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: "2023-09-02"
-tags:
-- story
+tags: ["story"]
 title: Illusion is The Fuel
 ---
 

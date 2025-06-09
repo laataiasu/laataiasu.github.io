@@ -1,7 +1,6 @@
 ---
 date: "2019-07-30"
-tags:
-- story
+tags: ["story"]
 title: Beyond Music Is Haram
 ---
 

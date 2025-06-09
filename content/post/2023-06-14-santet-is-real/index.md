@@ -1,8 +1,6 @@
 ---
 date: "2023-06-14T00:00:00Z"
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: Santet is Real
 ---
 

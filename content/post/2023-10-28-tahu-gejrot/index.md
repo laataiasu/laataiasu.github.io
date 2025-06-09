@@ -1,7 +1,6 @@
 ---
 date: "2023-10-28"
-tags:
-- story
+tags: ["story"]
 title: Tahu Gejrot
 ---
 

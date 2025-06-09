@@ -1,10 +1,6 @@
 ---
 date: "2022-08-28T00:00:00Z"
-tags:
-- story
-- book
-- essay
-- review
+tags: ["story", "book", "essay", "review"]
 title: Review The Death of Expertise by Tom Nichols
 ---
 

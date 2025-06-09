@@ -1,9 +1,6 @@
 ---
 date: "2021-03-14T00:00:00Z"
-tags:
-- muslim
-- business
-- essay
+tags: ["muslim", "business", "essay"]
 title: Curhat Tentang Lembaga Dakwah
 ---
 

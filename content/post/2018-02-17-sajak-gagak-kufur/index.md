@@ -1,8 +1,7 @@
 ---
 date: "2018-02-17T15:09:00Z"
 modified_time: "2019-02-03T14:34:56.869-08:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Gagak Kufur
 ---
 

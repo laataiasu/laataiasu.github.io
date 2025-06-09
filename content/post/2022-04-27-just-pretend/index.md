@@ -1,7 +1,6 @@
 ---
 date: "2022-04-27T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Just Pretend
 ---
 

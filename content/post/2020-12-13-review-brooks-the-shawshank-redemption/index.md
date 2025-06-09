@@ -1,9 +1,6 @@
 ---
 date: "2020-12-13T06:22:04Z"
-tags:
-- film
-- review
-- essay
+tags: ["film", "review", "essay"]
 timeline_notification:
 - "1607815342"
 title: Review Brooks, 'The Shawshank Redemption'

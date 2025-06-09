@@ -1,8 +1,6 @@
 ---
 date: "2024-02-25T00:23:43Z"
-tags:
-- review
-- film
+tags: ["review", "film"]
 title: Review All of Us Strangers
 ---
 

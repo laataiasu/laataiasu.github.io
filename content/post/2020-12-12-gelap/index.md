@@ -1,8 +1,7 @@
 ---
 date: "2020-12-12T17:40:00Z"
 modified_time: "2020-12-12T17:40:00.309-08:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Gelap
 ---
 

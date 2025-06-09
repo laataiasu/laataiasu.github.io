@@ -1,7 +1,6 @@
 ---
 date: "2020-08-27T07:25:00Z"
-tags:
-- essay
+tags: ["essay"]
 title: Experience Being Hit by a Motorbike
 ---
 

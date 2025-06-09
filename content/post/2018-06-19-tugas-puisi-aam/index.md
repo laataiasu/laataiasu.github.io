@@ -1,8 +1,7 @@
 ---
 date: "2018-06-19T10:20:00Z"
 modified_time: "2018-07-11T19:33:33.163-07:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Tugas Puisi Kelas 10
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: "2024-02-10"
-tags:
-- story
+tags: ["story"]
 title: "Traceback My Ancestors"
 ---
 

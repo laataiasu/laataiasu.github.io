@@ -1,8 +1,7 @@
 ---
 date: "2019-08-03T00:24:00Z"
 modified_time: "2019-08-03T00:24:28.528-07:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Kertas
 ---
 

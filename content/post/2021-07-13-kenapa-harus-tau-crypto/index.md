@@ -1,10 +1,6 @@
 ---
 date: "2021-07-13T00:00:00Z"
-tags:
-- crypto
-- tech
-- muslim
-- essay
+tags: ["crypto", "tech", "muslim", "essay"]
 title: Kenapa Harus Tau Crypto, Blockchain, dan sejenisnya
 ---
 
@@ -86,7 +82,7 @@ Tiba2 harga pada naik. Minim informasi ditambah kesulitan untuk usaha atau bisni
 
 Tapi kalo ternyata berontak, bakal jadi apa masalahnya? Ya semoga baik2 saja.
 
-#ujung2nya kaya quotes disini, mau kejadian apa2 yang kena justru orang yang gatau apa2
+ujung2nya kaya quotes disini, mau kejadian apa2 yang kena justru orang yang gatau apa2
 
 > **I have a feeling, in a few years people are going to be doing what they always do when the economy tanks. They will be blaming immigrants and poor people. — Big Short**
 > 

@@ -1,9 +1,6 @@
 ---
 date: "2023-08-20"
-tags:
-- story
-- essay
-- muslim
+tags: ["story", "essay", "muslim"]
 title: Dear Budiman Sudjatmiko
 ---
 

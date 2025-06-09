@@ -1,7 +1,6 @@
 ---
 date: "2022-12-31"
-tags:
-- story
+tags: ["story"]
 title: Insights and Lessons from This Year
 ---
 

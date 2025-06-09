@@ -1,10 +1,6 @@
 ---
 date: "2021-02-03T07:52:33Z"
-tags:
-- review
-- film
-- business
-- essay
+tags: ["review", "film", "business", "essay"]
 title: How Can You Not Be Romantic About Baseball?
 ---
 

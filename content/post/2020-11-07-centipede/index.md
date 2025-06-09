@@ -1,7 +1,6 @@
 ---
 date: "2020-11-07T04:32:14Z"
-tags:
-- story
+tags: ["story"]
 title: Centipede
 ---
 Slept with centipedes in the dark was the most awesome thing which I've been experienced.

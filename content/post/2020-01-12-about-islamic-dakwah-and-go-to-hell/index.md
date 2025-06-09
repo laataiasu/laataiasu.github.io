@@ -1,9 +1,6 @@
 ---
 date: "2020-01-12T11:42:46Z"
-tags:
-- business
-- essay
-- muslim
+tags: ["business", "essay", "muslim"]
 timeline_notification:
 - "1600922570"
 title: About Islamic Dawah and Go to Hell

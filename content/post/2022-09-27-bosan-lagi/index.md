@@ -1,7 +1,6 @@
 ---
 date: "2022-09-27T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Bosan lagi
 ---
 

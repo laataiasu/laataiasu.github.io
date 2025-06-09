@@ -1,9 +1,6 @@
 ---
 date: "2020-09-09T00:00:00Z"
-tags:
-- review
-- book
-- horror
+tags: ["review", "book", "horror"]
 title: Review The Most Horror Webtoon
 ---
 

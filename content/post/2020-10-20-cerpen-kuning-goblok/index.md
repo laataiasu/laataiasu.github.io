@@ -1,7 +1,6 @@
 ---
 date: "2020-10-20T00:00:00Z"
-tags:
-- story
+tags: ["story"]
 title: Fiksi Kuning Goblok
 ---
 

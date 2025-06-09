@@ -7,7 +7,7 @@ def convert_tags_block(content):
     def replacer(match):
         lines = match.group(1).strip().splitlines()
         tags = [line.strip().lstrip("-").strip() for line in lines]
-        return f'tags: {tags}'.replace("'", '"')
+        return f'tags: {tags}'.replace("'", '"') + '\n'
 
     return re.sub(pattern, replacer, content)
 

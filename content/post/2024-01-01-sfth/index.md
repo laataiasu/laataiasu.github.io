@@ -1,7 +1,6 @@
 ---
 date: "2024-01-01"
-tags:
-- story
+tags: ["story"]
 title: SFTH
 ---
 

@@ -1,9 +1,6 @@
 ---
 date: "2023-11-01"
-tags:
-- story
-- essay
-- muslim
+tags: ["story", "essay", "muslim"]
 title: "Building Surveillence-Driven System to Understand More about Religion Groups"
 ---
 

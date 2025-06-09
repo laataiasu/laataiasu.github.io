@@ -1,9 +1,6 @@
 ---
 date: "2021-05-22T00:00:00Z"
-tags:
-- essay
-- crypto
-- story
+tags: ["essay", "crypto", "story"]
 title: What The Human Needs
 ---
 

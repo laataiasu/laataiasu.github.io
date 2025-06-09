@@ -1,8 +1,6 @@
 ---
 date: "2021-07-27T00:00:00Z"
-tags:
-- film
-- review
+tags: ["film", "review"]
 title: Cosmos Movie Series Review
 ---
 

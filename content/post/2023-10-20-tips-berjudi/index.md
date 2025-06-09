@@ -1,7 +1,6 @@
 ---
 date: "2023-10-20"
-tags:
-- story
+tags: ["story"]
 title: Tips Untuk Si Lemah Syahwat A.K.A Tukang Judi
 ---
 

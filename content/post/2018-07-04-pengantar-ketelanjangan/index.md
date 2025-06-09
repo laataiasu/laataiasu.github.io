@@ -1,8 +1,7 @@
 ---
 date: "2018-07-04T19:36:00Z"
 modified_time: "2020-07-29T01:51:39.987-07:00"
-tags:
-- essay
+tags: ["essay"]
 title: Pengantar Ketelanjangan
 ---
 

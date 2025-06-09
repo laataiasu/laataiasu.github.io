@@ -1,8 +1,7 @@
 ---
 date: "2014-01-01T00:01:00Z"
 modified_time: "2020-07-20T19:44:17.053-07:00"
-tags:
-- intro
+tags: ["intro"]
 title: Awal
 ---
 

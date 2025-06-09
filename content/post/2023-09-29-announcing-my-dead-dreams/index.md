@@ -1,8 +1,6 @@
 ---
 date: "2023-10-02"
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: Announcing My Dead Dreams
 ---
 

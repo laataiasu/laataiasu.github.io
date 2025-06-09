@@ -1,8 +1,6 @@
 ---
 date: "2020-11-10"
-tags:
-- review
-- film
+tags: ["review", "film"]
 title: Review Economic Films
 ---
 

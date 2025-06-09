@@ -1,9 +1,6 @@
 ---
 date: "2021-01-16T17:06:52Z"
-tags:
-- film
-- review
-- essay
+tags: ["film", "review", "essay"]
 title: Midsommar, The Heaven for Everyone
 ---
 All environmentalist or Marxist or someone who strive for Utopia should follow this community,

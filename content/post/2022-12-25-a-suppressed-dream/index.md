@@ -1,8 +1,6 @@
 ---
 date: "2022-12-25T00:00:00Z"
-tags:
-- muslim
-- story
+tags: ["muslim", "story"]
 title: A Suppressed Dream
 ---
 

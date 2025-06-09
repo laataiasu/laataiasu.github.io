@@ -1,9 +1,6 @@
 ---
 date: "2020-09-18T15:37:01Z"
-tags:
-- essay
-- tech
-- pseudocomedy
+tags: ["essay", "tech", "pseudocomedy"]
 timeline_notification:
 - "1600418225"
 title: Waking Up an Outdated Version of Intelligence

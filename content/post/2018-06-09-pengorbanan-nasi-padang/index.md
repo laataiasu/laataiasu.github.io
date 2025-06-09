@@ -1,8 +1,7 @@
 ---
 date: "2018-06-09T09:57:00Z"
 modified_time: "2020-07-20T19:44:16.044-07:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Pengorbanan Nasi Padang
 ---
 

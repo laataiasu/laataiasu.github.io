@@ -1,8 +1,6 @@
 ---
 date: "2020-07-24T11:08:57Z"
-tags:
-- film
-- review
+tags: ["film", "review"]
 title: Brief Review Kdrama
 ---
 

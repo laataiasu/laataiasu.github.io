@@ -1,9 +1,6 @@
 ---
 date: "2022-07-17T00:00:00Z"
-tags:
-- story
-- essay
-- tech
+tags: ["story", "essay", "tech"]
 title: Habis Nikahan Kakak
 ---
 

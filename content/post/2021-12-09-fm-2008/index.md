@@ -1,9 +1,6 @@
 ---
 date: "2021-12-09T00:00:00Z"
-tags:
-- muslim
-- essay
-- story
+tags: ["muslim", "essay", "story"]
 title: Football Manager 2008
 ---
 

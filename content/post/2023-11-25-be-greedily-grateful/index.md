@@ -1,7 +1,6 @@
 ---
 date: "2023-11-25"
-tags:
-- story
+tags: ["story"]
 title: We can always be greedily grateful
 ---
 

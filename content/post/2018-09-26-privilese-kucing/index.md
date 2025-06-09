@@ -1,7 +1,6 @@
 ---
 date: "2018-09-26"
-tags:
-- story
+tags: ["story"]
 title: "Privilese Kucing dalam Mengusir Nihilisme dan Menemukan Keseimbangan"
 ---
 

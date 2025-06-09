@@ -1,7 +1,6 @@
 ---
 date: "2021-12-10T00:00:00Z"
-tags:
-- muslim
+tags: ["muslim"]
 title: Penuntut Ilmu Laduni
 ---
 

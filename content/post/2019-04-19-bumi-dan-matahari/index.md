@@ -1,8 +1,7 @@
 ---
 date: "2019-04-19T11:11:00Z"
 modified_time: "2019-04-19T11:11:12.243-07:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Bumi dan Matahari
 ---
 

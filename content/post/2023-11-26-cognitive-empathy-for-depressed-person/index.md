@@ -1,7 +1,6 @@
 ---
 date: "2023-11-26"
-tags:
-- story
+tags: ["story"]
 title: "Cognitive Empathy For Depression"
 ---
 

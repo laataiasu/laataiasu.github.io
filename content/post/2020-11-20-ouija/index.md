@@ -1,9 +1,6 @@
 ---
 date: "2020-11-20T10:01:13Z"
-tags:
-- story
-- horror
-- muslim
+tags: ["story", "horror", "muslim"]
 timeline_notification:
 - "1605841331"
 title: Ouija

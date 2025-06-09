@@ -1,7 +1,6 @@
 ---
 date: "2022-11-13T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Pick Me Boy
 ---
 

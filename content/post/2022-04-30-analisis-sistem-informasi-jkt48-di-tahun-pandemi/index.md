@@ -1,10 +1,6 @@
 ---
 date: "2022-04-30T00:00:00Z"
-tags:
-- ngidol
-- business
-
-- essay
+tags: ["ngidol", "business", "", "essay"]
 title: Analisis Sistem Informasi JKT48 di Tahun Pandemi
 ---
 

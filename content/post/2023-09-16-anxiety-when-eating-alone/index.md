@@ -1,9 +1,6 @@
 ---
 date: "2023-09-16"
-tags:
-- story
-- book
-- film
+tags: ["story", "book", "film"]
 title: Social Anxiety When Dining Alone in Restaurants
 ---
 

@@ -1,8 +1,6 @@
 ---
 date: "2021-08-28T00:00:00Z"
-tags:
-- review
-- book
+tags: ["review", "book"]
 title: Review A Guide to Wealth and Happiness — Naval Ravikant
 ---
 

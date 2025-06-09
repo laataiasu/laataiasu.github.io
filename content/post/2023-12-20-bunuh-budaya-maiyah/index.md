@@ -1,8 +1,6 @@
 ---
 date: "2023-12-20"
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: Bunuhlah Budaya Bau Tanah Itu!
 ---
 

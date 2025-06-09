@@ -1,7 +1,6 @@
 ---
 date: "2020-09-12T06:48:16Z"
-tags:
-- essay
+tags: ["essay"]
 title: Indefinite optimism
 ---
 Always repeated and not necessarily be traced because that's what people looking for, isn't it? happiness?

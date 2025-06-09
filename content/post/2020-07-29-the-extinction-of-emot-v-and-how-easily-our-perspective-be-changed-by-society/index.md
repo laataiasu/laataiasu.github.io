@@ -1,7 +1,6 @@
 ---
 date: "2020-07-29T15:00:45Z"
-tags:
-- essay
+tags: ["essay"]
 title: The extinction of emot :v and how easily our perspective be changed by society
 ---
 I don't want to talk about the history of the popularity of emot ":v" or as we called pacman emoticon because there's a lot of written about that such this,

@@ -1,8 +1,6 @@
 ---
 date: "2020-12-04T08:14:31Z"
-tags:
-- review
-- film
+tags: ["review", "film"]
 timeline_notification:
 - "1607044521"
 title: Nosy Loli Review

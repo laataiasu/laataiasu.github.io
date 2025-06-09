@@ -1,8 +1,6 @@
 ---
 date: "2024-01-09"
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: Blind Positivity
 ---
 

@@ -1,9 +1,6 @@
 ---
 date: "2023-04-24"
-tags:
-- story
-- essay
-- book
+tags: ["story", "essay", "book"]
 title: "4 Quadrants of Optimism and Pessimism"
 ---
 

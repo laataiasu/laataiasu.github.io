@@ -1,7 +1,6 @@
 ---
 date: "2017-10-01T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Mengapa Kebenaran
 ---
 

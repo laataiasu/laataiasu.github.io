@@ -1,9 +1,6 @@
 ---
 date: "2021-08-28T00:00:00Z"
-tags:
-- book
-- review
-- business
+tags: ["book", "review", "business"]
 title: Review Start-up Nation — Dan Senor and Saul Singer
 ---
 

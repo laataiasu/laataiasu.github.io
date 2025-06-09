@@ -1,8 +1,6 @@
 ---
 date: 2024-01-28
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: After Arsjad Rasyid Endgame Podcast
 ---
 

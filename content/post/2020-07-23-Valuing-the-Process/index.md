@@ -1,7 +1,6 @@
 ---
 date: "2020-07-23T00:00:00Z"
-tags:
-- essay
+tags: ["essay"]
 title: Valuing the Process and the Beauty of Futility
 ---
 

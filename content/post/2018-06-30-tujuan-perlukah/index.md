@@ -1,8 +1,7 @@
 ---
 date: "2018-06-30T04:46:00Z"
 modified_time: "2020-07-29T01:48:37.474-07:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Tujuan, perlukah ?
 ---
 

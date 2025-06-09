@@ -1,7 +1,6 @@
 ---
 date: "2021-06-23T00:00:00Z"
-tags:
-- essay
+tags: ["essay"]
 title: 'The Illusion of Money: Exploring Ideology, Social Proof, and Economic Disparities'
 ---
 

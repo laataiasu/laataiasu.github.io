@@ -1,9 +1,6 @@
 ---
 date: "2020-02-09T00:00:00Z"
-tags:
-- crypto
-- muslim
-- tech
+tags: ["crypto", "muslim", "tech"]
 title: Referensi Bitcoin (archieved)
 ---
 

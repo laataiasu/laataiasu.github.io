@@ -1,8 +1,6 @@
 ---
 date: "2023-08-10"
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: Mahasiswa Modern dan Demo Buruh
 ---
 

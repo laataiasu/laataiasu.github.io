@@ -1,8 +1,6 @@
 ---
 date: "2021-01-26T19:22:02Z"
-tags:
-- essay
-- business
+tags: ["essay", "business"]
 timeline_notification:
 - "1611663726"
 title: The Reason Why I Like Bullying

@@ -1,7 +1,6 @@
 ---
 date: "2018-01-01"
-tags:
-- story
+tags: ["story"]
 title: "Pembuangan dan Ilusi Usaha Pemenuhan Waktu di Dunia yang Kompleks"
 ---
 

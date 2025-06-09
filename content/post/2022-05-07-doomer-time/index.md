@@ -1,7 +1,6 @@
 ---
 date: "2022-05-07T00:00:00Z"
-tags:
-- meme
+tags: ["meme"]
 title: Doomer Time
 ---
 

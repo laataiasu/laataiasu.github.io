@@ -1,9 +1,6 @@
 ---
 date: "2021-08-27T00:00:00Z"
-tags:
-- book
-- review
-- business
+tags: ["book", "review", "business"]
 title: Review Liar's Poker by Michael Lewis
 ---
  

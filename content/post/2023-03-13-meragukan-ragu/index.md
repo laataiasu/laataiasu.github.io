@@ -1,7 +1,6 @@
 ---
 date: "2023-03-13T00:00:00Z"
-tags:
-- story
+tags: ["story"]
 title: Meragukan Ragu
 ---
 

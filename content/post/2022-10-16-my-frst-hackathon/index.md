@@ -1,8 +1,6 @@
 ---
 date: "2022-10-16T00:00:00Z"
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: My First Hackathon
 ---
 

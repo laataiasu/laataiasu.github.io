@@ -1,7 +1,6 @@
 ---
 date: "2023-10-23"
-tags:
-- story
+tags: ["story"]
 title: I Missed My prayer
 ---
 

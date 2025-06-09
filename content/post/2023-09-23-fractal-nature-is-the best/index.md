@@ -1,8 +1,6 @@
 ---
 date: "2023-09-23"
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: "The Fallacy of Fractal ~ Nature Is the Best"
 ---
 

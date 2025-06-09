@@ -1,7 +1,6 @@
 ---
 date: "2024-02-29"
-tags:
-- story
+tags: ["story"]
 title: Burden of Giftedness
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: "2022-06-03T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Bisikan Setan Belajar Ujian
 ---
 

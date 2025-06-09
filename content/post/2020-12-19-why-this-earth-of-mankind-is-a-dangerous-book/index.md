@@ -1,9 +1,6 @@
 ---
 date: "2020-12-19T18:23:20Z"
-tags:
-- book
-- essay
-- review
+tags: ["book", "essay", "review"]
 timeline_notification:
 - "1608377166"
 title: Why This Earth Of Mankind Is A Dangerous Book

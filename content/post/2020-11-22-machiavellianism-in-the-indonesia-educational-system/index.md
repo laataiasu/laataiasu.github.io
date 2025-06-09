@@ -1,9 +1,6 @@
 ---
 date: "2020-11-22T03:52:07Z"
-tags:
-- film
-- review
-- essay
+tags: ["film", "review", "essay"]
 timeline_notification:
 - "1605991931"
 title: Machiavellianism in Any Educational System

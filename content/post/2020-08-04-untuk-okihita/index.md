@@ -1,7 +1,6 @@
 ---
 date: "2020-08-04T00:00:00Z"
-tags:
-- story
+tags: ["story"]
 title: Untuk Okihita
 ---
 

@@ -1,9 +1,6 @@
 ---
 date: "2016-06-06"
-tags:
-- story
-- muslim
-- pseudocomedy
+tags: ["story", "muslim", "pseudocomedy"]
 title: "Dissonance of Religious Practice"
 ---
 

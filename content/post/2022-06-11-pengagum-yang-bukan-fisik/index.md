@@ -1,7 +1,6 @@
 ---
 date: "2022-06-11T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Pengagum Yang Bukan Fisik
 ---
 

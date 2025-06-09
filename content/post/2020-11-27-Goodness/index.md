@@ -1,7 +1,6 @@
 ---
 date: "2020-11-27T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Goodness
 ---
 

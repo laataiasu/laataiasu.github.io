@@ -1,8 +1,7 @@
 ---
 date: "2018-12-23T15:00:00Z"
 modified_time: "2020-08-04T19:08:19.051-07:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Bapa Sudah Lama Pensiun
 ---
 

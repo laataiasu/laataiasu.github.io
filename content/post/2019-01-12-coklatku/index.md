@@ -1,8 +1,7 @@
 ---
 date: "2019-01-12T03:17:00Z"
 modified_time: "2019-02-03T14:27:08.932-08:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Coklatku
 ---
 

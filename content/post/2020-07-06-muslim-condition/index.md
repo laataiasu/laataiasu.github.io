@@ -1,9 +1,6 @@
 ---
 date: "2020-07-06T17:23:09Z"
-tags:
-- muslim
-- essay
-- story
+tags: ["muslim", "essay", "story"]
 title: Muslim condition
 ---
 <div class="wp-block-image">

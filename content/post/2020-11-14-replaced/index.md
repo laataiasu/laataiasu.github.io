@@ -1,10 +1,6 @@
 ---
 date: "2020-11-14T05:40:45Z"
-tags:
-- essay
-- business
-- pseudocomedy
-- tech
+tags: ["essay", "business", "pseudocomedy", "tech"]
 timeline_notification:
 - "1605307249"
 title: Replaced

@@ -1,7 +1,6 @@
 ---
 date: "2018-11-23"
-tags:
-- story
+tags: ["story"]
 title: "Kesenangan yang Kehilangan Arah: Meniti Jejak Emir dalam Kegelapan"
 ---
 

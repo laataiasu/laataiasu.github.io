@@ -1,7 +1,6 @@
 ---
 date: "2023-06-19T00:00:00Z"
-tags:
-- essay
+tags: ["essay"]
 title: The Illusion of Uniqueness
 ---
 

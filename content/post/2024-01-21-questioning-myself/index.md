@@ -1,7 +1,6 @@
 ---
 date: "2024-01-21"
-tags:
-- story
+tags: ["story"]
 title: Options To Ask Myself
 ---
 

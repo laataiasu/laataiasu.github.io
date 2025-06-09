@@ -1,9 +1,6 @@
 ---
 date: "2023-10-28"
-tags:
-- story
-- essay
-- muslim
+tags: ["story", "essay", "muslim"]
 title: "Empowerment, Beauty, and the Shifting Paradigm: A Reflection on Standards"
 ---
 

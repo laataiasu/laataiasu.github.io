@@ -1,9 +1,6 @@
 ---
 date: "2021-08-21T00:00:00Z"
-tags:
-- review
-- business
-- book
+tags: ["review", "business", "book"]
 title: Review Zero to One by Peter Thiel
 ---
 

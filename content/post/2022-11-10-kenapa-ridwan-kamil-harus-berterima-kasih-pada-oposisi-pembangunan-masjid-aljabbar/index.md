@@ -1,9 +1,6 @@
 ---
 date: "2022-11-10T11:42:46Z"
-tags:
-- business
-- essay
-- muslim
+tags: ["business", "essay", "muslim"]
 title: Kritik, Prioritas, dan Pengambilan Keputusan Ridwan Kamil terhadap Masjid Al-Jabbar
 ---
 

@@ -1,10 +1,6 @@
 ---
 date: "2023-02-01T11:42:46Z"
-tags:
-- essay
-- muslim
-- review
-- film
+tags: ["essay", "muslim", "review", "film"]
 title: The Turkey Problem in Gen-Z
 ---
 

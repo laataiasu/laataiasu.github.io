@@ -1,9 +1,6 @@
 ---
 date: "2022-12-10T00:00:00Z"
-tags:
-- story
-- review
-- book
+tags: ["story", "review", "book"]
 title: Humor and Love Part 1
 ---
 

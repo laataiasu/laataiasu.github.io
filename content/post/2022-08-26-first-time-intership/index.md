@@ -1,7 +1,6 @@
 ---
 date: "2022-08-26T00:00:00Z"
-tags:
-- story
+tags: ["story"]
 title: First Time Intership
 ---
 

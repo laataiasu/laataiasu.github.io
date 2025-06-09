@@ -1,8 +1,6 @@
 ---
 date: "2019-11-12"
-tags:
-- story
-- wander
+tags: ["story", "wander"]
 title: Beyond Music is Haram
 ---
 

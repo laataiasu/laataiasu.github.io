@@ -1,7 +1,6 @@
 ---
 date: "2021-12-30T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Gorengan
 ---
 

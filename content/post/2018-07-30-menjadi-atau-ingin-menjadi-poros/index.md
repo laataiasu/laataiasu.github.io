@@ -1,8 +1,7 @@
 ---
 date: "2018-07-30T05:33:00Z"
 modified_time: "2019-02-03T14:31:52.982-08:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Menjadi atau Ingin Menjadi Poros
 ---
 

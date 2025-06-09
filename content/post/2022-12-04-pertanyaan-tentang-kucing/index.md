@@ -1,7 +1,6 @@
 ---
 date: "2022-12-04T00:00:00Z"
-tags:
-- story
+tags: ["story"]
 title: Pertanyaan Tentang Kucing
 ---
 

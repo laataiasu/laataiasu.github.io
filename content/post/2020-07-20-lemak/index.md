@@ -1,8 +1,7 @@
 ---
 date: "2020-07-20T20:08:00Z"
 modified_time: "2020-07-20T20:08:47.511-07:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Lemak
 ---
 ```text

@@ -1,11 +1,7 @@
 ---
 date: "2021-04-13T00:00:00Z"
 description: snowden bukan pahlawan
-tags:
-- crypto
-- tech
-- muslim
-- essay
+tags: ["crypto", "tech", "muslim", "essay"]
 title: Snowden Is Not a Hero
 ---
 

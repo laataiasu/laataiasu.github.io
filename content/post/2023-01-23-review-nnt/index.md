@@ -1,8 +1,6 @@
 ---
 date: "2023-01-23T00:00:00Z"
-tags:
-- book
-- review
+tags: ["book", "review"]
 title: Review NNT
 ---
 

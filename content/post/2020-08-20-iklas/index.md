@@ -1,8 +1,7 @@
 ---
 date: "2020-08-20T16:56:00Z"
 modified_time: "2020-08-25T18:30:45.524-07:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Iklas
 ---
 

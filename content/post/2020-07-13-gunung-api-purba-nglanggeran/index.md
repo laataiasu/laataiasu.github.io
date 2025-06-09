@@ -1,7 +1,6 @@
 ---
 date: "2020-07-13T09:03:55Z"
-tags:
-- wander
+tags: ["wander"]
 timeline_notification:
 - "1598065140"
 title: Gunung Api Purba Nglanggeran

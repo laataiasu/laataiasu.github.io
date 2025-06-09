@@ -1,9 +1,6 @@
 ---
 date: "2023-09-06"
-tags:
-- story
-- muslim
-- essay
+tags: ["story", "muslim", "essay"]
 title: "The Fallacy of Effectiveness and Kemubaziran"
 ---
 

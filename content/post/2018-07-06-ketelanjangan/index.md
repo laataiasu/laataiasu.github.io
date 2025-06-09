@@ -1,8 +1,7 @@
 ---
 date: "2018-07-06T18:47:00Z"
 modified_time: "2020-07-29T02:13:06.932-07:00"
-tags:
-- essay
+tags: ["essay"]
 title: 'Ketelanjangan'
 ---
 

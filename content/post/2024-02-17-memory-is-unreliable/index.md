@@ -1,9 +1,6 @@
 ---
 date: "2024-02-17"
-tags:
-- story
-- essay
-- muslim
+tags: ["story", "essay", "muslim"]
 title: Memory is Unreliable
 ---
 

@@ -1,9 +1,6 @@
 ---
 date: "2023-10-14"
-tags:
-- story
-- essay
-- muslim
+tags: ["story", "essay", "muslim"]
 title: Throw your ethics into the trash can!
 ---
 

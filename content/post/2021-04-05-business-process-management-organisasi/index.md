@@ -1,8 +1,6 @@
 ---
 date: "2021-04-05T00:00:00Z"
-tags:
-- muslim
-- essay
+tags: ["muslim", "essay"]
 title: Business Process Modeling Organisasi
 ---
 

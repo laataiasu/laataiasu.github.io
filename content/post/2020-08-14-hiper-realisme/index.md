@@ -1,8 +1,7 @@
 ---
 date: "2020-08-14T11:25:00Z"
 modified_time: "2020-08-24T11:26:04.876-07:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Hiper realisme
 ---
 

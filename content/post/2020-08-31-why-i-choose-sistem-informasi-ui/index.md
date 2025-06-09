@@ -1,7 +1,6 @@
 ---
 date: "2020-08-31T20:19:17Z"
-tags:
-- cs/is
+tags: ["cs/is"]
 title: Why I Choose SI UI
 ---
 Actually while I enrolling SBMPTN I didn't know about this field. At first I want to go to STEI ITB because the student only choose the facculty, not the field. I want to go there because I didn't know about what my passion is so that I could relearn about high school topics such as fundamental of Math, Physics, and Chemistry first at the first year together with arranging plan and consider about any other field at that facculty. But when I enrolled in SNMPTN I wasn't accepted at STEI ITB. Gratefully, after I learnt for approximately 1 month I am accepted in SI UI with SBMPTN path. And these are my reasons for choosing Information System in continuing my education.

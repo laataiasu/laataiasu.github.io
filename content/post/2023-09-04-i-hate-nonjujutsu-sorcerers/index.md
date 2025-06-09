@@ -1,8 +1,6 @@
 ---
 date: "2023-09-04"
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: I miss JIRA and I Hate Non-jujutsu Sorcerers
 ---
 

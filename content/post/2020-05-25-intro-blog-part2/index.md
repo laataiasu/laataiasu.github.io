@@ -1,7 +1,6 @@
 ---
 date: "2020-05-25"
-tags:
-- story
+tags: ["story"]
 title: Intro Blog Part 2
 ---
 

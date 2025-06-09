@@ -1,7 +1,6 @@
 ---
 date: "2023-07-10"
-tags:
-- film
+tags: ["film"]
 title: Or You Live Long Enough To See Yourself Become Meme, or Running a White Woman's Instagram
 ---
 

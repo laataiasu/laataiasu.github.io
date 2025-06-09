@@ -1,8 +1,6 @@
 ---
 date: "2024-01-14"
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: The Ultimate Form of Love Is Hate
 ---
 

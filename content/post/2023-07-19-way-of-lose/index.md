@@ -1,7 +1,6 @@
 ---
 date: "2023-07-19T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Jalan Kepengecutan
 ---
 

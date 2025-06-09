@@ -1,7 +1,6 @@
 ---
 date: "2023-12-29"
-tags:
-- story
+tags: ["story"]
 title: Mengapa Dionysus?
 ---
 

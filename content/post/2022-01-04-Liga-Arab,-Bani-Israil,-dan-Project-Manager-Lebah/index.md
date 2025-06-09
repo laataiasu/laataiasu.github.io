@@ -1,9 +1,6 @@
 ---
 date: "2022-01-04T00:00:00Z"
-tags:
-- muslim
-- business
-- essay
+tags: ["muslim", "business", "essay"]
 title: Liga Arab, Bani Israil, dan Project Manager Lebah
 ---
 

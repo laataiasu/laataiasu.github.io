@@ -1,9 +1,6 @@
 ---
 date: "2021-02-09T11:05:24Z"
-tags:
-- review
-- film
-- essay
+tags: ["review", "film", "essay"]
 timeline_notification: null
 title: Short-Term Profit of 'From Up on Poppy Hill'
 ---

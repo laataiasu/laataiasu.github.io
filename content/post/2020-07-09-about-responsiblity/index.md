@@ -1,8 +1,6 @@
 ---
 date: "2020-08-26"
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: Responsibility and Expectations of Sap
 ---
 

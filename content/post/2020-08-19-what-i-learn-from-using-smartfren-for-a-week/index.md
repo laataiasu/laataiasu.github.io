@@ -1,7 +1,6 @@
 ---
 date: "2020-08-19T23:29:30Z"
-tags:
-- essay
+tags: ["essay"]
 title: What I Learn from Using Smartfren for a Week
 ---
 Warning!!! Don't read it if you don't want to waste your time

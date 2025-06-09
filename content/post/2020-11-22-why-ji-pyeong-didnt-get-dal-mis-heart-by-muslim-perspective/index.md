@@ -1,8 +1,6 @@
 ---
 date: "2020-11-22T20:19:41Z"
-tags:
-- film
-- review
+tags: ["film", "review"]
 timeline_notification:
 - "1612851717"
 title: Why Ji-Pyeong Didn't Get Dal Mi's Heart By Muslim Perspective

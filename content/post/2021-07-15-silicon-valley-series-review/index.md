@@ -1,10 +1,6 @@
 ---
 date: "2021-07-15T11:42:46Z"
-tags:
-- film
-- review
-- business
-- tech
+tags: ["film", "review", "business", "tech"]
 title: Silicon Valley Series Review
 ---
 

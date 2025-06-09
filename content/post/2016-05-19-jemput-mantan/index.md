@@ -1,7 +1,6 @@
 ---
 date: "2016-05-19"
-tags:
-- story
+tags: ["story"]
 title: "Menunggu Ia yang Tak Perlu Dijemput"
 ---
 

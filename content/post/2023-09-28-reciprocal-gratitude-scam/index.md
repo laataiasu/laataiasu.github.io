@@ -1,8 +1,6 @@
 ---
 date: "2023-09-16"
-tags:
-- story
-- essay
+tags: ["story", "essay"]
 title: Reciprocal Gratitude Scam
 ---
 

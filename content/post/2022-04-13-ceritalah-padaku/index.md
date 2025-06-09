@@ -1,7 +1,6 @@
 ---
 date: "2022-04-13T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Ceritalah Padaku
 ---
 ```text

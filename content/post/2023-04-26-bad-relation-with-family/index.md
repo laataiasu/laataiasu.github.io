@@ -1,7 +1,6 @@
 ---
 date: "2023-04-26"
-tags:
-- story
+tags: ["story"]
 title: Reason Why I Am Not Close With My Family
 ---
 

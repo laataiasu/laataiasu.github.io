@@ -1,7 +1,6 @@
 ---
 date: "2023-02-09T00:00:00Z"
-tags:
-- story
+tags: ["story"]
 title: Mother Nature
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: "2023-05-03T00:00:00Z"
-tags:
-- story
+tags: ["story"]
 title: My heaven
 ---
 

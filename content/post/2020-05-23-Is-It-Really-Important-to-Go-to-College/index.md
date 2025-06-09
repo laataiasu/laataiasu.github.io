@@ -1,7 +1,6 @@
 ---
 date: "2020-05-22T00:00:00Z"
-tags:
-- cs/is
+tags: ["cs/is"]
 title: Is It Really Important to Go to College?
 ---
 

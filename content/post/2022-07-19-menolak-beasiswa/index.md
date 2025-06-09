@@ -1,7 +1,6 @@
 ---
 date: "2022-07-19T00:00:00Z"
-tags:
-- essay
+tags: ["essay"]
 title: Menolak Beasiswa
 ---
 

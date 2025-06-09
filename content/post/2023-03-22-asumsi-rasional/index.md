@@ -1,8 +1,6 @@
 ---
 date: "2023-03-22T00:00:00Z"
-tags:
-- story
-- rhyme
+tags: ["story", "rhyme"]
 title: Asumsi Rasional
 ---
 

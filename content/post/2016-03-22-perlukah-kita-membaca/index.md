@@ -1,7 +1,6 @@
 ---
 date: "2016-03-22"
-tags:
-- essay
+tags: ["essay"]
 title: "Keberagamaan dan Relevansi Membaca: Perlukah?"
 ---
 

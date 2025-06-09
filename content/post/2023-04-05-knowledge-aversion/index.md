@@ -1,7 +1,6 @@
 ---
 date: "2023-04-05T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Knowledge Aversion or The Dawn of Pacman
 ---
 

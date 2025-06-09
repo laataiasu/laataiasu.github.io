@@ -1,8 +1,6 @@
 ---
 date: "2020-05-19T00:00:00Z"
-tags:
-- intro
-- muslim
+tags: ["intro", "muslim"]
 title: History of this blog
 ---
 

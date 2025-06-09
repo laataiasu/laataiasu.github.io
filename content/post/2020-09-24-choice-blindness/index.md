@@ -1,8 +1,6 @@
 ---
 date: "2020-09-24T11:42:46Z"
-tags:
-- essay
-- pseudocomedy
+tags: ["essay", "pseudocomedy"]
 timeline_notification:
 - "1600922570"
 title: Choice Blindness

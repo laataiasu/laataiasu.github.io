@@ -1,7 +1,6 @@
 ---
 date: "2017-07-07T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Puisi Dikala Sedang Engas
 ---
 

@@ -1,9 +1,6 @@
 ---
 date: "2019-12-07T00:00:00Z"
-tags:
-- film
-- review
-- essay
+tags: ["film", "review", "essay"]
 title: 'The Network Effect Dilemma: Lessons from LinkedIn and Parasite'
 ---
 

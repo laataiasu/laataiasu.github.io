@@ -1,7 +1,6 @@
 ---
 date: "2018-05-19"
-tags:
-- story
+tags: ["story"]
 title: "Seeking Redemption: A Journey from Lost Faith to Humanitarian Awakening"
 ---
 

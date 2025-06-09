@@ -1,7 +1,6 @@
 ---
 date: "2023-07-06"
-tags:
-- essay
+tags: ["essay"]
 title: "From Scarcity to Abundance, Culture of Competition and Imitation"
 ---
 

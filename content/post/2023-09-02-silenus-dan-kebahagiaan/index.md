@@ -1,9 +1,6 @@
 ---
 date: "2023-09-02"
-tags:
-- story
-- essay
-- book
+tags: ["story", "essay", "book"]
 title: Silenus dan Kebahagiaan
 ---
 

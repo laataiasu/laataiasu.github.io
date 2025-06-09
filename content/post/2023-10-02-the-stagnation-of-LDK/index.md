@@ -1,9 +1,6 @@
 ---
 date: "2023-10-02"
-tags:
-- story
-- essay
-- muslim
+tags: ["story", "essay", "muslim"]
 title: The Stagnation of LDK and Many College Organizations
 ---
 

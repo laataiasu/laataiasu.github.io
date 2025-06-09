@@ -1,7 +1,6 @@
 ---
 date: 2019-11-30
-tags:
-- story
+tags: ["story"]
 title: Broken Promise of Writing Everyday
 ---
 

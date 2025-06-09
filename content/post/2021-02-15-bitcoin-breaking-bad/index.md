@@ -1,10 +1,6 @@
 ---
 date: "2021-02-15T00:03:51Z"
-tags:
-- crypto
-- film
-- review
-- essay
+tags: ["crypto", "film", "review", "essay"]
 timeline_notification:
 - "1613322235"
 title: Bitcoin & Breaking Bad

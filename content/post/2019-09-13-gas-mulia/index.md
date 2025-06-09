@@ -1,7 +1,6 @@
 ---
 date: "2019-09-13T00:00:00Z"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Gas Mulia
 ---
 

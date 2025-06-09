@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a74eb70661bf346c",
+        "id": "f05b1c6364835a50",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d8e45750cbe8c1",
+            "id": "2157473e6a3858ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2024-01-17-un-pluviophile/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -161,8 +165,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97b4113916cfb6a0",
+  "active": "2157473e6a3858ec",
   "lastOpenFiles": [
+    "content/post/0000-xx-xx-title/template.md",
+    "content/post/0000-xx-xx-title",
+    "content/_draft/masjid.md",
+    "themes/PaperMod/README.md",
+    "content/_draft/hitchhiker terms.md",
+    "content/post/2023-12-08-stupid-singularity/index.md",
     "2025-06-09.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -184,7 +194,6 @@
     "content/post/diary/2025-05-27.md",
     "content/post/diary/2025-05-26.md",
     "content/post/diary/2025-05-25.md",
-    "content/post/diary/2025-01-06.md",
-    "2025-01-06.md"
+    "content/post/diary/2025-01-06.md"
   ]
 }

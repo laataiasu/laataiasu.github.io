@@ -1,8 +1,7 @@
 ---
 date: "2019-08-03T00:26:00Z"
 modified_time: "2019-08-03T00:26:47.942-07:00"
-tags:
-- rhyme
+tags: ["rhyme"]
 title: Gunung Kebencian
 ---
 
