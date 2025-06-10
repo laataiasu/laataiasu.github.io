@@ -12,7 +12,7 @@ skin in the game
 
 bed of procustes
 
-titik balik ga? gatau anying hoream, masih banyak downsidenya dibanding upside, masih coward, mau ttp diteken apa jadi asshole? gatau aokwoakwoakwok idiot sumpah ini asshole nikolas taleb. 
+titik balik ga? gatau anying hoream, masih banyak downsidenya dibanding upside, masih coward, mau ttp diteken apa jadi asshole? gatau aokwoakwoakwok idiot sumpah ini asshole [[Nassim Nicholas Taleb|nikolas taleb]]. 
 
 kenapa aing suka bukunya? ada nietzsche, nyinggung alghazali, ibnu rusydi, mitologi yunani aneh-aneh, plato, filsafat tapi trader dan statistik cok, kurang seru apa coba. wibu nerd anjing ga guna sampah masyarakat, lebanon katanya penuh perang, kakeknya gubernur, tapi dapet gawe gimana caranya. nitze (susah nulisnya cuk) dapet duit darimana anying nulis gitu-gituan, bisa baca banyak gitu gimana caranya, connecting the dots banyak-banyak. aing aja belajar bahasa arab pas sd cmn inget sobaul khoir masaul hoir, nnuuuurrrr. 
 

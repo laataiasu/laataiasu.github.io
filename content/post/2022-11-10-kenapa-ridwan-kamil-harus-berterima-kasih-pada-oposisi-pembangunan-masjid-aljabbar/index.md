@@ -20,7 +20,7 @@ Contoh, perusahaan-perusahaan yang dunia-oriented umumnya berorientasi pada data
 
 Saya menantang para penceramah untuk memberikan umpan balik kepada jemaah setelah ceramah, menggunakan skala likert yang sederhana, seperti seberapa bermanfaat ceramahnya, apakah jemaah mendengarkan atau tidur, apakah ceramah tersebut relevan dengan zaman sekarang, dan apakah ada saran topik untuk ceramah selanjutnya? 
 
-Jika Nabi Muhammad hidup di zaman ini, ia mungkin akan mengikuti pendekatan berbasis data dalam memimpin organisasi, bisnis, dan sejenisnya. Pendekatan ini akan memudahkan pertanggungjawaban terhadap segala sesuatu, termasuk menggunakan alat seperti Balance Scorecard. Dengan pendekatan berbasis data, lebih mudah untuk mempertanggungjawabkan segala hal (meskipun tetap membutuhkan pembangunan infrastruktur IT dan sebagainya).
+Jika Nabi [[Muhammad]] hidup di zaman ini, ia mungkin akan mengikuti pendekatan berbasis data dalam memimpin organisasi, bisnis, dan sejenisnya. Pendekatan ini akan memudahkan pertanggungjawaban terhadap segala sesuatu, termasuk menggunakan alat seperti Balance Scorecard. Dengan pendekatan berbasis data, lebih mudah untuk mempertanggungjawabkan segala hal (meskipun tetap membutuhkan pembangunan infrastruktur IT dan sebagainya).
 
 Dengan pendekatan yang lebih konkret dalam manajemen masjid, pengelolaan masjid tidak hanya menjadi tanggung jawab orang pinggiran yang dijadikan pilihan terakhir. Jika Indonesia memiliki banyak orang yang memiliki latar belakang administrasi bisnis, manajemen, dan IT yang bersedia menjadi marbot masjid, hal ini dapat membantu menekan terorisme dan meningkatkan keterampilan manusia (Akan dibahas lain waktu).
 

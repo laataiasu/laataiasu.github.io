@@ -55,3 +55,8 @@ https://nikeinsights.famguardian.org/forums/topic/why-jews-use-pornography-to-we
 https://www.haaretz.com/life/2017-06-04/ty-article-magazine/.premium/israeli-porn-is-booming-and-the-industry-insists-its-about-more-than-just-sex/0000017f-e161-d38f-a57f-e773082f0000
 
 https://nationalvanguard.org/2015/05/jewish-professor-pornography-used-by-jews-as-a-weapon/
+
+
+[[Israel]]
+[[Jew]]
+[[Porn]]

@@ -38,6 +38,8 @@ https://konsultasisyariah.com/31095-bitcoin-itu-dilarang-koreksi-artikel-bitcoin
 
 https://hackernoon.com/is-the-free-market-possible-with-a-blockchain-powered-economy-ae259cfd3eb9
 
+[[Blockchain]]
+
  
 
 Kalo cryptocurrency bisa ngilangin keberadaan umaro, apakah nanti market = umaro?

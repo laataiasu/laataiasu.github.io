@@ -8,7 +8,7 @@ sebelum terjun ke dunia perjudian, coba tonton dulu anime kakegurui
 
 biasanya yg jadi zombie itu gara2 ingin menang/kaya instan, tapi kalo diniatkan secara sadar buat cari adrenalin mirip main roller koster, ke rumah hantu, atau gacha game insyaallah ga akan terlalu gila. 
 
-kalo gamau jadi wibu, coba baca2 referensi gerakan anarko libtard, khususnya kripto blockchain. 
+kalo gamau jadi wibu, coba baca2 referensi gerakan anarko libtard, khususnya kripto [[Blockchain]]. 
 
 ubah niat utama antum jadi sedekah ke developer yg susah2 kuliah belajar stat prob & softeng ujungnya malah jadi dev game slot, atau cari token2 kripto yg use case utamanya smart contract buat betting/judi macam chainlink dll. 
 

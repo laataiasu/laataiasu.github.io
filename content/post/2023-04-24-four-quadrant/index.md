@@ -16,7 +16,7 @@ Here, contemplation stretches to its limits, making it arduous to envisage beyon
 
 While a glimmer of hope may flicker at the end of the tunnel, it's crucial to acknowledge the potential train heading in our direction, unbeknownst to its course.
 
-As Nassim Taleb eloquently surmises, the debate isn't centered on the existence of a higher power, but rather, the tangible and metaphysical repercussions if it does. This sentiment resonates strongly with films like 'La Haine,' where society spirals into free fall.
+As [Nassim Nicholas Taleb|Nassim Taleb] eloquently surmises, the debate isn't centered on the existence of a higher power, but rather, the tangible and metaphysical repercussions if it does. This sentiment resonates strongly with films like 'La Haine,' where society spirals into free fall.
 
 **3. Indefinite Optimism: Embracing Normalcy**
 

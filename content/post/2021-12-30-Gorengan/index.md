@@ -123,3 +123,5 @@ Tentang siapa yang akan lebih dulu mati?
 Nilai?
 Transaksi?
 ```
+
+[[Blockchain]]

@@ -9,7 +9,7 @@ Catatan kemalasan: Seni dan anti panduan untuk yang merasa bukan normal
 “There is only one inborn error, and that is the notion that we exist in order to be happy..."
 
 “First of all: what is work? Work is of two kinds: first, altering the position of matter at or near the earth’s surface relatively to other such matter; second, telling other people to do so. The first kind is unpleasant and ill paid; the second is pleasant and highly paid.”
-― Bertrand Russell, In Praise of Idleness and Other Essays
+― [[Bertrand Russell]], In Praise of Idleness and Other Essays
 
 cara nyelametin luddite itu ada 3 cara, jadiin dia sebagai muselmann/muslim, biarin aja kayak bartleby/gandhi tanpa penonton, atau perbanyak tarian ting ting tang tang tang
 
@@ -24,7 +24,7 @@ temporary gangs of ‘fungible’ researchers, specially brought together to wor
 on a particular problem and, at the conclusion of each project, redeployed or
 discarded. Researchers will become totally proletarianized as they lose their property, both in the skills of stable paradigm-based research, and in the rights to their results.”
 
-"Idleness is the beginning of all vice, the crown of all virtues." kafka
+"Idleness is the beginning of all vice, the crown of all virtues." [[Franz Kafka]]
 
 “A man can be himself only so long as he is alone, and if he does not love solitude, he will not love freedom, for it is only when he is alone that he is really free.” -Arthur Schopenhauer
 

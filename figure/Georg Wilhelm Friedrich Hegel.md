@@ -1,0 +1,2 @@
+# Georg Wilhelm Friedrich Hegel
+

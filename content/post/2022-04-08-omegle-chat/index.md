@@ -172,7 +172,7 @@ Stranger: Just Easter and Christmas
 
 You: youre a bad christian then
 
-You: why are you not convert to jew?
+You: why are you not convert to [[Jew]]?
 
 Stranger: That's because you're a bad influence
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "12ca38ee3d1728c8",
+        "id": "084b14cd131b74a5",
         "type": "tabs",
         "children": [
           {
-            "id": "26b2ef6e7dc1b018",
+            "id": "21809f70acd2866a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movies/Transcendence.md",
+                "file": "content/post/2023-08-17-muhammad-the-legend/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transcendence"
+              "title": "index"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "boyco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,36 +167,39 @@
   },
   "active": "97b4113916cfb6a0",
   "lastOpenFiles": [
-    "Movies/Transcendence.md",
-    "content/about.md",
-    "post/2020-05-24-intro.md",
+    "Muhammad.md",
+    "Anarchism.md",
+    "Systems Thinking.md",
+    "Antifragile.md",
+    "Mental Model.md",
+    "Growth Mindset.md",
+    "Randomness.md",
+    "Paradox.md",
+    "Chaos.md",
+    "Contradiction.md",
+    "Uncertainty.md",
+    "Epistemology.md",
+    "Takwil.md",
+    "Syubhat.md",
+    "Esport.md",
+    "Sepak Takraw.md",
+    "Utopia.md",
+    "Muslim.md",
+    "Ttopia.md",
+    "Islam.md",
+    "Blockchain.md",
+    "Economy.md",
+    "Neuroscience.md",
+    "Philosophy.md",
+    "Artificial intelligence.md",
+    "Information System.md",
+    "figure",
+    "tags/figure",
+    "tags",
     "post",
-    "2025-06-09.md",
-    "Digital Garden.md",
-    "Transcendence.md",
     "Movies",
-    "content/_draft/00.md",
-    "content/post/2024-01-17-un-pluviophile/index.md",
-    "content/post/0000-xx-xx-title/template.md",
     "content/post/0000-xx-xx-title",
-    "content/_draft/masjid.md",
-    "themes/PaperMod/README.md",
-    "content/_draft/hitchhiker terms.md",
-    "content/post/2023-12-08-stupid-singularity/index.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "content/post/2023-06-14-santet-is-real/index.md",
-    "content/post/draft.md",
-    "content/archives.md",
-    "content/post/2017-12-22-sudut-pandang-penjahat/index.md",
-    "content/post/diary/2025-06-09.md",
-    "content/post/diary/2025-06-08.md",
-    "content/post/diary/2025-06-07.md",
-    "content/post/diary/2025-06-06.md",
-    "content/post/diary/2025-06-05.md",
-    "content/post/diary/2025-06-04.md",
-    "content/post/diary/2025-06-03.md",
-    "content/post/diary/2025-06-02.md",
-    "content/post/diary/2025-05-30.md"
+    "Untitled.canvas"
   ]
 }

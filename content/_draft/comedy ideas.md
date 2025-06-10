@@ -99,7 +99,7 @@ Sama kenapa sih anjing lgbt tuh harus pake warna pelangi. Gw masih inget itu hyp
 
 ---
 
-Lana rhoades mantan pornstar pengen punya anak. Gw kenal lana rhoades dr teman, tp boong ya gw gapunya tmen, dr tmen khayalan. Eh ngga deng takut disangka gila. Alesan lain gw tau dia apa ya? jadi alesannya gini aja karena gw sering nonton youtube logan paul, dia kadang muncul gitu, dan taunya dia itu mantan pornstar yg lg hamil punya anak. Gw bayangin jadi anaknya aja ufah depresi, duh kayanya gw bakalan bunuh diri deh. Cmn kalo misalkan siapa tau suatu hari nanti lu punya anak dan ternyata anak lu itu temennya anak lana rhoades. Kan banyak gitu ya anak sd jaman skrng dah tau film biru. Pas nobar sama tmen kan keliatan taunya pemerannta ibu sendiri. Anda bisa mengajarkan untuk negatif, hahaha ibu lu pelacur digilir berkali2 sm orang. Atau bisa jg dengan positive ways, ini ibu kamu? Wah keren yah ibu kamu jago banget, aktingnya keren, cantik, jago banyak hal lagi keren bngt, apa gua boleh main ke rumah lu kapan2? Anda bisa mendidik anak anda jadi bajingan, supporter bola toxic seperti yg pertana tadi, atau anda bisa mendidik anak anda jadi playmaker , memudahkan tim untuk mencetak goal atau justru jadi striker yang paling banyak ngegolin
+Lana rhoades mantan [[Porn|pornstar]]  pengen punya anak. Gw kenal lana rhoades dr teman, tp boong ya gw gapunya tmen, dr tmen khayalan. Eh ngga deng takut disangka gila. Alesan lain gw tau dia apa ya? jadi alesannya gini aja karena gw sering nonton youtube logan paul, dia kadang muncul gitu, dan taunya dia itu mantan pornstar yg lg hamil punya anak. Gw bayangin jadi anaknya aja ufah depresi, duh kayanya gw bakalan bunuh diri deh. Cmn kalo misalkan siapa tau suatu hari nanti lu punya anak dan ternyata anak lu itu temennya anak lana rhoades. Kan banyak gitu ya anak sd jaman skrng dah tau film biru. Pas nobar sama tmen kan keliatan taunya pemerannta ibu sendiri. Anda bisa mengajarkan untuk negatif, hahaha ibu lu pelacur digilir berkali2 sm orang. Atau bisa jg dengan positive ways, ini ibu kamu? Wah keren yah ibu kamu jago banget, aktingnya keren, cantik, jago banyak hal lagi keren bngt, apa gua boleh main ke rumah lu kapan2? Anda bisa mendidik anak anda jadi bajingan, supporter bola toxic seperti yg pertana tadi, atau anda bisa mendidik anak anda jadi playmaker , memudahkan tim untuk mencetak goal atau justru jadi striker yang paling banyak ngegolin
 
 Pernah ngebayangin jadi oeng religius ga sih, tiap jalan hahaha ni orng bakal masuk neraka
 
@@ -333,7 +333,7 @@ nabi isa tuh gagal karena justru malah gw udah selametin lo semua dr dosa, nah i
 
 ada kontradiksi nabi muhammad katanya jangan ketawa karena mematikan hati. musik tertinggi kata nietzsche. dan nabi muhammad tau betul itu, makanya dia ngeralang jangan. padahal kalo anda tau, banyak loh nasyid, quran itu gapake alat musik, saat dilantunkan ada iramanya, dan itu bagian dari musik yang tertingggi. keindahan quran itu kalo ga ada langgamnya susah juga buat diindahkan, tapi justru itu juga inklusif buat para tuli.
 
-tpai nabi muhammad saking cerdasnya dia karena tau ada orang yg tuli maka dia haramkan musik, untuk berempati. islam itu agama paling empati dan paling disegani.
+tpai nabi [[Muhammad]] saking cerdasnya dia karena tau ada orang yg tuli maka dia haramkan musik, untuk berempati. islam itu agama paling empati dan paling disegani.
 
 sebenernya kaya liberal, memperjuangkan kebebasan, termasuk senpi jadi meninggal.
 

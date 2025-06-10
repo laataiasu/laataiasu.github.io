@@ -33,7 +33,7 @@ https://whatculture.com/film/10-war-films-that-were-basically-just-propaganda
 
 dll
 
-Sesimpel Schindler's List (1993), The Pianist (2002), The Boy in the Striped Pajamas (2008), dll yg bisa bikin simpati trhdp jew dan holocaust
+Sesimpel Schindler's List (1993), The Pianist (2002), The Boy in the Striped Pajamas (2008), dll yg bisa bikin simpati trhdp [[Jew]] dan holocaust
 
 Nyelem dikit dapet ginian
 

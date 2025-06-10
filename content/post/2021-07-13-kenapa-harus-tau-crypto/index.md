@@ -149,3 +149,6 @@ Dari sana inovasi bisa tumbuh, ga perlu bangun komplek fisik yg makan triliunan
 
 Simple. Bangun sistem informasi masjid, semuanya terstandarisasi. Pelatihan manajemen masjid. Manfaatin semua potensi SDM SDA deket setiap masjid. Katalisnya = reward. Kalo ga perlu reward bisa lebih bagus, cuman cukup didoktrin,
 “Woy, we’re taking so much for granted.” Dan semuanya berinovasi, sesuai yang disukain.
+
+
+[[Blockchain]]

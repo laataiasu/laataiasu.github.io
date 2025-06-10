@@ -21,7 +21,7 @@ The selling is easy, but the problem is how he spends his money so that his fami
 
 Imagine if at that moment there is a smart contract or bitcoin to transfer money transparently easily. If that's so, Walter didn't need to think hard about how to transfer his wealth from the selling. He can compromise with his family that the money used for the cancer treatment is from donation or something.
 
-Actually, the primary thing that I want to talk about is cryptocurrency development nowadays. There's a huge demand for bitcoin and any other cryptocurrency now. The white paper from a lot of coins is pretty comprehensive for the top cryptocurrency which is built by the blockchain system by relying on complicated math such as cryptography and any other methods (for a basic definition you could check <https://academy.binance.com/> ).
+Actually, the primary thing that I want to talk about is cryptocurrency development nowadays. There's a huge demand for bitcoin and any other cryptocurrency now. The white paper from a lot of coins is pretty comprehensive for the top cryptocurrency which is built by the [[Blockchain]] system by relying on complicated math such as cryptography and any other methods (for a basic definition you could check <https://academy.binance.com/> ).
 
 Each crypto coin has their own uses. But the main point of persuading people to invest or buy bitcoin is I think is to decentralize the financial system so that there's no authority to control the money like the bank and government. It means that the financial control in the world could become pure supply and demand.
 

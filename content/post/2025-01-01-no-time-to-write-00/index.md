@@ -177,7 +177,7 @@ will i get better, i just hope so.
 
 and previously actually i want to list of my hall of shame / failure. 
 
-taleb said succesful man has more failure that is hard to replicate than his success. 
+[[Nassim Nicholas Taleb|taleb]] said succesful man has more failure that is hard to replicate than his success. 
 
 ---
 2024-09-09
@@ -403,7 +403,7 @@ its mostly about minimizing loss function, minimizing suffering? and what about 
 
 as we know, transformers or GPT has a really good results. its sequence to sequence, its predicting the next words by digesting knowledges from this world, its very good. 
 
-like we can simply knows which feature contribute more to a success. we can really define our success. perhaps, muhammad, we know what is his success, it has features like he came from orphan, his birth and so on, we can really compile all success people like muhammad, we can try to look who has similar feature like us, the books we read, the movies we watch, the song we listen, the religion we believe. 
+like we can simply knows which feature contribute more to a success. we can really define our success. perhaps, [[Muhammad]], we know what is his success, it has features like he came from orphan, his birth and so on, we can really compile all success people like muhammad, we can try to look who has similar feature like us, the books we read, the movies we watch, the song we listen, the religion we believe. 
 
 but here's the most interesting part is. perhaps no figures has features similar like you, and it means you can define your matrix feature target by yourself, perhaps you can define your success as to break the reciprocal law, to propagate this idea, that we dont need to feel guilty if we dont give it back to someone who gives us. its not only about that, we can really define our success, and its mostly social constructs. i doesnt matter. 
 

@@ -88,7 +88,7 @@ Dibandingkan dengan Bukit Algoritma mangkrak sentralistik yang ketinggalan zaman
 
 ### Tahafut al-boycott
 
-Boycott, donasi, kirim relawan itu bukan cara paling efektif.
+[[Boycott|Boycott]], donasi, kirim relawan itu bukan cara paling efektif.
 
 Boykott merk? pemodal tinggal ganti merk, orang mana tau sumber modalnya darimana.
 
@@ -217,7 +217,7 @@ Pelapor menjelaskan 5W1H tiket tersebut. Beberapa aspek yang penting adalah nama
 
 ### Hafizh/Hafzah Scarcity
 
-Yang boleh menjadi penghafal quran hanyalah yang sudah menguasai bahasa arab, tafsir, dan mampu membuktikan track record-nya bahwa dia adalah orang yang alim dan baik. Tidak ada lagi yang mau menjadi penghafal Al-Qur'an karena Al-Qur'an telah dibuktikan tidak akan hilang dari ingatan. Terdapat muslim ahli komputasi sains yang memastikan semuanya dapat disalin ke teknologi dengan berbasis jaringan seperti blockchain, bahkan para ahli neuroscience dan para arsitek high performance distributed system sedang meneliti cara menanamkan Al-Quran ke otak dan sistem saraf para muslim secara permanen agar dapat mendikte setiap muslim untuk berperilaku sesuai Al-Qur’an dan sunnah sehingga menjadi hamba Allah yang beriman dan bertaqwa. Meskipun begitu, penelitian tersebut masih menjadi wacana dan perdebatan di kalangan ahli, karena selain sangat sulit dan mahal untuk dilakukan, beberapa pihak menyatakan bahwa hal tersebut tidak sesuai secara etika dan masih didiskusikan oleh para ulama beserta peliharaan AI-nya, apakah penelitian tersebut termasuk perbuatan melampaui batas atau tidak.
+Yang boleh menjadi penghafal quran hanyalah yang sudah menguasai bahasa arab, tafsir, dan mampu membuktikan track record-nya bahwa dia adalah orang yang alim dan baik. Tidak ada lagi yang mau menjadi penghafal Al-Qur'an karena Al-Qur'an telah dibuktikan tidak akan hilang dari ingatan. Terdapat muslim ahli komputasi sains yang memastikan semuanya dapat disalin ke teknologi dengan berbasis jaringan seperti [[Blockchain]], bahkan para ahli neuroscience dan para arsitek high performance distributed system sedang meneliti cara menanamkan Al-Quran ke otak dan sistem saraf para muslim secara permanen agar dapat mendikte setiap muslim untuk berperilaku sesuai Al-Qur’an dan sunnah sehingga menjadi hamba Allah yang beriman dan bertaqwa. Meskipun begitu, penelitian tersebut masih menjadi wacana dan perdebatan di kalangan ahli, karena selain sangat sulit dan mahal untuk dilakukan, beberapa pihak menyatakan bahwa hal tersebut tidak sesuai secara etika dan masih didiskusikan oleh para ulama beserta peliharaan AI-nya, apakah penelitian tersebut termasuk perbuatan melampaui batas atau tidak.
 
 ---
 

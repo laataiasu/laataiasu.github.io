@@ -14,7 +14,7 @@ Shai Agassi (Nulis paper tentang mobil listrik, mantan  top executive SAP), ada 
 
 Ingin menjadi negara pertama yang ingin bebas dari bahan bakar minyak 
 
-Kenapa percobaan mobil listrik pertama di israel?
+Kenapa percobaan mobil listrik pertama di [[Israel|Israel]]?
 1. Daerahnya kecil, biar gampang dibatasin karena model bisnisnya mirip telpon provider
 2. Ngerti financial, environmental, and security cost
 3. Natural early adopters (negara top 1 dalam penggunaan internet)
@@ -40,7 +40,7 @@ Ch2
 - chutzpah
 
 Ch3
-Produk Israel terus diboikot sama arab league dr abad 18-19 tapi orang2nya pinter cari jalan keluar, diem2 bangun company bidang teknologi.  
+Produk Israel terus [[Boycott|diboikot]] sama arab league dr abad 18-19 tapi orang2nya pinter cari jalan keluar, diem2 bangun company bidang teknologi.  
 
 Walaupun diboikot tapi teknologi n produknya selalu bagus dan akhirnya dipakai di banyak negara, yg mana lama2 negara pada normalisasi dngn israel karena butuh produknya
 
@@ -77,7 +77,7 @@ Leapfrog yang kemudian jadi "Lost decade" gara2 pemerintah terlalu monopoli pasa
 *For  the economy to take off, it required 3 additional factors: a new wave  of immigration, a new war, and a new venture capital industry*
 
 Ch7
-Moses  operation — memulangkan orang2 jew dr ethiopia ke israel. Israel ke Ethiopia cuman 4 jam, tapi keliatannya kaya ada gaps 400 tahun
+Moses  operation — memulangkan orang2 [[Jew]] dr ethiopia ke israel. Israel ke Ethiopia cuman 4 jam, tapi keliatannya kaya ada gaps 400 tahun
 
 Solomon operation
 

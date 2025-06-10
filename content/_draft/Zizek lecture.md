@@ -4,14 +4,14 @@ draft: true
 
 # "Your Anxiety is Telling You the Truth."
 
-- Anxiety is related to freedom, drawing from Kierkegaard's concept of anxiety as the dizziness of freedom, how freedom requires making choices and imposing limitations on oneself.
+- [[Anxiety]] is related to freedom, drawing from Kierkegaard's concept of anxiety as the dizziness of freedom, how freedom requires making choices and imposing limitations on oneself.
 - The metaphysical aspects of freedom and the experience of looking into the abyss of one's own potential explore the paradoxical nature of freedom, where true freedom is accessed by self-imposed restrictions and limitations.
 - Examples of creative expressions, such as music and writing, are used to illustrate the concept of self-imposed limitations leading to artistic success.
 - Individuals often realize that once they have complete freedom, they lose the essence of their powers and creative abilities.
 - Jack White's music highlights the importance of creating limitations and small rooms for creativity.
 - The paradox of freedom is that it is accessed indirectly, requiring limitations.
 
-## Lacan, Freud, and Hegel
+## [[Jacques Lacan|Lacan]], [[Sigmund Freud|Freud]], and [[Georg Wilhelm Friedrich Hegel||]] 
 - Lacanian theory suggests that anxiety is a mode of truth and arises when we get what we want.
 - Lacan argues that desire is insurmountable and essential to our sense of self.
 - Freud's theory of anxiety revolves around fear of separation from the object of desire.
@@ -19,7 +19,7 @@ draft: true
 - Idealism (naive, critical, self-reflective) and materialism are contrasting philosophical approaches.
 - Hegelian speculative idealism upends the previous idealist approaches.
 
-## Kant and Christians
+## [[Immanuel Kant|Kant]] and Christians
 - Kantian self-reflective idealism suggests that truth is mediated through conceptual reason.
 - Some Christians talk about the freedom they find in being Christian, seeing Christianity as liberating.
 - GK Chesterton describes Christianity as an armor that restricts movement but underneath it is unmitigated joy and freedom.
@@ -35,7 +35,7 @@ draft: true
 - Impressionism introduced negation and abstraction into art, challenging the traditional depiction of objects and subjects.
 - The true master is the one who acts so freely that others recognize their own freedom.
 
-## One piece :v
+## [[One piece]] :v
 - Luffy from the manga series "One Piece" exemplifies the Hegelian master, setting others free through his absolute freedom and indifference to societal norms.
 - Freedom is contagious, and when we act autonomously and freely, we inspire others to do the same.
 - Freedom is not about being better or more successful than others but about doing something that sets others free.
