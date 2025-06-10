@@ -10,7 +10,7 @@ In this contemplative discourse, we delve into the intricacies of various outloo
 
 Many find themselves in this quadrant, resonating with the likes of Greta Thunberg, immersing in the world of AI, and pondering over films such as 'The Social Dilemma' (though, admittedly, the sound design can be somewhat unsettling). It's a space where the shadows of uncertainty loom large.
 
-**2. Indefinite Pessimism: In Zizek's Footsteps**
+**2. Indefinite Pessimism: In [[Slavoj Žižek|Zizek]]'s Footsteps**
 
 Here, contemplation stretches to its limits, making it arduous to envisage beyond a certain point. As an indefinite pessimist, I grapple with the intricacies of issues, be they transient or eternal, and Turkey's enigmatic woes further add to the perplexity.
 

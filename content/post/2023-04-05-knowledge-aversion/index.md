@@ -8,7 +8,7 @@ title: Knowledge Aversion or The Dawn of Pacman
 
 ### Knowledge Aversion or The Dawn of Pacman
 
-> Prompt: make a text/rhyme by theme the dawn of ":v" emoticon with will hunting's fixed mindset, peter thiel's frivolity, zizek's indefinite pessimism, and end it with a little bit of cak nun's faith style.
+> Prompt: make a text/rhyme by theme the dawn of ":v" emoticon with will hunting's fixed mindset, peter thiel's frivolity, zizek's indefinite pessimism, and end it with a little bit of [[Emha Ainun Nadjib|cak nun]]'s faith style.
 
 ```text
 What's next after Faustian bargaining
@@ -69,7 +69,7 @@ Believing in success without any foresight,
 But his heedless approach left him unprepared,
 A lesson to learn, if he ever dared.
 
-Zizek's indefinite pessimism fills the air,
+[[Slavoj Žižek|Zizek]]'s indefinite pessimism fills the air,
 No hope for the future, no vision to share,
 But in the midst of his gloom, there's a ray of hope,
 Cak Nun's faith style, a way to cope.

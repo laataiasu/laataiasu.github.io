@@ -26,7 +26,7 @@ their focus is not on leisure activities like pursuing useless college degrees, 
 
 ![Alt text](_b7b804a7-9964-4f6c-be7f-59c733c9106e.jpg)
 
-their emphasis lies in contributing, particularly in creating sophisticated military equipment and data-driven weapons to combat all tyrants masquerading as part of the entertainment industry. 
+their emphasis lies in contributing, particularly in creating sophisticated military equipment and [[Data-driven]] weapons to combat all tyrants masquerading as part of the entertainment industry. 
 ![Alt text](_db698567-24f1-47f6-9e9d-61759ced1999.jpg)
 
 however, they aim to maximize entertainment to remain grateful every day only for the means to liberate all oppressed people. they strive to achieve AGI and singularity to bring humans closer to their creator.

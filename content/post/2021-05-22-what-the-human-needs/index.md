@@ -12,7 +12,7 @@ At that time, I was looking for someone to blame, I wish I had a typical Asian p
 
 >"Di Negara demokrasi kamu bebas bicara apa saja tapi duit harus cari sendiri. Di Negara komunis makan dicukupi tapi kamu gak boleh kritik pemerintah. Di Indonesia kamu dilarang kritik pemerintah tapi uang harus cari sendiri"
 >
->(Cak Nun)
+>([[Emha Ainun Nadjib|Cak Nun]])
 
  
 

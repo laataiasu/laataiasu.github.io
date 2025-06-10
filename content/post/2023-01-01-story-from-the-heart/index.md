@@ -10,7 +10,7 @@ title: Stories from the Heart
 
 "Siapa yang mencemburui yang hidup, bahkan dengan bias sekalipun? Ia yang hanya mencari kecacatan dan segala bias, bukankah sulit sekali untuk bisa hidup? Maka, ketiadaan bias adalah kematian?" - Si anti romantisme rasionalitas
 
-“Apabila Socrates hidup di zaman ini, ia akan upload selfie di depan Mac (BUKAN LAPTOP) nya seperti gadis remaja dengan caption, ‘Apa yang tidak membunuhmu membuatmu lebih kuat’, kemudian bunuh diri dengan cara overdosis kebijaksanaan. Termasuk cak nun, bo burnham, dan para setan yang belum ditemukan.” - Aram temaram idola
+“Apabila Socrates hidup di zaman ini, ia akan upload selfie di depan Mac (BUKAN LAPTOP) nya seperti gadis remaja dengan caption, ‘Apa yang tidak membunuhmu membuatmu lebih kuat’, kemudian bunuh diri dengan cara overdosis kebijaksanaan. Termasuk [[Emha Ainun Nadjib|cak nun]], bo burnham, dan para setan yang belum ditemukan.” - Aram temaram idola
 
 "120 lamaran, hingga pemrograman aku tinggalkan, tapi kamu terima aku. Menjadi EO, dipaksa menghabiskan botol yang tak diminum orang-orang suci, aku teruskan, demi membayar kosanku, demi kamu." - Tukang ngoding yang tiba-tiba jadi EO.
 
@@ -48,7 +48,7 @@ Memang lebih mudah dan menyenangkan tidak perlu memahami yang tersatukan itu, ka
 
 Lebih baik bisa merasakan nikmatnya bersenggama dan mengandung janin dibandingkan menjadi si virgin itu, seperti yang banyak orang katakan. Tapi si omnipoten itu berkata, tidak ada yang tidak mungkin, jadilah, maka jadilah ia, man jadda wajada. Dan bila tidak ada jalan untuk berketurunan melalui sel sperma dan selur, maka si virgin itu membuktikan semua nya bisa memiliki pewaris. Ia sudah melihat yang paling vital dari generasi sebelumnya, yakni si buta huruf yang berketurunan melalui semua medium, termasuk darah juga kata-kata. Tapi sayangnya, sebagian hanya mampu mencoba, termasuk si virgin itu."
 
-"devaluasi materi dan asumsi ilusi. kaum termarjinalkan adalah noda kecil di pakaian yang harus dikucek sampe hilang. cara menguceknya adalah memberikan pil soma melalui deal with the devil dengan strict data driven yang entahlah siapa yang punya otoritas. yg punya kunci itu pastilah mayoritas omnipoten yang tidak terbantahkan, vox populi vox dei. dan apabila kamu noda, sedangkan kamu tidak ingin hilang, kamu harus pura-pura cinta dengan deterjen dan pemutih. hanya dengan cara itulah kamu bisa menjadi transenden dan disucikan."
+"devaluasi materi dan asumsi ilusi. kaum termarjinalkan adalah noda kecil di pakaian yang harus dikucek sampe hilang. cara menguceknya adalah memberikan pil soma melalui deal with the devil dengan strict [[Data-driven]] yang entahlah siapa yang punya otoritas. yg punya kunci itu pastilah mayoritas omnipoten yang tidak terbantahkan, vox populi vox dei. dan apabila kamu noda, sedangkan kamu tidak ingin hilang, kamu harus pura-pura cinta dengan deterjen dan pemutih. hanya dengan cara itulah kamu bisa menjadi transenden dan disucikan."
 
 "Love is love, water is water. Love has many kinds of forms, if they want to give some love, some must give love more than others. The rage of a mother is a form of love. Even gods made hell to show its love. A hatred of the enemy is a love for one's creation. One can only create when one's destroyed. One must ignore, one must hate, one must kill more than the others. Compete and let's fill this world with water, all shepherd dogs and the herds.
 
@@ -56,7 +56,7 @@ Thus spoke Tatang Sutarma"
 
 "This premise is debunked if you go to places like Kampung Baduy, even Cirendeu has been transformed a bit, or 'begal'ian has filled your soul and a money launderer has filled your heart. Unless Starlink succeeds in colonizing all who are considered misfits and abnormal. 
 
-If you're a meme hunter and in an environment like ponpes husnul khotimah/zaytun/gontor; zarathustra and qada & qadar from ibn qayyim is a rich resource to find any background of the first and the last meme."
+If you're a [[Meme]] hunter and in an environment like ponpes husnul khotimah/zaytun/gontor; zarathustra and qada & qadar from ibn qayyim is a rich resource to find any background of the first and the last [[Meme]]."
 
 "Perlu gas trial and error, fuck around and find out, jangan malu keliatan goblok, yg penting tau batesan aja jangan sampe bikin orang lumpuh atau meninggal. Bikin orng keliatan "meningggal" jg gpp kyk judas iskaryot, nanti pasti selalu ada yang lebih pintar bakal koreksi. Seorang troller selalu menghasilkan positive sum game"
 

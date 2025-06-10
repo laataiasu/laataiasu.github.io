@@ -31,7 +31,7 @@ He gave the students the information about the replacement of a minister in Indo
 
 He gave example again that the one ex-candidate vice president is a businessman too, and that's why he could leap from the vice governor, even he hasn't completed his length of service, he can easily to propose to be a vice president because he is a businessman.
 
-What I remembered too is he suggested us to read Noam Chomsky's books. <figure class="wp-block-image size-large">
+What I remembered too is he suggested us to read [[Noam Chomsky|Noam Chomsky]]'s books. <figure class="wp-block-image size-large">
 
 ![](https://catatankemalasan.files.wordpress.com/2020/11/ej5hbryvgaattfv.png?w=452)
 
@@ -39,7 +39,7 @@ I think there's a lot of people who can't finish the books or read nothing at al
 
 I still couldn't hold my laugh when my teacher talked about that seriously, Firman walked in front of my class and yelled and shouted,
 
-"Konspirasi!!!", in a funny tone and it really represents this meme.<figure class="wp-block-image size-large">
+"Konspirasi!!!", in a funny tone and it really represents this [[Meme]].<figure class="wp-block-image size-large">
 
 ![](https://catatankemalasan.files.wordpress.com/2020/11/ej5jsm7u4aanhgh.jpeg?w=522)
 

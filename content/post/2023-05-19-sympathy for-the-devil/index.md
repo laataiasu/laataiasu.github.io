@@ -8,7 +8,7 @@ Flexing, greed, pride, arrogance, and vanity are merely perceptions projected by
 
 Every advantage should be appreciated. When does gratitude become excessive? It is only those who envy that impose limits on gratitude. One form of gratitude is sharing fortune and abundance, being free from hunger, having positive relationships with family and friends, possessing material and physical advantages, embodying good morals and spirituality, showcasing talents and creations, and more.
 
-Those deemed greedy will never realize their own greed. Figures like Jeff Bezos, Elon Musk, Mark Zuckerberg, and Bill Gates, with their immense wealth, believe that paying taxes is sufficient contribution to society, allowing them to pursue other exciting ventures.
+Those deemed greedy will never realize their own greed. Figures like [[Jeff Bezos]], [[Elon Musk]], [[Mark Zuckerberg]], and [[Bill Gates]], with their immense wealth, believe that paying taxes is sufficient contribution to society, allowing them to pursue other exciting ventures.
 
 On one hand, they may lack gratitude, but there is a belief that people do not need them (humility) because individuals can help themselves. Many envious people say, "They should invest in education, solve hunger issues, and so on." However, the problem is not that straightforward.
 
@@ -37,7 +37,7 @@ For further insight, you can watch this video:
 
 {{< youtube id="t5zQpN28xa4" >}}
 
-It's important to remember that consent can be manufactured, and everything is influenced by ideology.
+It's important to remember that [[Manufacturing Consent|consent can be manufactured]], and everything is influenced by ideology.
 
 ---
 
@@ -48,7 +48,7 @@ makanya kalo kata charlie munger, world is running by envy, not greed.
 
 setiap kelebihan itu perlu disyukuri. kapan rasa syukur itu dianggap berlebihan? yang ngebuat batasan tentang rasa syukur itu ya cmn yg envy. salah satu bentuk rasa syukur itu membagikan keberuntungan dan kelebihan, keamanan dari rasa lapar, hubungan baik dengan keluarga dan teman, kelebihan materi & fisik, akhlak dan spiritual, talenta, karya, dll. 
 
-orang yang dianggap serakah itu ga akan pernah sadar dia serakah. jeff bezos, elon musk, mark zuckerberg, bill gates,  kekayaannya berlipat2, percaya bahwa dengan bayar tax mereka udah ngerasa cukup untuk contribute to society sehingga mereka bisa lakukan hal lain yang yang lebih seru.
+orang yang dianggap serakah itu ga akan pernah sadar dia serakah. [[Jeff Bezos]], [[Elon Musk]], [[Mark Zuckerberg]], bill gates,  kekayaannya berlipat2, percaya bahwa dengan bayar tax mereka udah ngerasa cukup untuk contribute to society sehingga mereka bisa lakukan hal lain yang yang lebih seru.
 
 di satu sisi dia gacuman bersyukur, tapi ada suatu believe bahwa orang-orang ga butuh dia (humility) karena people can help themself. banyak orng envy bilang, "harusnya mereka invest buat pendidikan, menurunkan masalah kelaparan, dll". the problem is not that simple.
 

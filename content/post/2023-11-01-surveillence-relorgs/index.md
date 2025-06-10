@@ -63,3 +63,6 @@ But we can always gaslight ourselves. Giving our data is part of sodaqoh and cha
 ![designing surveillance app](<designing surveillance app.png>)
 
 Everything that exists to create value is a business. An organization is a business. A country is a business. Religion is a business.
+
+
+[[Data-driven]]

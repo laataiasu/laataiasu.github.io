@@ -36,6 +36,8 @@ We just WhatsApp other teams if we don't know something, and then meet via Zoom 
 
 ![documentation meme](image.png)
 
+[[Meme]]
+
 IT WASTES MY TIME A LOT!!!
 
 Previously, when I faced a problem, I just opened the Knowledge Management platform and understood seconds by reading it. Now, I need to ask my manager, and then my manager asks other teams, and other teams ask other teams. And other teams said that my team member works on that problem/data.

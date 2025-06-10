@@ -28,7 +28,7 @@ overtax the overpower is just nonsense too, there's no guarantee that they could
 
 thats why the number one of corporate rule is to "monopoly", because basically everyone is just scared, fear is the fundamental of everything. this day tiktok is become the scapegoat to comfort their competitor.
 
-even when a few trying to make fear become certain, with over data-driven like china, there's no guarantee at all that it would not collapse. it's all just about taking a choice. act as if you have a free will, but judge others as if they dont, because you can't never emphatize with autist and psycopath.
+even when a few trying to make fear become certain, with over [[Data-driven]] like china, there's no guarantee at all that it would not collapse. it's all just about taking a choice. act as if you have a free will, but judge others as if they dont, because you can't never emphatize with autist and psycopath.
 
 there's always a room for change and improvement, except for the people you already hate.
 

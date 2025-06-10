@@ -4,19 +4,11 @@ tags: ["book", "review"]
 title: Review NNT
 ---
 
-black swan
-
-anti fragile 
-
-skin in the game
-
-bed of procustes
-
 titik balik ga? gatau anying hoream, masih banyak downsidenya dibanding upside, masih coward, mau ttp diteken apa jadi asshole? gatau aokwoakwoakwok idiot sumpah ini asshole [[Nassim Nicholas Taleb|nikolas taleb]]. 
 
-kenapa aing suka bukunya? ada nietzsche, nyinggung alghazali, ibnu rusydi, mitologi yunani aneh-aneh, plato, filsafat tapi trader dan statistik cok, kurang seru apa coba. wibu nerd anjing ga guna sampah masyarakat, lebanon katanya penuh perang, kakeknya gubernur, tapi dapet gawe gimana caranya. nitze (susah nulisnya cuk) dapet duit darimana anying nulis gitu-gituan, bisa baca banyak gitu gimana caranya, connecting the dots banyak-banyak. aing aja belajar bahasa arab pas sd cmn inget sobaul khoir masaul hoir, nnuuuurrrr. 
+kenapa aing suka bukunya? ada [[Friedrich Nietzsche|nietzsche]], nyinggung [[Al-Ghazali]], [[Ibnu Rusyd]], mitologi yunani aneh-aneh, [[Plato]], [[Philosophy|filsafat]] tapi [[Trading|trader]] dan [[Statistics|statistik]] cok, kurang seru apa coba. wibu nerd anjing ga guna sampah masyarakat, [[Lebanon]] katanya penuh perang, kakeknya gubernur, tapi dapet gawe gimana caranya. [[Friedrich Nietzsche]] (susah nulisnya cuk) dapet duit darimana anying nulis gitu-gituan, bisa baca banyak gitu gimana caranya, connecting the dots banyak-banyak. aing aja belajar [[Arabic|bahasa arab]] pas sd cmn inget sobaul khoir masaul hoir, nnuuuurrrr. 
 
-yakali aing harus berjudi, derivative, gharrar, fat tail, statprob aing dapet c++, katanya cari yang susah di short term, aing cmn dapet kalkulus 1 dari jurusan sampah ini ajjggg, make it simple but not simpleer, jadi antifragile tapi masih pengecut oawkoawkakw cari-cari alasan untuk bilang, "nanti lagi lah". it's ok to be flanuer, enjoy macam mana, binatang, direject kucing aja aing depressed berguling-guling di kasur berminggu-minggu, sambil nyoba terus baca, addict to youtube, addict to downloading berbagai macam sumber belajar tapi gapernah ditonton, the feeling of get something, I need a long time of span macam kakek munger dan buffet, bias kontttooolll
+yakali aing harus berjudi, [[Derivative|derivative]], [[Gharar]], [[Fat-tailed distribution|fat tail]], statprob aing dapet c++, katanya cari yang susah di short term, aing cmn dapet kalkulus 1 dari jurusan sampah ini ajjggg, make it simple but not simpleer, jadi antifragile tapi masih pengecut oawkoawkakw cari-cari alasan untuk bilang, "nanti lagi lah". it's ok to be [[Flâneur]], enjoy macam mana, binatang, direject kucing aja aing depressed berguling-guling di kasur berminggu-minggu, sambil nyoba terus baca, addict to youtube, addict to downloading berbagai macam sumber belajar tapi gapernah ditonton, the feeling of get something, I need a long time of span macam kakek [[Charlie Munger]] dan [[Warren Buffett]], bias kontttooolll
 
 setan banget distraksi ini anjeeennnggg, aing tuntut sia semua dineraka anjing para pelacur informasi, bikin banyak noise, mengaburkan signal, the alpha (biar kaya 'financial engineering'), sampah. tapi ttp butuh dionysian, ga cuman rasional tapi dangdut dikit okelah lumayan. jangan novel, novel itu lebih seru ditulis daripada dibaca. coba grasp rumus-rumus lah, kerja nanti dulu. 
 

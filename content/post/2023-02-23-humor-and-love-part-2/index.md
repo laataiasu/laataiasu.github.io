@@ -75,9 +75,9 @@ Skenario 3
 
 Dari berbagai skenario yang aku siapkan, tidak ada satupun yang aku berani wujudkan. Lihatlah bahwa mimpi dan pikiran itu lebih indah. Dan siapa yang mengetahui ketiadaan implementasi itu bentuk kegagalan atau bukan. Ketiadaan wujud fisik dari suatu alam pikiran, siapa yang bertanggung jawab terhadap kejahatan di dalam dunia pikiran? Bukankah itu adalah tanggung jawab si gila?
 
-Maka sekali lagi aku ingat film terhorror yang pernah aku tonton, yaitu Requiem for a Dream atau Secret Life of Walter Mitty. Film adalah sarana orang gila menyebarkan mimpinya. Dan saat mimpi itu tersebar, mimpi itu merusak kedalaman siapapun yang terpengaruh olehnya. Kata Zizek, film adalah seni paling mesum, ia tidak memberikan apa yang kamu nafsukan, tapi ia mengajarkanmu bagaimana cara untuk bernafsu.
+Maka sekali lagi aku ingat film terhorror yang pernah aku tonton, yaitu Requiem for a Dream atau Secret Life of Walter Mitty. Film adalah sarana orang gila menyebarkan mimpinya. Dan saat mimpi itu tersebar, mimpi itu merusak kedalaman siapapun yang terpengaruh olehnya. Kata [[Slavoj Žižek|Zizek]], film adalah seni paling mesum, ia tidak memberikan apa yang kamu nafsukan, tapi ia mengajarkanmu bagaimana cara untuk bernafsu.
 
-Setelah ketiga skenario tersebut tidak ada yang terwujudukan, aku terguling-guling di kasur selama sebulan, sambil tetap mencoba 1 persen lebih baik setiap harinya dengan mendengarkan omong kosong jordan peterson, huberman lab, designing data intensive application, cracking coding interview, khan academy, charlie munger mental model, peter thiel definite optimism, ngaji filsafat, tazkiyatunnafs dan lain sebagainya sehingga dalam kesedihan pun aku tetap dapat mengimajinasikan suatu progress palsu.
+Setelah ketiga skenario tersebut tidak ada yang terwujudukan, aku terguling-guling di kasur selama sebulan, sambil tetap mencoba 1 persen lebih baik setiap harinya dengan mendengarkan omong kosong [[Jordan Peterson|jordan peterson]], huberman lab, designing data intensive application, cracking coding interview, khan academy, charlie munger mental model, peter thiel definite optimism, [[Ngaji Filsafat|ngaji filsafat]], tazkiyatunnafs dan lain sebagainya sehingga dalam kesedihan pun aku tetap dapat mengimajinasikan suatu progress palsu.
 
 "My dear, here we must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that." - Red Queen
 
@@ -88,3 +88,5 @@ Bukan orang lemah dan rendahan yang ingin aku selamatkan. Selalu ada hulu, hilir
 Maka hanya itulah yang aku bisa, mendorong orang untuk menodong siapapun yang terlihat di atas, menyelamatkannya, dan menyelamatkan yang di bawah, sehingga tak perlu lagi ada hierarki tuhan dan budaknya, sehingga tuhan akan kehilangan eksistensinya. Karena hanya dengan itulah kamu dapat membunuh tuhan. Dan bila kamu dapat membunuh tuhan-tuhan, maka mayat-mayatnya itulah yang akan mengajarkan dan menunjukkanmu puncak komedi dari cinta dan kasih sayang. 
 
 Maka inilah jalanku mencintaimu!
+
+[[Philosophy|filsafat]]

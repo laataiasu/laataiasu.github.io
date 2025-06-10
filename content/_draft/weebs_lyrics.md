@@ -474,7 +474,7 @@ Nurete kaerou yo
 
 **メイムでいいな**  
 *Meimude ī na*  
-**A meme would be nice.**
+**A [[Meme|meme]] would be nice.**
 
 **やっぱ今日もダメな僕だな**  
 *Yappa kyō mo damena bokuda na*  

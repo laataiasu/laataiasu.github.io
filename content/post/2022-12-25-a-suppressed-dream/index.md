@@ -6,7 +6,7 @@ title: A Suppressed Dream
 
 ### Visi
 
-Meningkatkan kesadaran masyarakat akan data driven society 
+Meningkatkan kesadaran masyarakat akan [[Data-driven]] society 
 
 ### Mimpi
 

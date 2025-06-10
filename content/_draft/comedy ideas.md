@@ -315,7 +315,7 @@ katanya sebagai lambat nasional ya, mana nasional nya coba, kepunyaan indonesia 
 
 Sama contohnya kemarin ya bukit algoritma coba, itu buat apa2, ekskusivitas, yg kita haruskan demokratisasi, pemerataan pendidikan, ini malah ngebuat 1 tempat yang sentralistis gitu, nah yg bisa masuk kesana tuh nantinya orang2 yg pinter aja,. Kalo gitu gimana daerah lainnya bisa berkembang gitu. nama silicon valley aja salah coba, katanya pembangunannya tuh berbasis penelitian. dan katanya nih ya, oh rakyat biasa tuh ga berhak berkomentar karena itu katanya dibangun swasta.
 
-Tapi gua nih curiga ya, kalo swasta biasanya bagus, rencananya rengkap, karena ada investor yang harus dijaka, kalo salah dikit aja sahamnya bisa ancur dan bangkrut, tapi ini bukit algoritma, nulis di papan silicon valley aja salah, video promosinya aja kaya video meme parodi. Swasta tuh ga mungkin  implementasi ide buruk kaya gitu, jarang banget. Ini pasti pemerintah, ga mungkinn! ga mungkin swasta!!!
+Tapi gua nih curiga ya, kalo swasta biasanya bagus, rencananya rengkap, karena ada investor yang harus dijaka, kalo salah dikit aja sahamnya bisa ancur dan bangkrut, tapi ini bukit algoritma, nulis di papan silicon valley aja salah, video promosinya aja kaya video [[Meme|meme]] parodi. Swasta tuh ga mungkin  implementasi ide buruk kaya gitu, jarang banget. Ini pasti pemerintah, ga mungkinn! ga mungkin swasta!!!
 
 pemerintah tuh kaya ahh duitnya kan ditalangin rakyat, kalo bangkrut juga lah uang rakyat ini.
 
@@ -331,7 +331,7 @@ gw tuh punya teori bahwa sblm nabi muhammad itu ada nabi yg ga kecatet coy. dan 
 
 nabi isa tuh gagal karena justru malah gw udah selametin lo semua dr dosa, nah itu kebablasan, enak bngt itu, makanya perlu ada muhammad. 
 
-ada kontradiksi nabi muhammad katanya jangan ketawa karena mematikan hati. musik tertinggi kata nietzsche. dan nabi muhammad tau betul itu, makanya dia ngeralang jangan. padahal kalo anda tau, banyak loh nasyid, quran itu gapake alat musik, saat dilantunkan ada iramanya, dan itu bagian dari musik yang tertingggi. keindahan quran itu kalo ga ada langgamnya susah juga buat diindahkan, tapi justru itu juga inklusif buat para tuli.
+ada kontradiksi nabi muhammad katanya jangan ketawa karena mematikan hati. musik tertinggi kata [[Friedrich Nietzsche|nietzsche]]. dan nabi muhammad tau betul itu, makanya dia ngeralang jangan. padahal kalo anda tau, banyak loh nasyid, quran itu gapake alat musik, saat dilantunkan ada iramanya, dan itu bagian dari musik yang tertingggi. keindahan quran itu kalo ga ada langgamnya susah juga buat diindahkan, tapi justru itu juga inklusif buat para tuli.
 
 tpai nabi [[Muhammad]] saking cerdasnya dia karena tau ada orang yg tuli maka dia haramkan musik, untuk berempati. islam itu agama paling empati dan paling disegani.
 

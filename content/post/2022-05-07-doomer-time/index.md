@@ -82,3 +82,5 @@ A person spends years coming into this own, developing his talent, his unique gi
 
 ![gus fring play slot](<gus fring play slot.jpg>)
 > Sumbernya aslinya ilang maap
+
+[[Meme]]

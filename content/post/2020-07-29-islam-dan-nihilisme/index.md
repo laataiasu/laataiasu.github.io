@@ -22,7 +22,7 @@ Bukan seperti Yahudi yang terus mencari dan akan menaklukan “rumah", bukan pul
 
 Maka dari itu, saya berusaha serasional mungkin, dan memang bijak bahwa dari kerasionalan dan empirisme, sesuatu itu tidak dapat diuji dan digali lebih dalam. Saya bisa saja menyerah dalam tahap ini. Membiarkan “tidak mengetahui" berada dalam sistem kesadaran yang terjauh. Tapi rasionalitas dan kegilaan saya bahkan tidak dapat menempatkannya selagi saya melangkah lebih jauh untuk mencari di antara yang terbid’ah dan yang termutasyabih.
 
-Dan dari Nietzsche, moral yang tidak bermoralnya, Ubermenschnya, adalah konsepnya yang hingga napas terakhirnya ia tidak dapat menjadi hal itu (Ubermensch berdasarkan pandangan saya). 
+Dan dari [[Friedrich Nietzsche|Nietzsche]], moral yang tidak bermoralnya, [[Übermensch|Ubermensch]]nya, adalah konsepnya yang hingga napas terakhirnya ia tidak dapat menjadi hal itu (Ubermensch berdasarkan pandangan saya). 
 
 “Gott ist tot", katanya.
 

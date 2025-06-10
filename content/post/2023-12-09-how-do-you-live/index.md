@@ -4,7 +4,7 @@ tags: ["story", "book", "review"]
 title: "Review How Do You Live"
 ---
 
-the lesson learned from copper, uragawa, mizutani, kitami stories, and pram's works in general, is that it projects that your kids can only choose to become:
+the lesson learned from copper, uragawa, mizutani, kitami stories, and [[Pramoedya Ananta Toer|pram]]'s works in general, is that it projects that your kids can only choose to become:
 
 1. the bully,
 2. the one who is being bullied,

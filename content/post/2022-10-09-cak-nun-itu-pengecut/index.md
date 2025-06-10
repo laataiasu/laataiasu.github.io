@@ -53,7 +53,7 @@ Innalillahi wainnailahi rojiun.
 
 Itulah yang perlu selalu diingat. Bahwa semuanya akan pergi dan kembali. Maka mati adalah suatu kepastian. Namun kontradiksi kita menginginkan semuanya tetap hidup. Maka berikanlah perpisahan dan dokumentasi terbaik itu pada ia yang terlihat mati, sehingga ia tetap dapat hidup dalam memori. 
 
-Maka dari itu, bagi saya Cak Nun itu pengecut. Sudah tau perlu melakukan apa, hal-hal deterministik dan mekanistik yang dapat mengurangi penderitaan siapapun yang menderita, tapi ia tetap tidak pernah mengamputasinya. Karena ia lahir dari itu, sehingga ia tidak pernah berani memutuskan hal itu dan memberikan salam perpisahan dengan banyak darinya. Bisnis, teknologi, manusia, semuanya akan mati, termasuk budaya. 
+Maka dari itu, bagi saya [[Emha Ainun Nadjib|Cak Nun]] itu pengecut. Sudah tau perlu melakukan apa, hal-hal deterministik dan mekanistik yang dapat mengurangi penderitaan siapapun yang menderita, tapi ia tetap tidak pernah mengamputasinya. Karena ia lahir dari itu, sehingga ia tidak pernah berani memutuskan hal itu dan memberikan salam perpisahan dengan banyak darinya. Bisnis, teknologi, manusia, semuanya akan mati, termasuk budaya. 
 
 Terus mempertahankan budaya yang ia anggap otentik dan memberikan nafas bagi kehidupan, padahal hal itu tidak lain hanyalah bentuk dari egoisme dan ketakutan bahwa dirinya akan mati seperti teman dekatnya yakni budaya. Energinya terus dilakukan untuk menjaga hal itu agar tidak mati, sedangkan di luar sana banyak yang menderita.
 

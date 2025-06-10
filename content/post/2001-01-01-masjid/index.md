@@ -64,7 +64,7 @@ Penjelasan:
 
 - **Isu Radikalisme yang Indikatornya Tidak Jelas** ➔ Implementasikan sistem informasi sosial kredit atau skor kredit seperti dalam game. Ini dapat memberikan konsekuensi kepada mereka yang menciptakan masalah atau melakukan tindakan yang merugikan.
 
-- **Banyaknya Jokes dan Meme yang Menyinggung** ➔ Jangan dianggap sebagai masalah, jika merasa tersinggung, tanggapilah dengan argumen ilmiah. Namun, tetap ada ruang untuk perdebatan mengenai standar humor yang aman dan menghargai semua orang.
+- **Banyaknya Jokes dan [[Meme]] yang Menyinggung** ➔ Jangan dianggap sebagai masalah, jika merasa tersinggung, tanggapilah dengan argumen ilmiah. Namun, tetap ada ruang untuk perdebatan mengenai standar humor yang aman dan menghargai semua orang.
 
 Dari permasalahan-permasalahan di atas, terlihat bahwa solusi untuk semua masalah secara umum adalah tidak hanya meningkatkan, melainkan juga mengefektifkan pendidikan. Jadi, solusi yang terpikirkan oleh saya adalah bagaimana cara membuat pendidikan tersebar merata dan efektif.
 

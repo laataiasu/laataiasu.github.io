@@ -64,7 +64,7 @@ About the writer who has quarter life crisis and live with an introvert working 
 
 ### Sky Castle
 
-About the educational system be seasoned by drama and action. I think the movie whose story writer has read Nietzsche will have a great result like this series.
+About the educational system be seasoned by drama and action. I think the movie whose story writer has read [[Friedrich Nietzsche|Nietzsche]] will have a great result like this series.
 
 ### School 2015
 

@@ -26,7 +26,7 @@ Budi, you seem a bit liberal, so it seems there's a blind spot on the religious 
 
 Digitizing the mosque system can have a significant impact; the stock market moves because of transparency and incentives. If the data is not open, it won't develop. Even open data can still be manipulated. Regeneration of mosque administrators and youth cadres. They say they don't want to be mosque teenagers, but have they been invited? Speak up a bit, and they're called disobedient and lacking in manners.
 
-Data-driven, transparent.
+[[Data-driven]], transparent.
 
 The presence of religion is there to be exploited. Religion is a blessing from God. Materialism doesn't fit in Indonesia. Those who cannot exploit religion will suffer.
 

@@ -12,7 +12,7 @@ title: Review Economic Films
 
 "Pursuit of Happyness" presents a toxic portrayal of the American Dream, similar to "The Wolf of Wall Street," albeit wrapped in a more palatable guise. Its message may be superficially positive but carries underlying dangers.
 
-"The Social Network" provides a captivating glimpse into the creation of Facebook, showcasing Mark Zuckerberg's ambition and the ethical dilemmas he faces. The line "You're not an asshole, Mark. You're just trying to be" encapsulates its nuanced exploration of character.
+"The Social Network" provides a captivating glimpse into the creation of Facebook, showcasing [[Mark Zuckerberg]]'s ambition and the ethical dilemmas he faces. The line "You're not an asshole, Mark. You're just trying to be" encapsulates its nuanced exploration of character.
 
 "Steve Jobs" may be perceived as boring, lacking the dynamism expected from a film about such an influential figure.
 

@@ -16,6 +16,8 @@ When in stock or crypto trading, a novice just looks at the graph and makes a po
 
 On the other hand, there's a trader who pays attention well by a lot of fundamental and technical analysis and he is sure that what the novice instincts are true. After a long period, the value of the stock or the coint is increased. In the end, both the novice and the pro make a profit from the stock or the coint. And the question is, is there anyone blaming one of them for making profit?
 
+[[Meme]]
+
 ![Stonks Know Your Meme](https://i.kym-cdn.com/entries/icons/original/000/029/959/Screen_Shot_2019-06-05_at_1.26.32_PM.jpg)
 
 

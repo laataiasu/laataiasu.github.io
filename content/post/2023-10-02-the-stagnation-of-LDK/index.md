@@ -39,6 +39,8 @@ Teenagers from Rengasdengklok know exactly that their voices are useless, so the
 
 ![aidit](https://cdn2.tstatic.net/manado/foto/bank/images/golongan-muda-menculik-soekarno-dan-mohamad-hatta1.jpg)
 
+[[Mohammad Hatta]]
+
 If you're interested in shariah finance, then go into that. If it's public health, tech, politics, anthropology, law, and so on, then focus on those.
 
 Sometimes pseudo activism is worse than inaction because you don't see the alternatives. You think you're already doing your best by doing a lot of things, while there are alternatives you don't see.
@@ -78,3 +80,5 @@ But I think it's worth considering since most students struggle academically, so
 I really have hope for abundant energy resources, so we can have plenty of computing and storage power, so that things like this, which are currently low-priority, can enrich the vision. The simplest thing I want is the source of truth, and the more painful the truth, the better.
 
 ![meme](https://i.imgflip.com/815s96.jpg)
+
+[[Meme]]

@@ -40,7 +40,7 @@ Ga peduli roadmapnya jelas atau nggak, yg penting ada kata kunci blockchain + sl
 
 “Token ini bakal dibuat program *charity*!”
 
-“To the moon! Elon musk bakal beli!”
+“To the moon! [[Elon Musk]] bakal beli!”
 
 “Harga masih di bawah 1 perak, kalo jadi 1 perak bakal 100000x!”
 
@@ -60,7 +60,7 @@ Liat dogecoin!
 
 Beli 20k di harga segini terus jadi segini.
 
-Meme coin yang entahlah gunanya apa. Masuk ke top 10 market cap mata uang crypto, dipompom Elon Musk. Ga peduli gunanya apa, kalo mayoritas nganggap itu berharga, ya berharga. Kalo ada yang mau beli, ya tetep ada harganya. “Masih di bawah $5 masih murah”. New paradigm katanya.
+[[Meme]] coin yang entahlah gunanya apa. Masuk ke top 10 market cap mata uang crypto, dipompom Elon Musk. Ga peduli gunanya apa, kalo mayoritas nganggap itu berharga, ya berharga. Kalo ada yang mau beli, ya tetep ada harganya. “Masih di bawah $5 masih murah”. New paradigm katanya.
 
 Atau ini, shiba inu ROI 1000% persen dalam 2 bulan. Inflasi koin-koin dengan tema anjing dan kebun binatang dengan visi koin hiburan. Banyak orang yang profit, buat bayar hutang pendidikan, buat beli materi ini itu, dan sebagainya.
 
@@ -111,7 +111,7 @@ Berkomentar mengenai rencana pembangungan Bukit Algorithma memang tidak bisa dil
 
 Latar belakangnya adalah ingin mengikuti Silicon Valley, dan saya kurang dapat menerima latar belakang semacam ini, berkiblat pada yang lain, pada barat khususnya, seolah-olah yang modern itu semuanya perlu diikuti. Memang Negara China yang terkenal dengan plagiarismenya terbukti maju, dengan sistem surveillencenya yang menimbulkan banyak perdebatan. Di sisi lain, peneliti dari barat menyebutkan bahwa sistem semacam tersebut melanggar hak-hak manusia, di sisi lain dalam beberapa video disebutkan masyarakat China justru merasa aman dengan adanya sistem tersebut. Menurut beberapa orang China, mereka justru merasa bahwa sistem tersebut dapat meningkatkan rasa kepercayaan antara satu sama lain. Dan perdebatan yang seharusnya menurut saya bukanlah mengenai bagaimana cara untuk meningkatkan dan mempercepat perkembangan teknologi. Melainkan akan jadi apa teknologi nanti di masa depan. Melihat saat ini terdapat penelitian-penelitian seperti {insert events here} yang membuat kita bertanya, apakah hal tersebut sesuai dengan etika?
 Dan menurut saya terlalu jauh untuk berbicara mengenai pembangungan daerah kawasan seperti ‘Silicon Valley’ di Indonesia dimana kesenjangan masih sangat tinggi. Bukannya saya sinis terhadap perkembangan teknologi, tapi setiap daerah memililiki karakteristiknya masing-masing. Dan akan ada ketidakcocokan apabila satu daerah dipaksa untuk mengikuti daerah lain. Selayaknya tabiat pada kepribadian setiap individu, setiap orang itu unik dan tidak bisa dipaksakan untuk menjadi orang lain. Bisa saja dipaksaka, namun dengan konsekuensi hasilnya tidak akan sesuai dengan apa yang dipaksakan sehingga bisa dirasakan bahwa ada keanehan pada outputnya, dan yang lainnya adalah orang tersebut tidak akan mencapai potensi terbaik yang dimilikinya.
-Mengutip dari Bung Hatta, Indonesia merupakan negara sangat sosial dan itu ciri khas dari Indonesia, seperti gotong royong, kekeluargaan, dan kedekatan antar tetangga. Dan ada satu hal lagi yang menurut saya yang perlu menjadi perhatian setiap pembangun bangsa, bahwa mayoritas masyarakat Indonesia beragama.
+Mengutip dari [[Mohammad Hatta|Bung Hatta]], Indonesia merupakan negara sangat sosial dan itu ciri khas dari Indonesia, seperti gotong royong, kekeluargaan, dan kedekatan antar tetangga. Dan ada satu hal lagi yang menurut saya yang perlu menjadi perhatian setiap pembangun bangsa, bahwa mayoritas masyarakat Indonesia beragama.
 
 ### Tidak dapat dijadikan liberal, dan individualis
 
@@ -138,11 +138,11 @@ Bukan ngebangun sesuatu yang sifatnya prestis, gengsi.
 Tapi ngebangun Fondasi, fundamental, dasar.
 Ngerangkul semua.
 
-Iklim yang dewasa, yang bebas dari para diktator, kata Bung Hatta,
+Iklim yang dewasa, yang bebas dari para diktator, kata [[Mohammad Hatta|Bung Hatta]],
 Resisten terhadap banyak gangguan, universal
 
 Bayangin orang2 MBA pada jadi marbot masjid, Alokasi resourcenya optimal, efektif, efisien. Ga akan ada kasus dana masjid ngendap berpuluh juta cuman dijadiin biaya operasional, atau dikorupsi kaya begini, semuanya transparan, resource terus diputer buat nyejahterain masyarakat daerah masjid, scr spiritual, intelektual, juga badan. Masjid yang dah maju bisa komunikasi sama masjid lain.
-Basis reasoning, ga ada yang baperan, beda pendapat diomongin. Orang salafi sama orang JIL diskusi, moderatornya Coki Muslim, orang Syiah, Mutazilah, Sufi, LDII, Cak Nun, Salim A Fillah semuanya diskusi bikin podcast. Beda pendapat santuy, yang penting teknologi di setiap masjid berkembang, bikin software, analisis data, manajemen, diskusi, dll.
+Basis reasoning, ga ada yang baperan, beda pendapat diomongin. Orang salafi sama orang JIL diskusi, moderatornya Coki Muslim, orang Syiah, Mutazilah, Sufi, LDII, [[Emha Ainun Nadjib|Cak Nun]], Salim A Fillah semuanya diskusi bikin podcast. Beda pendapat santuy, yang penting teknologi di setiap masjid berkembang, bikin software, analisis data, manajemen, diskusi, dll.
 Ada yang mencurigakan masyarakat tau semuanya, kenal sama tetangganya
 Kajian ilmiah, Literasi keuangan, literasi data, dll.
 Dari sana inovasi bisa tumbuh, ga perlu bangun komplek fisik yg makan triliunan

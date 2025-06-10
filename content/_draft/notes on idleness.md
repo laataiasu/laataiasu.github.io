@@ -26,7 +26,7 @@ discarded. Researchers will become totally proletarianized as they lose their pr
 
 "Idleness is the beginning of all vice, the crown of all virtues." [[Franz Kafka]]
 
-“A man can be himself only so long as he is alone, and if he does not love solitude, he will not love freedom, for it is only when he is alone that he is really free.” -Arthur Schopenhauer
+“A man can be himself only so long as he is alone, and if he does not love solitude, he will not love freedom, for it is only when he is alone that he is really free.” - [[Arthur Schopenhauer]]
 
 “All of humanity's problems stem from man's inability to sit quietly in a room alone.” ― Blaise Pascal, Pensées 
 

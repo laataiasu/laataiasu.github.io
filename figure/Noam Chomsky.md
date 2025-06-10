@@ -1,0 +1,4 @@
+# Noam Chomsky
+
+[[Manufacturing Consent]]
+
