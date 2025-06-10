@@ -40,7 +40,7 @@ Pak, buk, kak, teman-teman, binatang-binatang, tumbuh-tumbuhan, maafin aku karen
 
 ketelanjanganDan dengan aku mencintai semuanya, maka aku membanggakan ketelanjangan diriku! Seperti kata Johnny Sins di Q&A Sins TV yang kebetulan aku liat di youtube (kebetulan lho ya, gambarnya juga cuman aku cari di google, video aslinya semoga ga pernah aku liat, biografinya juga banyak di internet dan sungguh menginspirasiku.) yang kalo ditranslate kurang lebih seperti ini "Aku bangga seluruh dunia melihat pen*sku. Dan aku bangga terkenal karena p*nisku". Mungkin banyak orang yang berprasangka baik kepadaku dari perbuatan Tuhan menyembunyikan segala kedunguan dan dosaku melalui penampilan atau gerak-gerikku yang dibuatNya dengan baik.
 
-Tapi maafkan aku Ya Allah.
+Tapi maafkan aku Ya [[Allah]].
 
 Jika Engkau mencintaiku dan aku gatau apakah Engkau akan suka atau tidak dengan ketelanjanganku. Kali ini aku menelanjangi diriku tidak hanya di hadapan Engkau, melainkan kepada semuanya yang aku cintai. Aku tidak boleh pilih kasih hanya cinta padaMu, karena ciptaanMu begitu indah dan tiada kata yang bisa menjelaskan lebih dari indah. Maka aku mencintai Engkau dan yang merupakan dari bagianMu. Walaupun kecintaanku ini sepertinya akan membunuhku. Aku tidak mencintaiMu karena aku takut padaMu. Tapi karena aku mencintaiMu, maka aku takut pada padaMu. Aku takut kehilangan, kedapatan, semua yang berasal dariMu. Aku takut tak bisa membalas kebaikan atau keburukanMu. Aku takut jauh dariMu tapi aku juga takut dekat-dekat denganMu. Dan semuanya ini akibat kecintaanku padaMu. Oleh karenanya, aku harus jelaskan kecintaanku kepada segalanya dengan menelanjangi diriku.
 

@@ -12,7 +12,7 @@ This is the other example which I think is part of the law of comedy too,
 
 اللَّهُمَّ إلَّا أَنْ يَكُونَ فِي سَمَاعِهِ ضَرَرٌ دِينِيٌّ لَا يَنْدَفِعُ إلَّا بِالسَّدِّ
 
-"By Allah, even listening to a chant (or a musical instrument) is a terrible danger to one's religion, there is no other way than to block the path so as not to hear it."
+"By [[Allah]], even listening to a chant (or a musical instrument) is a terrible danger to one's religion, there is no other way than to block the path so as not to hear it."
 
 From Majmu 'Al Fatawa, Ahmad bin Abdul Halim Al Haroini, 11/567, Darul Wafa', third printing, 1426 H.
 
@@ -22,7 +22,7 @@ Let's take an example.
 
 When we are watching horror movies without music, we might feel not as scared as when we turn the horror sound on. Music will mess and manipulate the part of our brain to think and to prejudice something, even if it is not right.
 
-We're hypnotized to enjoy and to move without awareness. Even there are cases where music leads a few persons to commit suicide. We found it hard to explain because that's the genius of the music.
+We're hypnotized to enjoy and to move without awareness. Even there are cases where music leads a few persons to commit [[Suicide]]. We found it hard to explain because that's the genius of the music.
 
 It leads us to something that excites when we're listening to something. It manipulates us to be more excited and then full of positivity or negativity. In fact, in that case, we should try to understand logically with our mind what really happened in that situation without music. But we chose to depend on this evil creature.
 

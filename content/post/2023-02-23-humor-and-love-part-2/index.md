@@ -89,4 +89,4 @@ Maka hanya itulah yang aku bisa, mendorong orang untuk menodong siapapun yang te
 
 Maka inilah jalanku mencintaimu!
 
-[[Philosophy|filsafat]]
+[[lt_new/tags/Philosophy|filsafat]]

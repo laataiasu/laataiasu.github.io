@@ -10,7 +10,7 @@ Membalas thread ini:
 
 Masnya mungkin tidak sadar, bahwa kehadiran orang-orang seperti itu rezeki buat mas.
 
-Bahwa masnya bisa merasa lebih baik karena bisa membaca data, angka-angka statistik, paham betul mengenai banyak literasi saintifik berbasis logika, sedangkan nilai dan latar belakangnya saja beda-beda.
+Bahwa masnya bisa merasa lebih baik karena bisa membaca [[Data]], angka-angka statistik, paham betul mengenai banyak literasi saintifik berbasis logika, sedangkan nilai dan latar belakangnya saja beda-beda.
 
 Mereka mungkin tidak seperti mas yang "pintar" mencari rezeki sesuai definisinya. Tapi bisa saja rezeki yang mereka dapatkan melebihi definisi sesungguhnya rezeki.
 

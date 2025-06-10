@@ -26,7 +26,7 @@ For example in countries that allow possession of firearms. In terms of standard
 
 Then about the Aborigines, previously they were considered primitive and backward, until "modern people" came. They are forced to be sent to school, "educated", and even kidnapped with "good" intentions in order to be well-educated.
 
-In terms of standard of living, through education, they can get everything. However, are their quality of life increase? Discrimination continues to occur, even there's an Aboriginal area that has high suicide rates.
+In terms of standard of living, through education, they can get everything. However, are their quality of life increase? Discrimination continues to occur, even there's an Aboriginal area that has high [[Suicide]] rates.
 
 Related to technology, people can buy gadgets and enjoy social media services. But people can't buy security and privacy. Even the Indonesian president's class cannot protect his privacy when wiretapping occurs.
 

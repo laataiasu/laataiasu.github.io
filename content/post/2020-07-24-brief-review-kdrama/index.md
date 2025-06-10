@@ -16,7 +16,7 @@ Actually I have already watched a lot korean drama since I was in elementary sch
 
 In Junior High School I thought that I didn't watched korean drama because I was busy to do other activities but in Senior High School I thought even I was busier than in JNH because I joined organizations, I'd still have times to feel the boredom and check movies on my sister's notebook. And until now if I was boring, I check on my sister's notebook to copy the movies. (I never download by myself or search further about the update of korean series, SERIOUSLY MAN I AM NOT A KOREAWEEBS). And after that, I spent my time to watched it without any burden until now.
 
-I am sorry Ya Allah because I've wasted my times on these things and I hope that I learn something by watching a lot of these 😀
+I am sorry Ya [[Allah]] because I've wasted my times on these things and I hope that I learn something by watching a lot of these 😀
 
 So here's the list and brief review about korean drama that I have watched until now.
 
@@ -28,7 +28,7 @@ Musical drama series about dream, friendship, love, and taught me not need to ca
 
 ### Ghost (Panthom)
 
-Well I thought that this is a horror series because the title, but after I watched 1 episode, this is not a horror. This one makes me want pursuing my career in Computer or Information worlds. No romance in here and told about the darkness of cyber world by the perspective of cyber policeman who has involved with information, misused data, corruption, jurnalism, treason, etc. Really worthed to watch
+Well I thought that this is a horror series because the title, but after I watched 1 episode, this is not a horror. This one makes me want pursuing my career in Computer or Information worlds. No romance in here and told about the darkness of cyber world by the perspective of cyber policeman who has involved with information, misused [[Data]], corruption, jurnalism, treason, etc. Really worthed to watch
 
 ### Defendant
 
@@ -52,7 +52,7 @@ Told about the story of ugly girl who unempyoyed and try to propose a job. Too m
 
 ### Please Comeback Mister
 
-Divinity comedy that really fun to watch about a hard workman that accidentally died and come back again to life to prove that his dying is not suicide. Stopped until episode 11 because apparently my sister only download until that episode and I didn't curious about the ending until now.
+Divinity comedy that really fun to watch about a hard workman that accidentally died and come back again to life to prove that his dying is not [[Suicide]]. Stopped until episode 11 because apparently my sister only download until that episode and I didn't curious about the ending until now.
 
 ### Reply 1988
 
@@ -102,7 +102,7 @@ what i remembered is story about a radio anouncer who has a daughter when he was
 
 ### Hello Ghost
 
-i don't want to spoil. dark comedy about a moron who always fail to suicide. it made me cry
+i don't want to spoil. dark comedy about a moron who always fail to [[Suicide]]. it made me cry
 
 ### Sunny
 

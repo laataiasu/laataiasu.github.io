@@ -139,10 +139,10 @@ otakku, suatu pertahanan diri agar aku bisa mempersepsi bahwa dulu aku
 sudah *bahagia*.
 
 Tapi sekali lagi aku bertanya pada otakku, khususnya pada bagian
-departemen penerangan. Bagaimana cara mereka me-*manage* semua data yang
+departemen penerangan. Bagaimana cara mereka me-*manage* semua [[Data]] yang
 tersimpan dan algoritma apa yang mereka gunakan untuk memenuhi query
 yang aku request dalam beberapa tahun, khususnya pada masa kini. Apakah
-sistem penyimpanan dan manajemen data mereka tidak ada kecatatan atau
+sistem penyimpanan dan manajemen [[Data]] mereka tidak ada kecatatan atau
 terdapat manipulasi di dalamnya.
 
 Yang aku selidiki sekali lagi bagaimana bisa mereka memproses semuanya
@@ -443,7 +443,7 @@ soleh, dengan tangan dilipet. Besoknya si Santhi ngomong ke aku
 terus ga aku jawab cuman ketawa doang”. Sambil senyum manis dan
 berseri-seri
 
-F\*\*\*ck tambah ngefly, makin pede, makin suka aku sama dia Ya Allah
+F\*\*\*ck tambah ngefly, makin pede, makin suka aku sama dia Ya [[Allah]]
 waktu itu.
 
 Aku pikir waktu itu untuk ngelepasin banyak pikiran cinta waktu itu aku

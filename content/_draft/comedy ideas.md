@@ -91,7 +91,7 @@ Orang ipa ips kata si pa tantan. Maaf ya saya anak kuliah, harus mencantunkan re
 
 Open relationship tuh goblok bngt. Istri will smith
 
-Sama LGBT ya, kalo laki2 sebenarnya lu mendukung L nya mungkin. Kalo gw ngga, gw ngga, karena gw anak rohis. Gw sangat menolak LGBT. Katanya pendukung LGBT, lgbt itu tidak merugikan orang lain. toh banyak ilmuwan produktif dr lgbt menurut data dari https://www.facebook.com . Nah argumen itu gw susah counternya. 
+Sama LGBT ya, kalo laki2 sebenarnya lu mendukung L nya mungkin. Kalo gw ngga, gw ngga, karena gw anak rohis. Gw sangat menolak LGBT. Katanya pendukung LGBT, lgbt itu tidak merugikan orang lain. toh banyak ilmuwan produktif dr lgbt menurut [[Data]] dari https://www.facebook.com . Nah argumen itu gw susah counternya. 
 
 Cuman ada 1 statement yang bikin gw merasa menang (hahaha im gonna end this whole lgbt). Lu tau kan global warming dan overpopulation, karena bumi ini udah kaya gitu, katanya lgbt itu justru diciptakan tuhan untuk menurunkan populasi manusia gitukan biar ga overpopulasi dan global warming. Ini sebenarnya udah ketebak ini, saya ga perlu melanjutkan. Terus, bukannya kalo sekaligus dibunuh itu justru tambah menurunkan populasi. Yang dibunuh siapa? ngga, bukan lgbt. aduh anjir siapa lagi. Nah ini ada katanya kan orang2 depresi ingin bunuh diri, di [swiss](https://traveling.bisnis.com/read/20211209/361/1475632/kapsul-bunuh-diri-swiss-diresmikan-proses-menuju-kematian-kurang-dari-1-menit) aja ada alat untuk bunuh diri gitu kan, nah itu aja yang dibunuh. Bukan lgbt, bukan. aman kan. 
 
@@ -123,7 +123,7 @@ Ni tuh kaya gw jadi pembully yg nganalisis dengan detail target bully gw
 
 2023-03-01
 
-gw ga ngerti sm muslim di ramadhan, biasanya suka ngaji banyak bngt tiba2 entah knp.
+gw ga ngerti sm muslim di [[Ramadhan]], biasanya suka ngaji banyak bngt tiba2 entah knp.
 
 maksudnya orang tuh pada ngerti artinya gasih, pas solat, pas ngaji. 1 huruf 1 kebaikan
 
@@ -146,7 +146,7 @@ Gw dulu tuh ingin jsdi guru ya, to setelah tau guru bisa korupsi
 Goblok bngt ya pas smp sma belajar pencernaan sapi. Astronaut ke luar angkasa aja lu buay apa pencernaan sapi? Ustad aja gasampe bilang *jelasin sistem pencernaan sapi. Tp kalo jd standup comedy kepake ya. Dan akhirjya gw nyadar, bahwabada jg loh pelajaran yg dulublo pelajarin berguna, walaupun lebih banyak yg ga gunanya
 
 Raditya dika konten horror vs [[Investment]]/opportunity cost. jerome polin hiburan atau matematika, ujung2nya hiburan. Pendidikan itu harusnya liat gini ya, karena hiburan lebih dibutuhkan.
-Jangan bikin ujian, ujian hidup dr allah. Jangan menyaingi allah. Banyak guru agama ngomong jangan menyaingi tuhan, lah ini guru agama. Makanya diubah namanya gitukan jadi ulangan, ganti lockdown ppkm level 1. snmptn sbmptn
+Jangan bikin ujian, ujian hidup dr [[Allah]]. Jangan menyaingi [[Allah]]. Banyak guru agama ngomong jangan menyaingi tuhan, lah ini guru agama. Makanya diubah namanya gitukan jadi ulangan, ganti lockdown ppkm level 1. snmptn sbmptn
 
 Sbmptn
 
@@ -170,7 +170,7 @@ ini serius pengalaman nyata. impresi dan asumsi dari orang tuh gila bngt efeknya
 
 Snmptn tuh merusak pertemenannya. The art of war ini diajarkan di snm untuk bersaing, nanti ada categorynya, pay to win, horror
 
-gila gw keren bngt masuk sbmptn. padahal ga jujur, gw bohong ya hasil usaha sendiri. Di OA Line itu banyak bocoran, ada soal asli, ada soal dr bimbel yg mirip bngt. Iya gitu, gw sampe nanya, ya allah apakah ini rezeki ataukah ini ujian? soal yg tersebar luas ini harus aku apakan ya allah. ini mirip lu nemu uang di jalan, harus dikemanain. kalo uang kan lu msh bisa ya di ke kotak amalin, jadi sedekah, lah ini soal bocoran harus dikemanain? Itu soal bocoran gabisa tuh buat bayar tagihan air listrik masjid tuh gabisa
+gila gw keren bngt masuk sbmptn. padahal ga jujur, gw bohong ya hasil usaha sendiri. Di OA Line itu banyak bocoran, ada soal asli, ada soal dr bimbel yg mirip bngt. Iya gitu, gw sampe nanya, ya [[Allah]] apakah ini rezeki ataukah ini ujian? soal yg tersebar luas ini harus aku apakan ya [[Allah]]. ini mirip lu nemu uang di jalan, harus dikemanain. kalo uang kan lu msh bisa ya di ke kotak amalin, jadi sedekah, lah ini soal bocoran harus dikemanain? Itu soal bocoran gabisa tuh buat bayar tagihan air listrik masjid tuh gabisa
 
 kalo gw pelajarin soalnya, gw takut termasuk orang yg licik. Kalo ga buang aja gitu kan mubazir gitu, ada yg kasih masa ga dipake
 
@@ -249,7 +249,7 @@ Orng teknis harusnya lbh dihargai, kabel di bawah laut. Kan datanya itu dari ser
 
 Tapi pikiran laki2 itu gampang ditebak, ada batang dimasukin ke mulut digosok2 keluar deh busanya, iya orang lagi sikat gigi.
 
-Ya balik lg ke binatang laut kasian aja gitu, ini mirip lu bawain makanan ke tetangga lu, terus ada tetangga lu yg beda agama tp ga lu kasih, maksudnya ya sembunyi2 aja gitu jangan keluar rumah pake gofood kek biar keliatannya bukan dr lu. Sama gitu ini juga data film anu yg lu tonton cmn lewat doang. Binatang laut juga butuh hiburan juga kan, contohnya ikan paus aja. Misalnya ikan paus ga bakat apa2 kan nanti bisa joget2 foto2 trs kirim ke internet.
+Ya balik lg ke binatang laut kasian aja gitu, ini mirip lu bawain makanan ke tetangga lu, terus ada tetangga lu yg beda agama tp ga lu kasih, maksudnya ya sembunyi2 aja gitu jangan keluar rumah pake gofood kek biar keliatannya bukan dr lu. Sama gitu ini juga [[Data]] film anu yg lu tonton cmn lewat doang. Binatang laut juga butuh hiburan juga kan, contohnya ikan paus aja. Misalnya ikan paus ga bakat apa2 kan nanti bisa joget2 foto2 trs kirim ke internet.
 
 Kenapa ikan paus? Karena menurut saya ikan paus itu lucu ya. Makan plankton, di air berenang,. Buat makan aja harus buka mulut selebar2nya, anda itu ikan paus atau wanita karir cabang onlyfans.
 
@@ -283,7 +283,7 @@ Pernah lah ya, kalo lu ga pernah gw yakin lu orangnya sangat bahagia, dan sangat
 
 Gua yakin lumayan banyak ya, karena ga banyak ga mungkin lu ada disini, pastinya lu memperjuangkan cita2 lu daripada nontonin orang ngomong ngalur ngidul kaya gini XD
 
-Iya gitu, gua tuh sering nanya, kenapa hidup tuh ga adil. Banyak orang miskin, sakit, cacat, perang, dilecehkan. Intinya banyak banget penderitaan. Dan gua sering berdoa ya allah hilangkanlah penderitaan
+Iya gitu, gua tuh sering nanya, kenapa hidup tuh ga adil. Banyak orang miskin, sakit, cacat, perang, dilecehkan. Intinya banyak banget penderitaan. Dan gua sering berdoa ya [[Allah]] hilangkanlah penderitaan
 
 Dan ternyata gua mikir gitu tuh karena gw mainnya kurang jauh. Setelah gua peralihan dari SD ke SMP, iya gua dulu mikir gitu jaman sd smp sdit ke sd negeri kan. Dan ternyata, gua nyadar pemikiran gua tuh salah setelah pas smp ada teman yang memperkenalkan gua ke dunia film dewasa. Ya akhirnya gua nonton, pernah tuh lagi sendirian, ya tuhan ini serius gua sebenarnya ga pengen. Cmn gw mau ngetes doang sebenarnya gua tuh mandul apa ngga gitu. Dan akhirnya lu tau sendirilah pengalaman pertama menuju guilty pleasure, kesenangan yang bersalah. akhirnya gitu terus, tuhan gw cmn ngetes doang, eh keterusan ya sampe skrng. nofap woy mana penjuang nofap, we are brother, SEMANGAT BROO YAKIN BROO
 
@@ -295,7 +295,7 @@ Karena gw takutnya pas gw berdoa dan terus dikabulin, semua orang nanti jadi bah
 
 gw takutnya justru mereka menggumamkan kebalikan dari gw. tuhan kenapa hidup ini terlalu bahagia, saya ingin sakit tuhan, “tambahkanlah penderitaan orang2 ya tuhan!”. balance as the things should be. maksudnya gw udah cape2 doa, eh malah dibalikin. Kalo tau gitu kan gw mending doa aja semoga gw bisa sex party sepuasnya pas udah mati nanti, kaya kata ustad yg di tv itu, kacau itu ustad kaya gitu. Ya mungkin benerannya memang ada, tapi ya jangan diceritain di publik woi.
 
-Nah, jangan-jangan ya orang yang lebih suka penderitaan tuh doanya lebih manjur, makanya banyak yang menderita di dunia ini. Iya gitu kalo lu muslim, lu tau ada hadist orang yg sakit itu diijabah doanya oleh allah, dan tidak ada sepeser pun sakit jiwa tidak diampuni dosanya oleh tuhan. nah ini mungkin mereka tuh menderita dan ingin menderita lagi gitu, jadi double efeknya. doa gw ga akan menang broh kalo gitu, udah licik duluan itu. 
+Nah, jangan-jangan ya orang yang lebih suka penderitaan tuh doanya lebih manjur, makanya banyak yang menderita di dunia ini. Iya gitu kalo lu muslim, lu tau ada hadist orang yg sakit itu diijabah doanya oleh [[Allah]], dan tidak ada sepeser pun sakit jiwa tidak diampuni dosanya oleh tuhan. nah ini mungkin mereka tuh menderita dan ingin menderita lagi gitu, jadi double efeknya. doa gw ga akan menang broh kalo gitu, udah licik duluan itu. 
 
 lu licik sumpah orang2 masochist. pengaturan score, lebih jahat daripada mafia bola di italia
 

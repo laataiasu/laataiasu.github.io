@@ -8,7 +8,7 @@ title: "Rindu: Redefining Existence From Silence to Survival"
 
 I don't know why the world is so disconcerting, other individuals are effortlessly engaging while I struggle. When I behave too amiably and act normally, they show no interest in me, and when I act mischievously, they talk behind my back. Only a few people want to befriend me, and after a long time, we feel like strangers, and I don't have any friends anymore. This cycle repeats in my life, and I envy those who have many friends, even if their friends are unpleasant. At least they have friends. I envy people with fervor; they know what they need to do. I am unaware of my own abilities; countless times I have contemplated but failed to grasp them. People surround me, yet I still feel alone, ignorant of my abilities and passions. I have read countless thought-provoking quotes, books, but they have been futile in helping me. I waste my time riding alone and playing games. Am I truly alive? My soul has perished; I have died countless times in this harsh world. Welcome to my existence.
 
-Alone, stressed, depressed, isolated, longing for death, yearning to vanish from this earth, contemplating suicide? You're not alone, there are many people like you. Spare me the chatter.
+Alone, stressed, depressed, isolated, longing for death, yearning to vanish from this earth, contemplating [[Suicide]]? You're not alone, there are many people like you. Spare me the chatter.
 
 Be grateful, there are many who are facing greater difficulties than you... enough of the talk.
 

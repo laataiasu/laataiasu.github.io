@@ -14,7 +14,7 @@ I hate smart gifted kids as I hate older who see their smart gifted friends fail
 
 I learn everyday to avoid become them. I don't want to be a book smart, to be a number one in academic. But it turned out my lust for recognition is higher than my ability to suppressed my desire. So I try everything I can to secure my position as someone who look smart in the number. And I knew it is all lie. You can easily manipulate everything in order to be number one. It's not the number one that you should aim, but rather in the process of searching that is matter. 
 
-Thats why I hate it. I don't want to be like them. I need to find my way. I don't want any smartest kid in their room feel dismal because of their loneliness. I want them to feel that their loneliness is power. That loneliness that power them to create something. The anxiety that boost them to break the limit of everything so they can see what anyone can't see. It should be something that empower them to create something miracle monster. 
+Thats why I hate it. I don't want to be like them. I need to find my way. I don't want any smartest kid in their room feel dismal because of their loneliness. I want them to feel that their loneliness is power. That loneliness that power them to create something. The [[Anxiety]] that boost them to break the limit of everything so they can see what anyone can't see. It should be something that empower them to create something miracle monster. 
 
 Thats why I need to remember my enemy. I don't desire friends. I desire enenmy, for they make me feel alive only to crush them. I need them more than my friends. I don't desire happiness. I desire revenge. 
 
@@ -81,7 +81,7 @@ I hate MKD who ignores my messages.
 
 I hate MR cause he can't run Maung generation well and make all of members feel included. 
 
-I hate ML, M, or MA because they can't run FUKI well and maximize the potential of their members. 
+I hate ML, M, or MA because they can't run [[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] well and maximize the potential of their members. 
 
 I hate AS & FA who complicate the administration process. 
 

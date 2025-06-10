@@ -28,7 +28,7 @@ In [[Islam]], the best jihad is to fight tyrannical figures.
 
 But I rarely find this in most Muslims. Instead, they do just as I do: engage in something that feels good, and then others exploit their work, and they act as if they're okay with it. They never take the bait of the abuser.
 
-And you find your justification, 'just be grateful,' 'Gusti Allah mboten sare,' 'karma is real,' and so on.
+And you find your justification, 'just be grateful,' 'Gusti [[Allah]] mboten sare,' 'karma is real,' and so on.
 
 You allow all the abusers to be comfortable with their actions. I act as if I were blind, not to see all the tyrannical things, and hope that nature could seek revenge for us.
 

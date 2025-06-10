@@ -4,7 +4,7 @@ tags: ["muslim", "essay", "story"]
 title: Football Manager 2008
 ---
 
-Untuk FUKI dan Lembaga Dakwah Lainnya
+Untuk [[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] dan Lembaga Dakwah Lainnya
 
 ![https://images6.alphacoders.com/114/thumb-1920-1148628.jpg](https://images6.alphacoders.com/114/thumb-1920-1148628.jpg)
 
@@ -18,7 +18,7 @@ Ujung-ujungnya kata Jack Dorsey harus jadi egois, tidak terlalu peduli dengan ya
 
 Mirip dengan konsep Ibnu Bajjah tentang **Tadbir Al-Mutawahid**
 
-Secara tidak langsung, konsep itu ada hubungannya juga dengan apa yang ingin saya nyinyiri saat ini, yaitu Lembawa Dakwah Kampus, atau saya bakal kerucutkan akan nyinyir khusus untuk **FUKI Fasilkom **.
+Secara tidak langsung, konsep itu ada hubungannya juga dengan apa yang ingin saya nyinyiri saat ini, yaitu Lembawa Dakwah Kampus, atau saya bakal kerucutkan akan nyinyir khusus untuk **[[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] Fasilkom **.
 
 > Tulisan saya sering muter-muter, gatau kenapa selalu ngerasa ada banyak hal yang berhubungan -__-
 > 
@@ -29,7 +29,7 @@ Dulu pas saya main Football Manager 2008, saya sering kesal apabila ada pemain y
 
 Dan menurut saya aturan paling dasar dari organisasi, bahwa organisasi perlu memaksimalkan potensi setiap anggotanya agar dapat berkontribusi secara maksimal kepada organisasi, yang pada dasarnya untuk mencapai `visi` organisasi.
 
-Maka, manager yang gagal adalah manager yang tidak tau potensi sebenarnya dari organisasinya, dan elemen organisasi yang paling berpengaruh tentunya anggotanya. Hal awal yang perlu dilakukan setiap yang memimpin menurut saya adalah mengetahui potensi dari setiap yang dipimpinnya, dan menurut saya FUKI kurang melihat hal itu.
+Maka, manager yang gagal adalah manager yang tidak tau potensi sebenarnya dari organisasinya, dan elemen organisasi yang paling berpengaruh tentunya anggotanya. Hal awal yang perlu dilakukan setiap yang memimpin menurut saya adalah mengetahui potensi dari setiap yang dipimpinnya, dan menurut saya [[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] kurang melihat hal itu.
 
 ### **Tentang Visi dan Misi**
 
@@ -39,7 +39,7 @@ Dan menurut saya ini kurang terlihat di visi dan misinya, yang membawa ke realis
 
 ### **Merendahkan Anggotanya**
 
-Merendahkan itu tidak selalu terlihat di fisik, tapi lebih banyak di proses mental, dan FUKI ini menurut saya sangat merendahkan anggotanya.
+Merendahkan itu tidak selalu terlihat di fisik, tapi lebih banyak di proses mental, dan [[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] ini menurut saya sangat merendahkan anggotanya.
 
 > "Jangan tanyakan apa yang negara berikan kepadamu, tapi tanyakan apa yang kamu berikan kepada negara", 
 

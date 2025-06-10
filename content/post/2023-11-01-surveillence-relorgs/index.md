@@ -58,7 +58,7 @@ Data is the most perverted things akin to the devil's mephistophelean influence.
 
 Anyone who is passionate about building data-intensive applications has a voyeuristic inclination. While voyeurism is considered bad, it is now normalized in business. Essentially, people are being the target of voyeuristic all the time, but they close their eyes and numb themselves, or they don't realize that they enjoy being under surveillance because only then can they feel like they're getting what they desire and being taught how to desire every day.
 
-But we can always gaslight ourselves. Giving our data is part of sodaqoh and charity in [[Islam]]. And we trust others perfectly as we have faith in Allah, especially businessmen, that we believe they will hide our aib if we have. And by that we can have ihsan attitude (where you always feel watched over by God so that you always behave in a commendable manner).
+But we can always gaslight ourselves. Giving our data is part of sodaqoh and charity in [[Islam]]. And we trust others perfectly as we have faith in [[Allah]], especially businessmen, that we believe they will hide our aib if we have. And by that we can have ihsan attitude (where you always feel watched over by God so that you always behave in a commendable manner).
 
 ![designing surveillance app](<designing surveillance app.png>)
 

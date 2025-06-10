@@ -21,7 +21,7 @@ The distance between my grandma's house and the mountain is approximately 30KM. 
 
 And finally arrived there in 4:30 pm. 
 
-My stupidity was I wanted to climb mountain, without proper equipment, and the weather was rain. I talked to the officer there and asked how much do i have to pay to climb the mountain. He said 15,000 rupiah, and he suggested me to comeback tomorrow. But I refuse, because at that time I was going to have to take the train at night. And when I want to pay, the officer let me climb without pay. I didn't know why, maybe because I was looked miserable and he thought I will commit suicide and he din't want to pay the assurance, I dont know maybe he's just too kind lol. 
+My stupidity was I wanted to climb mountain, without proper equipment, and the weather was rain. I talked to the officer there and asked how much do i have to pay to climb the mountain. He said 15,000 rupiah, and he suggested me to comeback tomorrow. But I refuse, because at that time I was going to have to take the train at night. And when I want to pay, the officer let me climb without pay. I didn't know why, maybe because I was looked miserable and he thought I will commit [[Suicide]] and he din't want to pay the assurance, I dont know maybe he's just too kind lol. 
 
 At that place there are about 5 people and they stare at me like 'this guy is weird'. I started conversation and try to be friendly but they're just answer me with serious answer. Suddenly I was tired of being "friendly" and I didn't care, I just wanna climbed the mountain.
 

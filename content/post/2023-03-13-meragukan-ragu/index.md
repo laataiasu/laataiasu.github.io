@@ -26,13 +26,13 @@ Secara sederhana Islamlah jawabannya.
 
 ٱدْعُوا۟ رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُعْتَدِينَ
 
-"Berdoalah kepada Tuhanmu dengan berendah diri dan suara yang lembut. Sesungguhnya Allah tidak menyukai orang-orang yang melampaui batas." (QS. Al-Ma'idah: 87)
+"Berdoalah kepada Tuhanmu dengan berendah diri dan suara yang lembut. Sesungguhnya [[Allah]] tidak menyukai orang-orang yang melampaui batas." (QS. Al-Ma'idah: 87)
 
 Selanjutnya,
 
 يٰمَعْشَرَ الْجِنِّ وَالْاِنْسِ اِنِ اسْتَطَعْتُمْ اَنْ تَنْفُذُوْا مِنْ اَقْطَارِ السَّمٰوٰتِ وَالْاَرْضِ فَانْفُذُوْاۗ لَا تَنْفُذُوْنَ اِلَّا بِسُلْطٰنٍۚ - ٣٣
 
-"Wahai golongan jin dan manusia! Jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan (dari Allah)." (QS. Ar-Rahman: 33).
+"Wahai golongan jin dan manusia! Jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan (dari [[Allah]])." (QS. Ar-Rahman: 33).
 
 Siapa yang menafsirkan langit adalah kedalaman lautan yang belum terjamah manusia?
 

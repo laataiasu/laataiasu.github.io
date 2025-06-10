@@ -22,6 +22,6 @@ So what I experienced now is an event that my intuition didn't work well and I n
 
 _Nothing_
 
-Actually I want to write the benefit of using it, the slow connection after the data reached the limit, and it made me more patient and philosophy behind them but I am just lazy right now.
+Actually I want to write the benefit of using it, the slow connection after the [[Data]] reached the limit, and it made me more patient and philosophy behind them but I am just lazy right now.
 
 And now here I am, running from reality that provider which I choose is actually shit and by such of thinking I tried to make myself feeling better. Does by analyzing and deep thinking make me feel better to the wrong decision that I have been made? Well it less help me, but honestly I don't know.

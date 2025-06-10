@@ -56,7 +56,7 @@ Jadinya cuman dipendem, pas sama keluarga sering diem tapi ttp senyum
 dikit, dan cuman cerita kalo ditanaya, tapi pas cierta juga ada yg
 disembunyiin. Udah ga ngehafal quarn lagi, pura2 solat.
 
-**Ramadhan pas mesen makan (ada scene tetangga, proses bisnis ayam
+**[[Ramadhan]] pas mesen makan (ada scene tetangga, proses bisnis ayam
 goreng, sama kenapa ga keanter)**
 
 Salah pesen, gara2 produk tetanggannya, akhirnya konflik

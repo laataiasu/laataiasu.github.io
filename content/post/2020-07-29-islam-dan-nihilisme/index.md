@@ -18,7 +18,7 @@ Saya tidak memiliki referensi yang jelas tentang eksistensialisme maupun nihilis
 
 Dalam [[Islam]] semuanya seakan sudah beres, dan tidak perlu lagi usaha untuk menemukan. Padahal usaha untuk “berusaha" adalah hal yang sejak dulu tidak pernah saya pahami, yang membuat saya mencari kepada yang lain, yang begitu saya dapatkan ternyata mengarah kepada usaha untuk “berusaha".
 
-Bukan seperti Yahudi yang terus mencari dan akan menaklukan “rumah", bukan pula cinta kasih Kristen yang merasa pengorbanan adalah yang membuatnya bebas dan takut melakukan apa saja, tapi [[Islam]], yang secara referensi saya yang lemah adalah sebuah penyerahan, usaha untuk “berusaha", simbol dari penyerahan yang membuahkan kesuksesan, kekuasaan. Dan kekuasaan dan kesuksesan bukan apa-apa melainkan milik suatu simbol yang tidak dapat dinilaikan.
+Bukan seperti Yahudi yang terus mencari dan akan menaklukan “rumah", bukan pula cinta kasih [[[[Christian]]|kristen]] yang merasa pengorbanan adalah yang membuatnya bebas dan takut melakukan apa saja, tapi [[Islam]], yang secara referensi saya yang lemah adalah sebuah penyerahan, usaha untuk “berusaha", simbol dari penyerahan yang membuahkan kesuksesan, kekuasaan. Dan kekuasaan dan kesuksesan bukan apa-apa melainkan milik suatu simbol yang tidak dapat dinilaikan.
 
 Maka dari itu, saya berusaha serasional mungkin, dan memang bijak bahwa dari kerasionalan dan empirisme, sesuatu itu tidak dapat diuji dan digali lebih dalam. Saya bisa saja menyerah dalam tahap ini. Membiarkan “tidak mengetahui" berada dalam sistem kesadaran yang terjauh. Tapi rasionalitas dan kegilaan saya bahkan tidak dapat menempatkannya selagi saya melangkah lebih jauh untuk mencari di antara yang terbid’ah dan yang termutasyabih.
 

@@ -21,7 +21,7 @@ Galileo galilei
 
 Eps 1, spinoza
 
-Eps 2, Ahura mazda, buddha, Ashoka
+Eps 2, Ahura mazda, [[Buddha]], Ashoka
 
 Eps 3, goldschmit geology
 

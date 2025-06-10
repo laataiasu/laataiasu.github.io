@@ -11,7 +11,7 @@ draft: false
 ![alt text](image.png)
 
 - ui/ux nya jelek
-- data yg harusnya publik malah dipersulit buat scraping
+- [[Data]] yg harusnya publik malah dipersulit buat scraping
 - ga bisa dibookmark, request method 'POST' -_-
 
 ## alternatif web

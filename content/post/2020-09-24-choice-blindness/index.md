@@ -18,7 +18,7 @@ If we let ourselves think fictionally, or it's not fiction after all, what happe
 
 And based on fictional thinking such that, you're gonna accept everything that happened in your life. Even you will find that you're gonna enjoy and love all of your scarcities from your perspective.
 
-Overthinking, insecurity, anxiety, depression, serious disease, and any other that people perceive as negative aspects will be enjoyed after seeing what might happen in the future. That all those things will disappear.
+Overthinking, insecurity, [[Anxiety]], [[Depression]], serious disease, and any other that people perceive as negative aspects will be enjoyed after seeing what might happen in the future. That all those things will disappear.
 
 Painful memory can be eliminated, stress when thinking can be stopped, all things are easily obtained and eliminated. Everyone is forced by society or themself to be happy, not sick, clever, beautiful, and perfect. And there will be no more things that the majority of people perceive as illness or scarcity.
 

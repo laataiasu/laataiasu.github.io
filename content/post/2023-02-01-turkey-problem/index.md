@@ -12,7 +12,7 @@ There is something known as the "turkey problem." We often place our trust in in
 
 Why does this happen?
 
-If we examine addiction from a researcher's "hammer" perspective, it provides some insights. 
+If we examine [[[[Addiction|Addiction]]|addiction]] from a researcher's "hammer" perspective, it provides some insights. 
 
 {{< youtube id="66cYcSak6nE" >}}
 

@@ -13,9 +13,9 @@ I've come to understand concepts like the 'spotlight effect,' delved into the in
 
 The phrase "kullu nafsin daikotul maut" resonates, reminding us that every soul will face mortality. Then there's YOLO, the philosophy of seizing the day, and the notion of entropy and complexity, which rise with the passage of time. It's fascinating how youth, before the age of 25, often wrestle with heightened neuroticism.
 
-Despite immersing myself in these perspectives, overcoming my social anxiety remains a challenge. I've made attempts to adapt and acclimate over months, if not years, without keeping exact track. Studying for my bachelor's degree in the bustling heart of Jakarta, a city teeming with life, has provided ample opportunities to navigate its bustling public transport system solo.
+Despite immersing myself in these perspectives, overcoming my [[Social Anxiety]] remains a challenge. I've made attempts to adapt and acclimate over months, if not years, without keeping exact track. Studying for my bachelor's degree in the bustling heart of Jakarta, a city teeming with life, has provided ample opportunities to navigate its bustling public transport system solo.
 
-Yet, having grown up in [[Indonesia]], a culture deeply rooted in social interactions, there lingers a touch of social anxiety whenever I find myself undertaking activities alone—particularly when it comes to dining in public spaces.
+Yet, having grown up in [[Indonesia]], a culture deeply rooted in social interactions, there lingers a touch of [[Social Anxiety]] whenever I find myself undertaking activities alone—particularly when it comes to dining in public spaces.
 
 The question of which societal framework is superior—individualistic or social—persists. Each has its distinct traits, merits, and drawbacks. In cultures that prioritize social cohesion, like mine, navigating these nuances can be a rewarding but intricate endeavor.
 
@@ -41,11 +41,11 @@ i knew things like 'spotlight effect', 'the mind explained netflix series', or a
 
 kullu nafsin daikotul maut (everyone will die), YOLO, carpe diem, enthropy and complexity as high as the time goes, and people more neurotical in youth age before 25, and so on.
 
-but i still find it hard to cure my social anxiety, i dont know.
+but i still find it hard to cure my [[Social Anxiety]], i dont know.
 
 i try to adapt and make myself used to it for a couple of months or years, i didnt count or tracked it. but since i study for bachelor degree in near jakarta, big city with big populations, and the public transport is better, i could make myself used to go to anywhere alone, 
 
-but since i grew up in [[Indonesia]] which more inclined to social, there's something social anxiety whenever you do anything alone, especially when when i need to eat in the public restaturant or something.
+but since i grew up in [[Indonesia]] which more inclined to social, there's something [[Social Anxiety]] whenever you do anything alone, especially when when i need to eat in the public restaturant or something.
 
 and which one is better, whether country which is more individual or social, becuase each of them have different unique characteristics, pros and cons. but for social cultured
 
@@ -71,7 +71,7 @@ happiness is only for woman, and for high level director, because they have feel
 
 i can't never empathize with woman. like i cant imagine every month i should change diaper, and one day i should bring life to this hell. i cant empathize with it, with woman, or high level ceo, the leaders, big people. so its understandable that woman should be happy.
 
-but for little man like me who is lacking of pain, they must find it the pain, they must suffer. there's no one aprreciate your lumber, the builder of link under the sea, bringing sampah and others. a man can only appreiate themself. one who cannot appreciate themself falls into depression, addiction, or even suicide, they they bare too much pain, forgot how to be a woman. 
+but for little man like me who is lacking of pain, they must find it the pain, they must suffer. there's no one aprreciate your lumber, the builder of link under the sea, bringing sampah and others. a man can only appreiate themself. one who cannot appreciate themself falls into [[Depression]], [[[[Addiction|Addiction]]|addiction]], or even [[Suicide]], they they bare too much pain, forgot how to be a woman. 
 
 its not that im anti of happiness, happiness is needed for enjoyment of long life, but its more like by product of action, not the output you'd like to pursue.
 

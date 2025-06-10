@@ -14,7 +14,7 @@ What we can have is tolerance for being mocked. Those who possess it are an alte
 
 To transform mockery to justify their cowardice.
 
-Like [[Abdurrahman Wahid|Gus Dur]] said, Allah doesn't need defending. 
+Like [[Abdurrahman Wahid|Gus Dur]] said, [[Allah]] doesn't need defending. 
 
 I'll add, those who say that are just trying to spread their religion, and it's their right. I suppress my cowardice not to fight the mocker because they are simply crazy. Don't waste your energy fighting them.
 

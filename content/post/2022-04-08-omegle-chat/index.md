@@ -1,11 +1,11 @@
 ---
 date: "2022-04-08T00:00:00Z"
 tags: ["story"]
-title: Omegle Chat in Ramadhan
+title: Omegle Chat in [[Ramadhan]]
 ---
 
 ```
-Cant sleep after sahur and wtf this satan is doing. They said satan is not shown up during Ramadhan. 
+Cant sleep after sahur and wtf this satan is doing. They said satan is not shown up during [[Ramadhan]]. 
 But I thought it is proven that I am the satan, after all this time. 
 On the internet you can be anything you want. I should've just read quran and pray, but dunno this morning I just mad about OmeTV.
 
@@ -23,7 +23,7 @@ With the failure of speaking with international people or Indonesian who speak e
 Maybe that day my fast is just meaningless. 
 Dont care and that day I just tryin to act like a doomer psycho girl lol.
 Bruh why he really trust that I'm a woman, dunno. I enjoyed it.
-My Ramadhan is ruined, astagfirullah.
+My [[Ramadhan]] is ruined, astagfirullah.
 
 If im not wrong, it was at approximately at 5 AM when this convo happened...
 ```
@@ -160,7 +160,7 @@ Stranger: Lol
 
 Stranger: Sure
 
-You: are you christian?
+You: are you [[Christian]]?
 
 Stranger: Sometimes
 
@@ -170,7 +170,7 @@ Stranger: Nope
 
 Stranger: Just Easter and Christmas
 
-You: youre a bad christian then
+You: youre a bad [[Christian]] then
 
 You: why are you not convert to [[Jew]]?
 
@@ -178,7 +178,7 @@ Stranger: That's because you're a bad influence
 
 Stranger: Are you a Jew?
 
-You: jew is more genius than christian
+You: jew is more genius than [[Christian]]
 
 You: so you think noah and moses are real?
 
@@ -444,7 +444,7 @@ Stranger: I'm not a philosopher
 
 Stranger: I just want to make money
 
-You: youre a christian
+You: youre a [[Christian]]
 
 Stranger: Can you tell me your name
 

@@ -24,7 +24,7 @@ But as Kierkegaard said, "You're doing it, you regret it. You're not doing it, y
 
 Beside the events, I got gopay coint so much, thanks to the investor of goto.
 
-And I always thought not everything should be experiment. It wasting resources, but we don't know whether it might have a positive impact or not to the future. I don't care anyway, I always follow my intuition, my intuition by observing the data and the data which can't be observed. 
+And I always thought not everything should be experiment. It wasting resources, but we don't know whether it might have a positive impact or not to the future. I don't care anyway, I always follow my intuition, my intuition by observing the [[Data]] and the [[Data]] which can't be observed. 
 
 ---
 I amaze of my friends idea and skills to implement their idea, especially to help societies. But sadly, for now I might still have a human racism. 

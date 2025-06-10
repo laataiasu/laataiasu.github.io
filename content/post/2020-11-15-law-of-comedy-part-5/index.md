@@ -22,7 +22,7 @@ The worst thing about the drunk is when they're telling the truth. Truth is some
 
 So when the drunk is telling the truth, or it can be said the drunk is always telling the truth. Or the truth is only told by those who are drunk. They could destroy all people's perspective which is manifested as the purpose of life.
 
-Let's see every philosopher. They're drunk. And because they are drunk, they're telling the truth. People don't have the power to accepting the truth and because of philosopher, there's a lot who committed suicide because the world is no sense anymore for them because they understand the truth.
+Let's see every philosopher. They're drunk. And because they are drunk, they're telling the truth. People don't have the power to accepting the truth and because of philosopher, there's a lot who committed [[Suicide]] because the world is no sense anymore for them because they understand the truth.
 
 Or lets see the drunk philosopher who told us we might die anytime and because of that truth, a lot will find it more challenging to live in this world even if the philosophers said that world is meaningless. And the continuation of human life only leads to other problems. Then the competition of foolishness is happening again because they're following the drunk.
 

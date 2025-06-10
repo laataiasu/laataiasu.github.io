@@ -18,9 +18,9 @@ Perhaps you are a disgrace/stain in her memory. And as [[Islam]] says,
 
 لاَ يَسْتُرُ اللَّهُ عَلَى عَبْدٍ فِى الدُّنْيَا إِلاَّ سَتَرَهُ اللَّهُ يَوْمَ الْقِيَامَةِ
 
-"If Allah covers the sin of a servant in the world, then Allah will also cover it on the Day of Judgment." (HR. Muslim, no. 2590)
+"If [[Allah]] covers the sin of a servant in the world, then [[Allah]] will also cover it on the Day of Judgment." (HR. Muslim, no. 2590)
 
-It means that you are a sin that Allah hides in the labyrinth of her memory.
+It means that you are a sin that [[Allah]] hides in the labyrinth of her memory.
 
 Thus her memory is made perfectly unreliable by Them.
 

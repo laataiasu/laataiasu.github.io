@@ -6,7 +6,7 @@ year, location, religion, religion_population, drill down to city, kpi
 
 date, year, article_url, media_name, religion_entities, ethnic_entities, group_entities, entity_sentiment_score, notes
 
-TW: No data, as data is only for the infidel
+TW: No [[Data]], as [[Data]] is only for the infidel
 
 1445H
 
@@ -18,9 +18,9 @@ This is the era where complexity arises; you must specialize, or perish. Focusin
 
 While in CCP they undervalue or are indifferent towards religion, in [[Indonesia]], religion is their distinctive characteristic.
 
-1. Gerakan mahasiswa Muslim di setiap universitas menjadi 'tech company' sebagai inisiator perubahan. Contohnya seperti GMNI, HMI, PMII, IMM, KAMMI, dll; Gamais ITB, Salam UI, dll; FUKI Fasilkom UI, dll. They must stop kegiatan dakwah formalitas yang tidak produktif.
+1. Gerakan mahasiswa Muslim di setiap universitas menjadi 'tech company' sebagai inisiator perubahan. Contohnya seperti GMNI, HMI, PMII, IMM, KAMMI, dll; Gamais ITB, Salam UI, dll; [[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] Fasilkom UI, dll. They must stop kegiatan dakwah formalitas yang tidak produktif.
 
-Mereka beralih menjadi "data tech organization" yang berusaha mendata dan memprogandakan ke remaja SMA SMP untuk merevolusi setiap masjid di [[Indonesia]]. Kata kunci utamanya adalah "integrasi".
+Mereka beralih menjadi "[[Data]] tech organization" yang berusaha mendata dan memprogandakan ke remaja SMA SMP untuk merevolusi setiap masjid di [[Indonesia]]. Kata kunci utamanya adalah "integrasi".
 
 Penggulingan kelompok Boomer dan golongan tua seharusnya hanya membuat mereka menjadi penasihat, sementara regenerasi dan kaderisasi terus berlangsung di masjid-masjid inovatif.
 
@@ -28,11 +28,11 @@ Ajakan kepada para profesional teknologi dan umat Muslim untuk melakukan aksi an
 
 Pentingnya pengembangan aplikasi yang bersifat *open source* dan dapat diakses secara publik, sehingga kode yang buruk dapat terbuka dan banyak yang dapat memberikan saran perbaikan melalui discussion atau pull request.
 
-Literasi digital dan literasi data harus diutamakan sebagai prioritas utama.
+Literasi digital dan literasi [[Data]] harus diutamakan sebagai prioritas utama.
 
 How to do this?
 
-*** Initiating the digitalization of mosque systems involves revamping outdated management processes. Previously, everything was handled manually, and announcements were limited to major events such as Jumatan, Idul Fitri, Idul Adha, etc. However, now everything is recorded within a system, showcasing the ranking of each mosque, akin to stocks market.
+*** Initiating the digitalization of mosque systems involves revamping outdated management processes. Previously, everything was handled manually, and announcements were limited to major events such as Jumatan, [[Idul Fitri]], [[Idul Adha]], etc. However, now everything is recorded within a system, showcasing the ranking of each mosque, akin to stocks market.
 
 I believe their market potential is substantial, though not comparable to the stock market. The transparency introduced by this digital shift can empower the community, fostering a sense of involvement.
 
@@ -48,7 +48,7 @@ What about an art form, like a game, that defies easy quantification?
 
 Fuck art. Art is resilient. It inherently discovers its unique space, enriched in its own distinctive ways.
 
-> insert equilibrium graph: game company success vs player game addiction
+> insert equilibrium graph: game company success vs player game [[[[Addiction|Addiction]]|addiction]]
 
 Sistem kredit sosial di tingkat individu juga dapat membatasi individu untuk bermain dan mengejar cheap happiness lainnya.
 
@@ -145,7 +145,7 @@ Untuk membuka dan mentransparankan lembaga-lembaga agama, perlu diketahui aliran
 
 Secara kualitatif, banyak aspek dan faktor yang dapat diperbaiki yang tidak terlihat. Dari segi toleransi, pencegahan terorisme, kebebasan beragama dan berpendapat, kemahiran dan literasi digital, serta urgensi topik SDG yang perlu ditingkatkan.
 
-"Pencegahan terorisme" jika diumumkan oleh pemerintah di daerahmu, konotasinya buruk dan pasti banyak ketidakpercayaan dari masyarakat. Alternatif yang dapat dilakukan adalah "sosialisasi peningkatan kemampuan pengelolaan tempat ibadah", yang mencakup digitalisasi, surveilans massal, analisis jaringan siapa tokoh yang berpengaruh banyak di suatu daerah dan sumber daya mana yang digunakan, dll. Semua masyarakat dapat melihatnya, setiap kelompok, kontribusinya, kontroversinya, dibuktikan dengan data. Win win solution buat semua.
+"Pencegahan terorisme" jika diumumkan oleh pemerintah di daerahmu, konotasinya buruk dan pasti banyak ketidakpercayaan dari masyarakat. Alternatif yang dapat dilakukan adalah "sosialisasi peningkatan kemampuan pengelolaan tempat ibadah", yang mencakup digitalisasi, surveilans massal, analisis jaringan siapa tokoh yang berpengaruh banyak di suatu daerah dan sumber daya mana yang digunakan, dll. Semua masyarakat dapat melihatnya, setiap kelompok, kontribusinya, kontroversinya, dibuktikan dengan [[Data]]. Win win solution buat semua.
 
 ---
 
@@ -217,7 +217,7 @@ Pelapor menjelaskan 5W1H tiket tersebut. Beberapa aspek yang penting adalah nama
 
 ### Hafizh/Hafzah Scarcity
 
-Yang boleh menjadi penghafal quran hanyalah yang sudah menguasai bahasa arab, tafsir, dan mampu membuktikan track record-nya bahwa dia adalah orang yang alim dan baik. Tidak ada lagi yang mau menjadi penghafal Al-Qur'an karena Al-Qur'an telah dibuktikan tidak akan hilang dari ingatan. Terdapat muslim ahli komputasi sains yang memastikan semuanya dapat disalin ke teknologi dengan berbasis jaringan seperti [[Blockchain]], bahkan para ahli neuroscience dan para arsitek high performance distributed system sedang meneliti cara menanamkan Al-Quran ke otak dan sistem saraf para muslim secara permanen agar dapat mendikte setiap muslim untuk berperilaku sesuai Al-Qur’an dan sunnah sehingga menjadi hamba Allah yang beriman dan bertaqwa. Meskipun begitu, penelitian tersebut masih menjadi wacana dan perdebatan di kalangan ahli, karena selain sangat sulit dan mahal untuk dilakukan, beberapa pihak menyatakan bahwa hal tersebut tidak sesuai secara etika dan masih didiskusikan oleh para ulama beserta peliharaan AI-nya, apakah penelitian tersebut termasuk perbuatan melampaui batas atau tidak.
+Yang boleh menjadi penghafal quran hanyalah yang sudah menguasai bahasa arab, tafsir, dan mampu membuktikan track record-nya bahwa dia adalah orang yang alim dan baik. Tidak ada lagi yang mau menjadi penghafal Al-Qur'an karena Al-Qur'an telah dibuktikan tidak akan hilang dari ingatan. Terdapat muslim ahli komputasi sains yang memastikan semuanya dapat disalin ke teknologi dengan berbasis jaringan seperti [[Blockchain]], bahkan para ahli neuroscience dan para arsitek high performance distributed system sedang meneliti cara menanamkan Al-Quran ke otak dan sistem saraf para muslim secara permanen agar dapat mendikte setiap muslim untuk berperilaku sesuai Al-Qur’an dan sunnah sehingga menjadi hamba [[Allah]] yang beriman dan bertaqwa. Meskipun begitu, penelitian tersebut masih menjadi wacana dan perdebatan di kalangan ahli, karena selain sangat sulit dan mahal untuk dilakukan, beberapa pihak menyatakan bahwa hal tersebut tidak sesuai secara etika dan masih didiskusikan oleh para ulama beserta peliharaan AI-nya, apakah penelitian tersebut termasuk perbuatan melampaui batas atau tidak.
 
 ---
 
@@ -225,7 +225,7 @@ Yang boleh menjadi penghafal quran hanyalah yang sudah menguasai bahasa arab, ta
 
 Berbagai macam sekte agama diizinkan untuk beroperasi di [[Indonesia]], dan tidak ada permasalahan kekerasan atau kerusuhan padanya. Kebencian berdasarkan dogma yang telah diajarkan memang masih ada, tetapi semuanya dapat berdebat dengan kepala dingin. Tidak pernah ditemukan jalan keluar pada tiap perdebatan antar sekte karena setiapnya memiliki argumennya masing-masing. 
 
-Orang salafi berceramah dengan keras bahwa para NU banyak yang melakukan bidah. Para Muslim liberal berkata bahwa orang-orang salafi terlalu fanatik dan tidak banyak berkontribusi pada dunia sehingga umat [[Islam]] kurang berhasil menjadi rahmatan lil alamin. Semuanya berdebat tiada habisnya, tetapi Salafi selalu menang dalam hal kemurnian agama karena memiliki data yang dapat diandalkan dan sesuai dengan metodologi terdahulu, sehingga tetap masuk akal apabila mereka bisa mengkafirkan banyak orang. 
+Orang salafi berceramah dengan keras bahwa para NU banyak yang melakukan bidah. Para Muslim liberal berkata bahwa orang-orang salafi terlalu fanatik dan tidak banyak berkontribusi pada dunia sehingga umat [[Islam]] kurang berhasil menjadi rahmatan lil alamin. Semuanya berdebat tiada habisnya, tetapi Salafi selalu menang dalam hal kemurnian agama karena memiliki [[Data]] yang dapat diandalkan dan sesuai dengan metodologi terdahulu, sehingga tetap masuk akal apabila mereka bisa mengkafirkan banyak orang. 
 
 Orang yang dikafirkan pun tetap merasa mereka paling benar karena berdasarkan kontribusi untuk ekonomi dan pembangunan, mereka menduduki peringkat paling tinggi. Para wahabi mengkafirkan orang dengan dalil dan tidak ada masalah dalam hal itu. Semua orang yang dikafirkan sepakat bahwa kafir itu hanyalah pilihan kata dan artinya bisa beragam, sehingga tidak apa-apa apabila mereka disebut kafir. Para kafir pun telah mendebat orang-orang wahabi bahwa mereka tidak kafir dengan argumen yang masuk akal. Mereka terus berdebat setiap malam minggu, tetapi tidak pernah ada pemenang dalam debat tersebut karena setiap pihak berpegang teguh pada argumennya masing-masing. 
 

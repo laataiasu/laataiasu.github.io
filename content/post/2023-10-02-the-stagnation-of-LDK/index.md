@@ -24,7 +24,7 @@ Instead of doing things they don't understand like collecting donations or organ
 
 - How do you define the success metrics for a lot of public places of worship? 
 - Is it only in terms of religious aspects, like the grandeur and quantity of places of worship?
-- Could they contribute on a more fundamental level, like combating poverty, fighting [[Gambling|gambling]] and destructive lending practices, or tackling social media addiction? 
+- Could they contribute on a more fundamental level, like combating poverty, fighting [[Gambling|gambling]] and destructive lending practices, or tackling social media [[[[Addiction|Addiction]]|addiction]]? 
 - What kind of things can we contribute to this process?
 
 Most Muslim tech enthusiasts could advocate and pressure the government to OPEN SOURCE the process of building. To integrate, because we'd like to know which areas are still lagging behind, not self-sufficient, and are facing hunger or are filled with criminal activity.
@@ -58,7 +58,7 @@ I see people complaining like that mostly in FB `Keluh Basah Lele Berulah`. If y
 
 'kalo bundir ga dilarang agama gua bundir bang, anak2 gua dah ga pada peduli, susah bngt cari makan, mana mau servis motor doang kena tipu lagi...' 
 
-But luckily, I'm a skeptical person and have been fooled many times because I've been friends with scammers and magicians, so I'm not easily swayed by things like that. But what if their condition is true? That's why I need data, I need standard operating procedures to verify.
+But luckily, I'm a skeptical person and have been fooled many times because I've been friends with scammers and magicians, so I'm not easily swayed by things like that. But what if their condition is true? That's why I need [[Data]], I need standard operating procedures to verify.
 
 - Who should I report my findings to? The nearest mosque or place of worship, the Ministry of Social Affairs, the Ministry of Religion? 
 - How can I verify? 

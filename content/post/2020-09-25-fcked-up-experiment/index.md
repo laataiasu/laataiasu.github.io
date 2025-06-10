@@ -12,13 +12,13 @@ You know, being bullied by friends, feeling uncomfortable when talking to anyone
 
 Feeling bored, I began to alter my personality, transitioning from introverted to more extroverted. I engaged in trash-talking, mocking friends, and participating in nonsensical activities like gatherings, music, mall trips, and travel—anything that brought a semblance of happiness. Though I couldn't quite define what happiness truly meant, it served as a distraction from my inner turmoil.
 
-As I progressed to senior high school, I initially reverted to my true—or what I believed to be my true—personality from elementary school. I felt a bit anxious, but I managed to maintain aspects of the experimentation I had undertaken in junior high. I adapted quickly and gained some characteristics from activities, perhaps religious in nature.
+As I progressed to senior high school, I initially reverted to my true—or what I believed to be my true—personality from elementary school. I felt a bit [[Anxiety|anxious]], but I managed to maintain aspects of the experimentation I had undertaken in junior high. I adapted quickly and gained some characteristics from activities, perhaps religious in nature.
 
 Unfortunately, in the second year, I grew weary of my personality. I felt like a fool and lacked anything to be proud of, so I changed again, becoming more apathetic. It was an experiment that brought me joy because it isolated me from deep conversations with friends. With no one to talk to, I developed a new hobby—reading. I came across some profound books that transformed me into an agnostic, leaning towards disbelief in religion. Despite the challenges, I remained grateful for the experiments I had conducted on myself.
 
 Then came the difficult times, where I struggled with my identity. I didn't know which personality to present to new people, and frustratingly, my brain defaulted to my shy and antisocial tendencies. Adapting was hard, especially without friends to provide motivation. This struggle made college life unbearable at times, leading me to contemplate drastic actions.
 
-Loneliness consumed me, leading to further social anxiety. It felt like a vicious cycle fueled by my own mind.
+Loneliness consumed me, leading to further [[Social Anxiety]]. It felt like a vicious cycle fueled by my own mind.
 
 My purpose? Simply not to go to hell. Why not aspire for heaven? To me, it's not that simple. It's like going from negative to positive numbers when all I want is to be at zero. It's different, you see.
 

@@ -87,7 +87,7 @@ ujung2nya kaya quotes disini, mau kejadian apa2 yang kena justru orang yang gata
 > **I have a feeling, in a few years people are going to be doing what they always do when the economy tanks. They will be blaming immigrants and poor people. — Big Short**
 > 
 
-Ada golongan yang kerjanya hanya ibadah, ga tau informasi. Gatau bahwa 10.000 sekarang beda dengan 10.000 jaman dulu, terus susah cari makan. Kalo orang Sufi atau suka meditasi kaya Buddha atau orang Stoic ya santai, tapi bayangin kalo jiwa2 pemberontaknya meronta2.
+Ada golongan yang kerjanya hanya ibadah, ga tau informasi. Gatau bahwa 10.000 sekarang beda dengan 10.000 jaman dulu, terus susah cari makan. Kalo orang Sufi atau suka meditasi kaya [[Buddha]] atau orang Stoic ya santai, tapi bayangin kalo jiwa2 pemberontaknya meronta2.
 
 Ada tokoh agama karismatik, ada orang misterius yang ngerangkul dijanjiin ini itu, disuruh ini itu, langsung manut2 aja karena lapar, karena ngerasa ga punya tempat, karena ngerasa ga punya eksistensi. Bunuh diri dianggap jihad. Yang paling buruk mungkin, terorisme?
 
@@ -142,9 +142,9 @@ Iklim yang dewasa, yang bebas dari para diktator, kata [[Mohammad Hatta|Bung Hat
 Resisten terhadap banyak gangguan, universal
 
 Bayangin orang2 MBA pada jadi marbot masjid, Alokasi resourcenya optimal, efektif, efisien. Ga akan ada kasus dana masjid ngendap berpuluh juta cuman dijadiin biaya operasional, atau dikorupsi kaya begini, semuanya transparan, resource terus diputer buat nyejahterain masyarakat daerah masjid, scr spiritual, intelektual, juga badan. Masjid yang dah maju bisa komunikasi sama masjid lain.
-Basis reasoning, ga ada yang baperan, beda pendapat diomongin. Orang salafi sama orang JIL diskusi, moderatornya Coki Muslim, orang Syiah, Mutazilah, Sufi, LDII, [[Emha Ainun Nadjib|Cak Nun]], Salim A Fillah semuanya diskusi bikin podcast. Beda pendapat santuy, yang penting teknologi di setiap masjid berkembang, bikin software, analisis data, manajemen, diskusi, dll.
+Basis reasoning, ga ada yang baperan, beda pendapat diomongin. Orang salafi sama orang JIL diskusi, moderatornya Coki Muslim, orang Syiah, Mutazilah, Sufi, LDII, [[Emha Ainun Nadjib|Cak Nun]], Salim A Fillah semuanya diskusi bikin podcast. Beda pendapat santuy, yang penting teknologi di setiap masjid berkembang, bikin software, analisis [[Data]], manajemen, diskusi, dll.
 Ada yang mencurigakan masyarakat tau semuanya, kenal sama tetangganya
-Kajian ilmiah, Literasi keuangan, literasi data, dll.
+Kajian ilmiah, Literasi keuangan, literasi [[Data]], dll.
 Dari sana inovasi bisa tumbuh, ga perlu bangun komplek fisik yg makan triliunan
 
 Simple. Bangun sistem informasi masjid, semuanya terstandarisasi. Pelatihan manajemen masjid. Manfaatin semua potensi SDM SDA deket setiap masjid. Katalisnya = reward. Kalo ga perlu reward bisa lebih bagus, cuman cukup didoktrin,

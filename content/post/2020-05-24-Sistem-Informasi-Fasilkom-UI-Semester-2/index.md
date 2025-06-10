@@ -14,7 +14,7 @@ Akhirnya 23 SKS udah selesai. Agak nyesel sih gara-gara nyodok matkul yang dosen
 
 Ga sengaja ngambil matkul ini sendirian. Sebenarnya ingin ngambil Bola/Futsal/Basket sih karena jarang olahraga. Tapi karena ga kebagian dan males ngambil taun depan soalnya cuman 1 SKS, alhasil nekat ngambil matkul ini.
 
-Tapi akhirnya bersyukur banget dapet matkul ini. Tiap masuk kelas dengerin Pa Sofian ceramah serasa dapet terapi wkwk. Dapet pengetahuan juga tentang sejarah perkembangan film, yang ternyata menarik banget dihubungin sama sejarah dunia n [[Philosophy|filsafat]].
+Tapi akhirnya bersyukur banget dapet matkul ini. Tiap masuk kelas dengerin Pa Sofian ceramah serasa dapet terapi wkwk. Dapet pengetahuan juga tentang sejarah perkembangan film, yang ternyata menarik banget dihubungin sama sejarah dunia n [[lt_new/tags/Philosophy|filsafat]].
 
 Tugasnya cuman 1 disuruh apresiasi tokoh superhero dan uts cuman 5 soal diminta apresiasi film pendek. Terus untungnya ga ada uas, diganti jadi cuman buat makalah karena PJJ pas lagi musim COVID.
 
@@ -28,7 +28,7 @@ Dikira cuman statistik doang, soalnya di SMA statistika itu kayak cuman ngapalin
 
 Intinya di matkul ini belajar
 
-- Statistika, tipe-tipe data, sampling, penyajian data
+- Statistika, tipe-tipe data, sampling, penyajian [[Data]]
 - Peluang, korelasi, bayes theorem
 - Random variabel
 - Distribusi sampling, estimasi parameter (buat ngeramal)
@@ -102,7 +102,7 @@ Matkul ini belajar tentang
 
 **MPKT A - 6 SKS**
 
-Belajar [[Philosophy|filsafat]] sama teori-teori sosial terus nasionalisme juga. Cukup menyenangkan tapi biasa aja. Ngabisin uang kuliah sebenarnya 6 SKS belajar beginian, harusnya bisa dijadikan 19 SKS
+Belajar [[lt_new/tags/Philosophy|filsafat]] sama teori-teori sosial terus nasionalisme juga. Cukup menyenangkan tapi biasa aja. Ngabisin uang kuliah sebenarnya 6 SKS belajar beginian, harusnya bisa dijadikan 19 SKS
 
 
 

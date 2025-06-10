@@ -48,11 +48,11 @@ And after several questions, the coin was dragged out of paper, and it was reall
 
 Gratefully at that time I can easily ask the spirit to goodbye and didn't have to force the coin to ‘goodbye'. But the next game is really hard to dragged to goodbye and it was not me that played those game. But still, I was confused and scared and my friends too.
 
-After the game ended, I asked my friends to tell truthfully that they didn't drag the coin. The one is Muslim and the other is Christian. They said that they swear to god not to drag that coin. And from their faces I remembered how scared and anxious they are, like me.
+After the game ended, I asked my friends to tell truthfully that they didn't drag the coin. The one is Muslim and the other is [[Christian]]. They said that they swear to god not to drag that coin. And from their faces I remembered how scared and [[Anxiety|anxious]] they are, like me.
 
 Anyway what are we getting if we lied? And if we lied, how can we even think about the answer from that game fastly, to think randomly about the question and answer. And I still remembered that the coins were moving really fast and so stable. The one who's tricking must be a genius if it has really been tricked.
 
-So I was going home with an anxious feeling and still didn't trust the game.
+So I was going home with an [[Anxiety|anxious]] feeling and still didn't trust the game.
 
 From that event I learnt something that there are a lot of things that I can't understand. And the ‘spirit' world is real.
 

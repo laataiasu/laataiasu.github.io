@@ -83,7 +83,7 @@ Many argue that the AI ​​that we are now only programming and there is no in
 
 But can we calculate the odds, or whether we will still survive or perish?
 
-When given the experience of mafia films and cynicism about humans, what will the robots decide in the future? When they were given a show data about Kingsman, Infinity War, GodFather, Peaky blinders, Dr. Strangelove, what would they learn?
+When given the experience of mafia films and cynicism about humans, what will the robots decide in the future? When they were given a show [[Data]] about Kingsman, Infinity War, GodFather, Peaky blinders, Dr. Strangelove, what would they learn?
 
 Can they decide that a lot of environmental and ecological problems are caused by humans? Then after being aware of those things, what will they do next? 
 

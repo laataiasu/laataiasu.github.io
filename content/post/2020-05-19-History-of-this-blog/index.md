@@ -13,9 +13,9 @@ title: History of this blog
 
 
 
-It's Eid Al-Fitr, 5 days ago 19 years, it's gone crazy because of the pandemic. Lots of assignments, 2 weeks off and I'm still lazy but lazy to study even though 23 credits and many materials have been forgotten
+It's [[Idul Fitri]], 5 days ago 19 years, it's gone crazy because of the pandemic. Lots of assignments, 2 weeks off and I'm still lazy but lazy to study even though 23 credits and many materials have been forgotten
 
-Finally I'm wasting my time playing ML, PUBG, hacking cellphones, installing custom roms, theming substratum, flowdor, reading crime and punishment but bored, after Ramadhan worship suddenly lazy, watching Bungou Stray Dogs is over and lazy to watch others, watching youtube harvest moon, bathing cows, mukbang, tedtalk, philosophy, rumaysho, sadhguru, psycothis. very very bored.
+Finally I'm wasting my time playing ML, PUBG, hacking cellphones, installing custom roms, theming substratum, flowdor, reading crime and punishment but bored, after [[Ramadhan]] worship suddenly lazy, watching Bungou Stray Dogs is over and lazy to watch others, watching youtube harvest moon, bathing cows, mukbang, tedtalk, philosophy, rumaysho, sadhguru, psycothis. very very bored.
 
 I'm still in the confused phase what to do, until I see old Facebook statuses,
 
@@ -33,7 +33,7 @@ You already know that stress is caused by wasting time and isn't productive, but
 
 
 
-"(Remember), when Allah made you sleepy as a comfort from Him, and Allah sent down rain from the sky for you to purify you with it and remove from you the troubles of the devil and to strengthen your heart and strengthen your palms." QS. Al-Anfal verse 11.
+"(Remember), when [[Allah]] made you sleepy as a comfort from Him, and [[Allah]] sent down rain from the sky for you to purify you with it and remove from you the troubles of the devil and to strengthen your heart and strengthen your palms." QS. Al-Anfal verse 11.
 
 
 
@@ -57,7 +57,7 @@ And meet [blog ](http://annisaaurelia.wordpress.com/) review majoring in SI. And
 
 weird.
 
-suddenly the energy is full again, I don't know why, I suddenly remember the good times I used to read [blog](https://www.gilang-ramadhan.id) itb child from sman 4 bandung that made me really want to go to stei itb but it didn't work keep on reviewing blogs for kating fasilkom, scholarship blogs, and I don't know why reading a few words fills up the energy very well! (very good).
+suddenly the energy is full again, I don't know why, I suddenly remember the good times I used to read [blog](https://www.gilang-[[Ramadhan]].id) itb child from sman 4 bandung that made me really want to go to stei itb but it didn't work keep on reviewing blogs for kating fasilkom, scholarship blogs, and I don't know why reading a few words fills up the energy very well! (very good).
 
 It's really strange, the mind, subconscious, etc., they can't be predicted. Little things can make a big difference. Even though I've watched psychology videos to be mentally strong, it's still, there's a little thing that make your spirits up and down, from worse to better. But I don't know if I'm really hyper sensitive and stupid in terms of EQ haha.
 

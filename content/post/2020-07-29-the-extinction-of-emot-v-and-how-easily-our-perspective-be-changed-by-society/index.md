@@ -3,9 +3,9 @@ date: "2020-07-29T15:00:45Z"
 tags: ["essay"]
 title: The extinction of emot :v and how easily our perspective be changed by society
 ---
-I don't want to talk about the history of the popularity of emot ":v" or as we called pacman emoticon because there's a lot of written about that such this,
+I don't want to talk about the history of the popularity of emot ":v" or as we called [[Pacman]] emoticon because there's a lot of written about that such this,
 
-[R.I.P Pacman Emoticon](https://id.quora.com/Mengapa-banyak-orang-yang-kesal-dengan-orang-yang-menggunakan-emoticon-pacman-titik-dua-v-v-ketika-berinteraksi-di-media-sosial)
+[R.I.P [[Pacman]] Emoticon](https://id.quora.com/Mengapa-banyak-orang-yang-kesal-dengan-orang-yang-menggunakan-emoticon-[[Pacman]]-titik-dua-v-v-ketika-berinteraksi-di-media-sosial)
 
 or this from the tweet of
 
@@ -42,4 +42,4 @@ I don't know. I am just curious why I stopped using the emot":v" after knowing t
 
 id_tweet="1664538094224437250"
 
-wkwk ngomongin "anti kebahagian", lu aja salah satu pembuat narasi emot pacman yimyam overrated, [[Manufacturing Consent]] bikin orang yg enjoy pake emot itu lost theirself dan ngerasa kayak elitist. stigma buat pengguna emot :v jadi kayak orang kena hiv. padahal dulu enjoy bngt ane pake emot itu karena merupakan salah satu simbol dionisyan egaliter, eh lu malah mempromosikan rasionalitas euclid aristotlean yg bikin gedung-gedung jadi membosankan. Salam jari tengah dari anak icak [[Meme|meme]] bang :v
+wkwk ngomongin "anti kebahagian", lu aja salah satu pembuat narasi emot [[Pacman]] yimyam overrated, [[Manufacturing Consent]] bikin orang yg enjoy pake emot itu lost theirself dan ngerasa kayak elitist. stigma buat pengguna emot :v jadi kayak orang kena hiv. padahal dulu enjoy bngt ane pake emot itu karena merupakan salah satu simbol dionisyan egaliter, eh lu malah mempromosikan rasionalitas euclid aristotlean yg bikin gedung-gedung jadi membosankan. Salam jari tengah dari anak icak [[Meme|meme]] bang :v

@@ -68,7 +68,7 @@ Penjelasan:
 
 Dari permasalahan-permasalahan di atas, terlihat bahwa solusi untuk semua masalah secara umum adalah tidak hanya meningkatkan, melainkan juga mengefektifkan pendidikan. Jadi, solusi yang terpikirkan oleh saya adalah bagaimana cara membuat pendidikan tersebar merata dan efektif.
 
-Selain itu, banyaknya masalah seringkali disebabkan oleh miskomunikasi. Untuk mengurangi masalah yang disebabkan oleh kurangnya komunikasi yang efektif, solusinya adalah adanya sistem yang berbasis data yang dapat diandalkan sepenuhnya. Sistem yang dirancang ini harus benar-benar berbasis pada fakta dan data yang akurat.
+Selain itu, banyaknya masalah seringkali disebabkan oleh miskomunikasi. Untuk mengurangi masalah yang disebabkan oleh kurangnya komunikasi yang efektif, solusinya adalah adanya sistem yang berbasis [[Data]] yang dapat diandalkan sepenuhnya. Sistem yang dirancang ini harus benar-benar berbasis pada fakta dan [[Data]] yang akurat.
 
 > Karena pengetahuan saya terbatas pada organisasi di masyarakat, terutama di lingkungan masjid, alur pemikiran ini masih belum mencakup organisasi lain seperti karang taruna dan sebagainya.
 
@@ -94,7 +94,7 @@ Terwujudnya sebuah aplikasi yang dapat diakses oleh semua orang untuk mendorong 
 
 - Ketakutan masyarakat terhadap perkembangan teknologi, khususnya kekhawatiran digantikan oleh kecerdasan buatan (AI) dan manusia punah. Solusinya mungkin hanya dengan hidup santai, menunggu wafat, dan mengabaikan segala tindakan.
 
-- Sistem yang disalahgunakan, terutama oleh pemegang kekuasaan dalam membuat kebijakan. Protes dari individu atau kelompok dapat diabaikan, dan credit orang yang memprotes dapat dicurangi tanpa data yang valid atau bahkan data yang dimanipulasi. Ketidakadilan ini dapat menciptakan situasi yang lebih buruk daripada yang dijelaskan dalam buku *1984*.
+- Sistem yang disalahgunakan, terutama oleh pemegang kekuasaan dalam membuat kebijakan. Protes dari individu atau kelompok dapat diabaikan, dan credit orang yang memprotes dapat dicurangi tanpa [[Data]] yang valid atau bahkan [[Data]] yang dimanipulasi. Ketidakadilan ini dapat menciptakan situasi yang lebih buruk daripada yang dijelaskan dalam buku *1984*.
 
 ### Usulan Tindakan yang Perlu Dilakukan
 
@@ -208,7 +208,7 @@ Dengan adopsi pola pikir ini, diharapkan masyarakat dapat bersama-sama membangun
 
 - Sains Terapan dan Keterampilan Praktis
 
-Semua individu yang ahli dalam bidangnya didokumentasikan. Diinginkan agar individu yang sudah bekerja dapat berpartisipasi dalam proses pembelajaran dan juga mendapatkan imbalan dari organisasi. Dari data yang terkumpul, dapat diklasifikasikan topik apa saja yang dikuasai oleh masyarakat. Selanjutnya, jika tidak ada ahli di suatu bidang di suatu daerah, diharapkan adanya pertukaran pengetahuan dengan daerah lain yang berdekatan. Jika jaraknya jauh, pertukaran pengetahuan harus dilakukan secara bertahap, baik melalui pertemuan langsung maupun secara online.
+Semua individu yang ahli dalam bidangnya didokumentasikan. Diinginkan agar individu yang sudah bekerja dapat berpartisipasi dalam proses pembelajaran dan juga mendapatkan imbalan dari organisasi. Dari [[Data]] yang terkumpul, dapat diklasifikasikan topik apa saja yang dikuasai oleh masyarakat. Selanjutnya, jika tidak ada ahli di suatu bidang di suatu daerah, diharapkan adanya pertukaran pengetahuan dengan daerah lain yang berdekatan. Jika jaraknya jauh, pertukaran pengetahuan harus dilakukan secara bertahap, baik melalui pertemuan langsung maupun secara online.
 
 Sains terapan mencakup pemrograman, pembuatan mesin, pengamatan astronomi, geografi, dll. Guru kelas di organisasi bertanggung jawab membuat kurikulum sehingga di akhir kelas, siswa dapat menciptakan produk atau meningkatkan keterampilan mereka. Saya berharap adanya banyak inovasi yang muncul dari sini.
 
@@ -242,7 +242,7 @@ Tantangan muncul saat perbedaan ini berujung pada pelecehan atau kekerasan fisik
 
 Hal ini bertujuan untuk mengurangi bias dan ketidakobjektifan. Orang yang mengaku netral perlu dinilai ulang agar meminimalkan bias, dan sistem harus dapat mengkategorikan tingkah laku manusia menjadi spektrum. Dengan adanya sistem ini, masyarakat dapat mengetahui latar belakang calon pemimpin atau wakil rakyat, termasuk pergantian partai atau ideologi, sikap oportunis, atau kurangnya pendirian. Diharapkan sistem ini dapat memberikan pemahaman menyeluruh terkait apa yang terjadi.
 
-Jika fakta dan data tidak relevan dengan topik, atau tidak ada persamaan yang dapat diambil, kita dapat bersikap bijaksana:
+Jika fakta dan [[Data]] tidak relevan dengan topik, atau tidak ada persamaan yang dapat diambil, kita dapat bersikap bijaksana:
 
 "Lii amali walakum amalkum. Untukmu perbuatanmu, Untukku perbuatanku."
 
@@ -292,9 +292,9 @@ Reward digunakan sebagai stimulus atau dorongan agar semua pihak aktif berkontri
    ii. Detail infrastruktur dan fasilitas masjid
 
 9. **Laporan Keuangan Masjid:**
-   i. Input data keuangan masjid
+   i. Input [[Data]] keuangan masjid
    ii. Informasi dari bank terkait keuangan masjid
-   iii. Rekam infak, sedekah, zakat, Idul Fitri, Idul Adha, dan wakaf
+   iii. Rekam infak, sedekah, zakat, [[Idul Fitri]], [[Idul Adha]], dan wakaf
 
 10. **Jadwal dan Daftar Penceramah:**
    i. Informasi penceramah, termasuk latar belakang dan identitas
@@ -324,7 +324,7 @@ Reward digunakan sebagai stimulus atau dorongan agar semua pihak aktif berkontri
 
 - Terkait dengan SOP anggaran, saya belum melakukan penelitian mendalam tentang anggaran Kementerian Agama dan anggaran masjid-masjid yang ada. Meskipun demikian, saya yakin bahwa SOP untuk penganggaran kegiatan dapat dirancang secara efisien.
 
-- Keberhasilan program ini sangat memerlukan kontribusi banyak ahli, termasuk manajer proyek yang handal dalam mengelola proyek, ahli UI/UX untuk desain antarmuka, pengembang aplikasi mobile sebagai arsitek utama aplikasi, analis data atau statistikian untuk merancang nilai pembobotan dan peringkat terhadap masjid atau individu, ahli hukum untuk memberikan rekomendasi peraturan ke berbagai lembaga, ahli pemasaran untuk menyampaikan program ini kepada masyarakat, dan partisipasi semua elemen masyarakat untuk memastikan kesuksesan program ini.
+- Keberhasilan program ini sangat memerlukan kontribusi banyak ahli, termasuk manajer proyek yang handal dalam mengelola proyek, ahli UI/UX untuk desain antarmuka, pengembang aplikasi mobile sebagai arsitek utama aplikasi, analis [[Data]] atau statistikian untuk merancang nilai pembobotan dan peringkat terhadap masjid atau individu, ahli hukum untuk memberikan rekomendasi peraturan ke berbagai lembaga, ahli pemasaran untuk menyampaikan program ini kepada masyarakat, dan partisipasi semua elemen masyarakat untuk memastikan kesuksesan program ini.
 
 ### Penutup
 

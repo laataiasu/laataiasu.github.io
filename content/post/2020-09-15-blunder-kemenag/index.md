@@ -6,7 +6,7 @@ title: "Kekonyolan Sertifikasi Dai Kemenag"
 
 https://news.detik.com/berita/d-5168493/cerita-di-balik-kontroversi-sertifikasi-dai-kemenag---mui
 
-Kelompok lain sudah menggunakan kecerdasan buatan (AI) untuk memanipulasi data dan psikologi massa dalam rangka memenangkan pemilu. Namun, pada saat yang sama, kita tengah menghadapi perpecahan di antara rakyat menggunakan metode sertifikasi yang beragam. Semua ini terjadi di tengah situasi pandemi yang lebih memperburuk keadaan. Saya mengerti bahwa tujuannya mungkin ingin meredakan perbedaan pendapat, tetapi seolah-olah kita sedang menciptakan masalah yang lebih besar di masa depan dengan menciptakan ketegangan yang lebih besar di antara kelompok-kelompok yang berbeda.
+Kelompok lain sudah menggunakan kecerdasan buatan (AI) untuk memanipulasi [[Data]] dan psikologi massa dalam rangka memenangkan pemilu. Namun, pada saat yang sama, kita tengah menghadapi perpecahan di antara rakyat menggunakan metode sertifikasi yang beragam. Semua ini terjadi di tengah situasi pandemi yang lebih memperburuk keadaan. Saya mengerti bahwa tujuannya mungkin ingin meredakan perbedaan pendapat, tetapi seolah-olah kita sedang menciptakan masalah yang lebih besar di masa depan dengan menciptakan ketegangan yang lebih besar di antara kelompok-kelompok yang berbeda.
 
 Namun, perlu saya ingatkan bahwa pendekatan seperti ini sudah ketinggalan zaman. Tujuan yang ingin dicapai dengan cara ini seakan tidak jelas. Jika niatnya adalah untuk melindungi diri sendiri dari perspektif masyarakat yang berbeda, sebaiknya kita belajar dari pengalaman zaman kolonial. Teknologi saat itu mungkin tidak sehebat sekarang, tetapi penjajah memiliki cara lebih maju dalam memahami dinamika masyarakat.
 

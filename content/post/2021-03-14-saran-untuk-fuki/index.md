@@ -4,7 +4,7 @@ tags: ["muslim", "business", "essay"]
 title: Curhat Tentang Lembaga Dakwah
 ---
 
-## Keresahan saya setelah menjalani organisasi bercorak muslim (DKM SMAN 4 Bdg, HIROKOBA, terutama FUKI Fasilkom )
+## Keresahan saya setelah menjalani organisasi bercorak muslim (DKM SMAN 4 Bdg, HIROKOBA, terutama [[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] Fasilkom )
 - Masalah utama organisasi adalah tidak mengetahui masalahnya apa, akhirnya bikin program tidak terlalu penting kemudian semua anggotanya dipaksa untuk ikut program
 
 Visi misi nilai dijadikan formalitas belaka.
@@ -15,7 +15,7 @@ Tidak berani menstop program yang dirasa kurang jelas.
 
 Semua divisi menjalankan programnya masing-masing, dan partisipan aktifnya hanyalah anggota divisi itu sendiri.
 
-- Manipulasi data, garbage in garbage out
+- Manipulasi [[Data]], garbage in garbage out
 
 Laporan pertanggung jawaban tidak diisi secara objektif dan holistik. Mengerjakan program yang tidak diketahui output dan dampaknya, tetapi tidak dievaluasi secara menyeluruh.
 
@@ -59,19 +59,19 @@ Karena kedua organisasi tersebut cukup berkofus pada aspek hard-skill, maka disa
 
 Diharapkan setiap **Badan Organisasi** memiliki ciri khasnya masing-masing agar mahasiswa bisa memilih dengan benar apa yang ingin difokuskannya. Kemudian setiap **Badan Organisasi** perlu transparan dan membagikan setiap **knowledge**-nya agar yang bukan anggota tetap bisa merasakan manfaat dari setiap organisasi yang ada.
 
-Kemudian saran untuk manajemen FUKI sendiri, manajemen perlu memastikan komitmen setiap anggotanya. Namun sebelum memastikan komitmen anggotanya, pastikan bahwa program sesuai dengan target (tujuannya harus jelas, tidak hanya sebatas formalitas dan seremonial). Alasannya adalah agar setiap anggota FUKI bisa maksimal dalam menjalankan prokernya, memastikan prokernya sesuai dengan target, serta memaksimalkan kuantitas dan kualitas indikator keberhasilannya.
+Kemudian saran untuk manajemen [[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] sendiri, manajemen perlu memastikan komitmen setiap anggotanya. Namun sebelum memastikan komitmen anggotanya, pastikan bahwa program sesuai dengan target (tujuannya harus jelas, tidak hanya sebatas formalitas dan seremonial). Alasannya adalah agar setiap anggota [[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] bisa maksimal dalam menjalankan prokernya, memastikan prokernya sesuai dengan target, serta memaksimalkan kuantitas dan kualitas indikator keberhasilannya.
 
 ### From budak proker to master of proker
 
 Penanggung jawab proker harus diberikan job description yang jelas, otoritas yang jelas, untuk memastikan bahwa prokernya bisa berjalan semaksimal mungkin sehingga PJ tidak kebingungan harus berbuat apa. Hal ini juga untuk memberikan _prestise_ tersendiri pada setiap PJ sehingga dapat benar-benar menganalisis perkembangan prokernya dan akibatnya dapat dikembangkan proker yang benar-benar terasa manfaatnya.
 
-Serta manajemen FUKI perlu memastikan bahwa anggota FUKI bisa memaksimalkan potensi yang dimilikinya. Jangan sampai anggota FUKI justru terdistraksi dalam mengembangkan potensi dan minat dirinya. Seperti yang sudah dijelaskan, bahwa anggota FUKI memiliki minat dan bakatnya masing-masing dalam berbagai bidang. Saya ingin sebutkan satu persatu lagi.
+Serta manajemen [[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] perlu memastikan bahwa anggota [[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] bisa memaksimalkan potensi yang dimilikinya. Jangan sampai anggota [[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] justru terdistraksi dalam mengembangkan potensi dan minat dirinya. Seperti yang sudah dijelaskan, bahwa anggota [[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] memiliki minat dan bakatnya masing-masing dalam berbagai bidang. Saya ingin sebutkan satu persatu lagi.
 
 _Dilihat dari banyak anggotanya, ada yang jago mengembangkan web, aplikasi, kemudian ada juga yang jago dalam cyber security, systemic thinking, Competitive Proragmming, analisis data, desain, bisnis, dan lain sebagainya. Lalu dilihat dari berbagai macam background anggotanya, dari sekolah “unggulan”, ada yang dulunya juara berbagai macam kompetisi, juara umum di sekolahnya, pimpinan dari berbagai macam organisasi atau kepanitiaan, dan pengalaman keren lainnya._
 
 Pertanyaannya adalah, apakah ada yang benar-benar tahu dan mendalami [[Islam]] secara menyeluruh? Seperti hafal qur’an 30 juz beserta terjemahan dan tafsirnya, hafal hadist, dll yang intinya benar-benar _expert_ dalam agama [[Islam]] seperti para Da’i professional? Ada mungkin, tapi jumlahnya hanya sedikit. Menurut pandangan saya, kita sebagai Muslim ilmunya masih sangat kurang dalam menyebarkan agama, sehingga dakwah secara langsung tidak tepat dilakukan.
 
-Maka saya harapkan bahwa anggota FUKI berfokus pada apa yang menjadi latar belakangnya (dalam hal ini Ilmu komputer) untuk berdakwah. Potensi dari berbagai bidang IT perlu dimaksimalkan agar kita bisa berpikir secara menyeluruh sehingga proker tersebut disesuaikan dengan kapasitas kita dan jangan sampai justru fokus kepada hal yang tidak kita ahli tentangnya, seperti ilmu agama secara mendalam.
+Maka saya harapkan bahwa anggota [[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] berfokus pada apa yang menjadi latar belakangnya (dalam hal ini Ilmu komputer) untuk berdakwah. Potensi dari berbagai bidang IT perlu dimaksimalkan agar kita bisa berpikir secara menyeluruh sehingga proker tersebut disesuaikan dengan kapasitas kita dan jangan sampai justru fokus kepada hal yang tidak kita ahli tentangnya, seperti ilmu agama secara mendalam.
 
 Kemudian untuk mengatasi pemahaman agama yang kurang, kita serahkan pada ahlinya melalui mentoring dan kajian-kajian ilmiah ustad-ustad salaf, terdapat divisi yang mencari informasi kajian dan mengajak anggota untuk ikut kajian tersebut.
 

@@ -28,11 +28,11 @@ With different characteristics, just imagine if those things are used as somethi
 
 I mean, just look at the selfies from the people. 
 
-> "Data creation is exploding. With all the selfies and useless files people refuse to delete on the cloud, 92%of the world\'s data was created in the last two years alone" 
+> "[[Data]] creation is exploding. With all the selfies and useless files people refuse to delete on the cloud, 92%of the world\'s [[Data]] was created in the last two years alone" 
 >
 > – Gavin Belson
 
-And any company doesn\'t want their sources to be wasted, they really need data and keep data lakes to the storage so that they could decide based on those data. Yesterday, data is only about transactional and viewed as a trash. Now, every click, your time to spent at some applications, going from one to another is being tracked by the company. They keep your collection of data which lately been view as trash. The needy of data.
+And any company doesn\'t want their sources to be wasted, they really need [[Data]] and keep [[Data]] lakes to the storage so that they could decide based on those [[Data]]. Yesterday, [[Data]] is only about transactional and viewed as a trash. Now, every click, your time to spent at some applications, going from one to another is being tracked by the company. They keep your collection of [[Data]] which lately been view as trash. The needy of [[Data]].
 
 The need is always change. Yesterday it may be unpopular and ugly but today it is something to be needed. Just look at the most popular songs today, which has a weird lyric with weird videography. But somehow people perceive that as art, and therefore it is really art.
 

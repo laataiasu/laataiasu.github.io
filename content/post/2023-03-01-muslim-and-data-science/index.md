@@ -71,12 +71,12 @@ itu semua fastabiqul khairat doang -_-
 1. How not to be ignorant about the world 
 2. The Beauty of Data Visualization
 3. Three ways to spot a bad statistic
-4. Big Data is better data
+4. Big Data is better [[Data]]
 5. The human insight missing from Big Data
 6. Your company’s data could end world hunger
 7. Who Controls the World
 
-Do you see uncertainty in the data?
+Do you see uncertainty in the [[Data]]?
 
 Do you see yourself in the data?
 

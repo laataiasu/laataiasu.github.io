@@ -18,7 +18,7 @@ Great! Below is your content reformatted with `[[wikilinks]]` so it's ready to d
 ### 🧠 [[Philosophy, History, Psychology, Social Sciences]]
 
 * [[The Arrivals]] — by Achernahr, Noreagaa \~ #SMP #SMA
-* [[History of God]] — by Karen Armstrong \~ #SMA
+* [[lt_new/tags/History of God]] — by Karen Armstrong \~ #SMA
 * [[The Secret History of the World]] — by Mark Booth \~ #SMA
 * [[Al-Fatih: Sang Penakluk]] — by Felix Siauw \~ #SMA
 * [[Friedrich Nietzsche]] — various works \~ #SMA–present
@@ -94,7 +94,7 @@ Great! Below is your content reformatted with `[[wikilinks]]` so it's ready to d
 #### 🌐 [[Web Development]]
 
 * [[Corey Schafer]] tutorials \~ #2019–2020
-* [[FUKI Campus Dev Team]] \~ #2020–2021
+* [[lt_new/tags/FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] Campus Dev Team \~ #2020–2021
 
 #### ✅ [[Quality Assurance]]
 

@@ -17,4 +17,4 @@ I forgot about using a VPN or not. But I was streaming pornhub and youporn at th
 After finding a good video, I picked a lot of tissues and put them on the floor. I turned down my trousers and pants, and my hand was shaking my piny. And then finally I cummed.
 At that time I ensure myself not to do that again. Because I know that I am not mandul. But I can't maintain that idea. Whenever I am alone again, that feeling when i felt
 "Is it I can cum" it proves by the biology lesson that I can make a baby. and I did the second masturbation, with regret. And after that I repeat that I was
-addicted. And I feel like I cant live without porn. Porn is damaging me.
+[[Addiction|addicted]]. And I feel like I cant live without porn. Porn is damaging me.

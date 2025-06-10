@@ -50,7 +50,7 @@ carefully choosing what is 'good' and discarding what is 'bad' about what one wi
 
 {{< youtube id="Ja2fgquYTCg" >}}
 
-"Indeed, Allah is beautiful and He loves beauty." (Narrated by Muslim from Ibn Mas'ud, may Allah be pleased with him).
+"Indeed, [[Allah]] is beautiful and He loves beauty." (Narrated by Muslim from Ibn Mas'ud, may [[Allah]] be pleased with him).
 
 Body, soul, and spirit should embody beauty. It truly isn't exceeding limits to pursue beauty.
 

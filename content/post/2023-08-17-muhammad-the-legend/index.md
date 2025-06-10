@@ -12,6 +12,6 @@ I've got this wild idea, though. If [[Muhammad]] were around today, I bet he'd b
 
 But here's the twist: what's heaven for one person can be pure hell for someone else. If they actually pulled off these utopian e-accountability projects based on similar ideologies, I'd probably be the first one in the hot seat. I mean, who's got time for all this progress nonsense when you're just too lazy to get on board?
 
-You see, data can't capture those deep-down feels, man. Art? That's the stuff that goes beyond numbers and stats. It's born out of that empty, bored feeling, you know? Creatio ex nihilo, baby. From nothing, something.
+You see, [[Data]] can't capture those deep-down feels, man. Art? That's the stuff that goes beyond numbers and stats. It's born out of that empty, bored feeling, you know? Creatio ex nihilo, baby. From nothing, something.
 
 And here's the kicker: why is it that when you want more, people call you greedy and arrogant, but when you're grateful for what you've got, they still give you a hard time? Life's funny that way, ain't it?

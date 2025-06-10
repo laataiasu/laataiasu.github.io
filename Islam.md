@@ -1,4 +1,0 @@
-# [[Islam]]
-
-#muslim
-

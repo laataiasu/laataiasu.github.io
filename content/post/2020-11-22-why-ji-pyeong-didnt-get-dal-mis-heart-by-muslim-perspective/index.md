@@ -20,7 +20,7 @@ Investment is not prohibited, but speculating is yes. Trading which has speculat
   
 - He always doubts and full of suudzon
 
-He suudzon-ed Dal Mi's grandmother about the money, he supposed she stole his money because he is full of doubt and prejudice. And not only that, when he became an angel investor after he was rich enough, he actually didn't care about what's happening in the startup or company he invested in. What he cares about is only about the profit. So he is always manipulative and treats a lot of entrepreneurs who want to start a business badly because what he wants is only profit. He ended up hurting others, moreover there was an entrepreneur who commited suicide because Ji Pyeong hurt him by telling the truth that his business is trash and will not sell well.  
+He suudzon-ed Dal Mi's grandmother about the money, he supposed she stole his money because he is full of doubt and prejudice. And not only that, when he became an angel investor after he was rich enough, he actually didn't care about what's happening in the startup or company he invested in. What he cares about is only about the profit. So he is always manipulative and treats a lot of entrepreneurs who want to start a business badly because what he wants is only profit. He ended up hurting others, moreover there was an entrepreneur who commited [[Suicide]] because Ji Pyeong hurt him by telling the truth that his business is trash and will not sell well.  
   
 
 

@@ -28,11 +28,11 @@ World war 2 exist.
 
 
 
-Computer is being developed. Internet been built. A lot of apps been built. More term and more condition! Data transportation always occured,
+Computer is being developed. Internet been built. A lot of apps been built. More term and more condition! [[Data]] transportation always occured,
 
-"It helps us communicate with others. It helps us to workmore efficient. Everyone will be happy! No data is misused!"
+"It helps us communicate with others. It helps us to workmore efficient. Everyone will be happy! No [[Data]] is misused!"
 
-Mental diseases increased, hate speech and hoax increased, more data been collected.
+Mental diseases increased, hate speech and hoax increased, more [[Data]] been collected.
 
 Political movement lease data analyst and cooperate with social media to manipulate algorithm and feeding the "persuadeable" with content they wanted
 

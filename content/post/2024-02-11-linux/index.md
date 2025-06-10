@@ -51,7 +51,7 @@ keep it up.
 
 i use arch btw 💀
 
-can't believe pacman & yay is perfect
+can't believe [[Pacman]] & yay is perfect
 
 ![alt text](image.png)
 

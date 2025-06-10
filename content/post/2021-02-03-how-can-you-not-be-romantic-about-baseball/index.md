@@ -71,7 +71,7 @@ It means that the selling or the trading for the players will be easy. Current a
   </p>
 </blockquote>
 
-Sometimes a person can see value in something and the other is not. Some people see commonality as a good, some say being different is better. Some wonder why there's a person who can spend his time only by his computer. Some don't get why the others are buying something overpriced for them. Some people didn't like sports or games. Some nerds wondering why anyone can be so stupid not to read data and what has been written to know about the world.
+Sometimes a person can see value in something and the other is not. Some people see commonality as a good, some say being different is better. Some wonder why there's a person who can spend his time only by his computer. Some don't get why the others are buying something overpriced for them. Some people didn't like sports or games. Some nerds wondering why anyone can be so stupid not to read [[Data]] and what has been written to know about the world.
 
 Everyone complains. But I guess, that's actually good or it's perfect. It gives us the ability to romanticize something.
 

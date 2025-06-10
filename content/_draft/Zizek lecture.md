@@ -4,7 +4,7 @@ draft: true
 
 # "Your Anxiety is Telling You the Truth."
 
-- [[Anxiety]] is related to freedom, drawing from Kierkegaard's concept of anxiety as the dizziness of freedom, how freedom requires making choices and imposing limitations on oneself.
+- [[Anxiety]] is related to freedom, drawing from Kierkegaard's concept of [[Anxiety]] as the dizziness of freedom, how freedom requires making choices and imposing limitations on oneself.
 - The metaphysical aspects of freedom and the experience of looking into the abyss of one's own potential explore the paradoxical nature of freedom, where true freedom is accessed by self-imposed restrictions and limitations.
 - Examples of creative expressions, such as music and writing, are used to illustrate the concept of self-imposed limitations leading to artistic success.
 - Individuals often realize that once they have complete freedom, they lose the essence of their powers and creative abilities.
@@ -12,19 +12,19 @@ draft: true
 - The paradox of freedom is that it is accessed indirectly, requiring limitations.
 
 ## [[Jacques Lacan|Lacan]], [[Sigmund Freud|Freud]], and [[Georg Wilhelm Friedrich Hegel||]] 
-- Lacanian theory suggests that anxiety is a mode of truth and arises when we get what we want.
+- Lacanian theory suggests that [[Anxiety]] is a mode of truth and arises when we get what we want.
 - Lacan argues that desire is insurmountable and essential to our sense of self.
-- Freud's theory of anxiety revolves around fear of separation from the object of desire.
+- Freud's theory of [[Anxiety]] revolves around fear of separation from the object of desire.
 - Lacan radicalizes Freud by emphasizing the desire to fight the symbolic father instead of being with the mother.
 - Idealism (naive, critical, self-reflective) and materialism are contrasting philosophical approaches.
 - Hegelian speculative idealism upends the previous idealist approaches.
 
 ## [[Immanuel Kant|Kant]] and Christians
 - Kantian self-reflective idealism suggests that truth is mediated through conceptual reason.
-- Some Christians talk about the freedom they find in being Christian, seeing Christianity as liberating.
+- Some Christians talk about the freedom they find in being [[Christian]], seeing Christianity as liberating.
 - GK Chesterton describes Christianity as an armor that restricts movement but underneath it is unmitigated joy and freedom.
 - The crucifixion is seen as liberating people from having to do as God wants.
-- In Kantian ethics, the anxiety of existence arises from not knowing what God wants, and belief requires acting as if one knows.
+- In Kantian ethics, the [[Anxiety]] of existence arises from not knowing what God wants, and belief requires acting as if one knows.
 - Idealism upholds the idea of a master in the sky, while materialism transposes this relationship into the world of appearances.
 
 ## Psychoanalysis
@@ -76,7 +76,7 @@ draft: true
 - Exploring the question of why God is not listening
 - Introduction to Giacometti, an artist known for his unfinished sculptures
 - Giacometti's witticism about going too far and not far enough
-- Augustine's exploration of the logical boundaries of the Christian faith
+- Augustine's exploration of the logical boundaries of the [[Christian]] faith
 - The repetition of the creation of heaven and earth in Genesis
 - Variability of the concept of beginnings and baptism in Christianity
 - Heidegger's perspective on being and the obstacle it poses to knowledge
@@ -109,7 +109,7 @@ Hello, dear readers! Today I want to talk about two fascinating and influential 
 
 Slavoj Žižek is a Slovenian philosopher and cultural theorist who is known for his provocative and often controversial analyses of ideology, politics, culture, psychoanalysis, and pop culture. He is a self-proclaimed Marxist and a critic of capitalism, liberalism, identity politics, and authoritarianism. He has written dozens of books on topics ranging from violence, the global financial crisis, September 11, Christianity, and the pandemic. He is also a popular speaker who has debated with figures such as [[Jordan Peterson]], [[Richard Dawkins]], and Julian Assange.
 
-Peter Thiel is an American entrepreneur and investor who co-founded PayPal and was an early investor in Facebook. He is also a founder of Palantir Technologies, a data analytics company that works with governments and corporations. He is a billionaire with an estimated net worth of nearly $3 billion. He is a political activist who has donated large sums to politicians such as Donald Trump and Ted Cruz. He is a supporter of libertarianism, transhumanism, seasteading, and the Singularity. He is also a controversial figure who has been accused of undermining democracy, journalism, and human rights.
+Peter Thiel is an American entrepreneur and investor who co-founded PayPal and was an early investor in Facebook. He is also a founder of Palantir Technologies, a [[Data]] analytics company that works with governments and corporations. He is a billionaire with an estimated net worth of nearly $3 billion. He is a political activist who has donated large sums to politicians such as Donald Trump and Ted Cruz. He is a supporter of libertarianism, transhumanism, seasteading, and the Singularity. He is also a controversial figure who has been accused of undermining democracy, journalism, and human rights.
 
 ## What are their advantages?
 

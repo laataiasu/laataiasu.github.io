@@ -24,7 +24,7 @@ Let's connect to this modern world.
 
 From the Japan cases where everything is so manipulative, we can see that there is irony about that.
 
-The infrastructure, facility, and everything seems so developed and beautiful. But there is a high number of suicide rate, prostitution, and any kind which leads to question of irony of what seems developed. Everything is manipulated, renting a girlfriend, renting a family, Hikkikomori, living with 2D, and so on.
+The infrastructure, facility, and everything seems so developed and beautiful. But there is a high number of [[Suicide]] rate, prostitution, and any kind which leads to question of irony of what seems developed. Everything is manipulated, renting a girlfriend, renting a family, Hikkikomori, living with 2D, and so on.
 
 {{< youtube id="Jag6iyrSjsI" autoplay="true" >}}
 {{< youtube id="oFgWy2ifX5s" autoplay="true" >}}
@@ -34,7 +34,7 @@ It urges the sense to live and have dissatisfaction. It makes us lose the abilit
 
 So from that piece of hadist, what I could conjecture is that artificiality will lead to chaos, the worst is the doomsday could come from artificiality.
 
-There is no problem with artificial intelligence. It only contains the data collection which is trained and the machine has the learning algorithm to predict what could come in the future. And of course it is just the combination of 1 and 0 and we couldn't say that it has the sense of consciousness because we programmed it.
+There is no problem with artificial intelligence. It only contains the [[Data]] collection which is trained and the machine has the learning algorithm to predict what could come in the future. And of course it is just the combination of 1 and 0 and we couldn't say that it has the sense of consciousness because we programmed it.
 
 The problem is when it is dressed like a living creature, then it is hard to find the truth whether it is a living creature or not. It could create subjectivity again even if they are just a programmed machine. But after being dressed as a human or living creature with consciousness, it will lead to the crisis of definition of what a human is if you see this. 
 
