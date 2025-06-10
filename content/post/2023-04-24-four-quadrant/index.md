@@ -30,7 +30,7 @@ For those deemed 'normal,' life often flows seamlessly. Yet, there are moments w
 
 Stoicism, often presented as the antithesis to such musings, espouses control over one's controllable spheres. However, for some, this philosophy falls short. There's a perpetual yearning to grasp the intangible, a sentiment that the likes of stoicism, birthed in an emperor's domain, may not readily satiate. It's an ideology that may elude the luddite, the commonplace, and the unassuming.
 
-Within Islam, the balance lies in the wisdom: "You are not responsible for anybody's fault." It validates a detachment from uncontrollable matters, yet also encourages competition in benevolence—a duality worth contemplating.
+Within [[Islam]], the balance lies in the wisdom: "You are not responsible for anybody's fault." It validates a detachment from uncontrollable matters, yet also encourages competition in benevolence—a duality worth contemplating.
 
 Fear, a potent motivator, serves as a catalyst for action. It resists facile affirmations like "you are enough; love yourself." Instead, it prompts a relentless introspection: What if I err? What if I'm deceived, be it by science or faith? What if the world deceives me? The crux lies in discerning the personal repercussions, as well as the broader implications of acceptance or rejection.
 

@@ -30,7 +30,7 @@ Baik bagi pemilik gejala itu apa? Kedamaian. Maka langkah paling praktis untuk m
 
 Maka siapapun yang punya kapital perlu memikirkan bagaimana caranya agar mencapai cita-cita utilitarianisme. Salah satu inovasi ini ada di Swiss.
 
-https://www.bbc.com/indonesia/majalah-59603971
+https://www.bbc.com/[[Indonesia]]/majalah-59603971
 
 Langkahnya sangat mudah
 

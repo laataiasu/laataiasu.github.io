@@ -4,9 +4,9 @@ tags: ["muslim", "essay", "story"]
 title: Why a Group of People Like to Go to the Mall
 ---
 
-You get paid as an employee. After you work you go the mall to enjoy your payment. This similar with some wall street ass in the dark period too, the difference is they go to the prostitution or gambling places. But who's hurting here? No one, except the jealous people who looks people can more enjoy the life itself. In it's substance, every aspect is just the same. 
+You get paid as an employee. After you work you go the mall to enjoy your payment. This similar with some wall street ass in the dark period too, the difference is they go to the prostitution or [[Gambling|gambling]] places. But who's hurting here? No one, except the jealous people who looks people can more enjoy the life itself. In it's substance, every aspect is just the same. 
 
-You might think prostitution or gambling is bad. But that's a service they provide with effort. You might compare their effort with your effort or even with the poor effort to survive this world. It's irrelevant, like my writing too. Because the truth of relevant only exist in the some amounts of period. 
+You might think prostitution or [[Gambling|gambling]] is bad. But that's a service they provide with effort. You might compare their effort with your effort or even with the poor effort to survive this world. It's irrelevant, like my writing too. Because the truth of relevant only exist in the some amounts of period. 
 
 Like I don't want to follow something I can't enjoy. Human must pick their enjoyment. And for me, my enjoyment is fight with god, or the delusion that I make a fight with god. 
 

@@ -95,7 +95,7 @@ Ch9
 Iscar and the buffet test
 
 Ch10
-Yozma  — pemerintah invest $100jt buat 10 venture capital funds baru, setiap  fund harus direpresentasikan oleh 3 pihak, israel vc, foreign vc,  israeli investment comp/bank
+Yozma  — pemerintah invest $100jt buat 10 venture capital funds baru, setiap  fund harus direpresentasikan oleh 3 pihak, israel vc, foreign vc,  israeli[[Investment]]comp/bank
 
 Ch11
 "*Two real fathers of Israeli hi-tech are the Arab boycott and Charles de Gaulle, because they forced on us the need to go and develop an industry"
@@ -180,7 +180,7 @@ Chapter 9:
 
 Chapter 10:
 
-- Yozma initiative: Government invests $100 million in 10 new venture capital funds, requiring representation from Israeli and foreign VCs, as well as Israeli investment companies/banks.
+- Yozma initiative: Government invests $100 million in 10 new venture capital funds, requiring representation from Israeli and foreign VCs, as well as Israeli[[Investment]]companies/banks.
 
 Chapter 11:
 

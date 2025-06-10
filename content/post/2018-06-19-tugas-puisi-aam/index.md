@@ -7,7 +7,7 @@ title: Tugas Puisi Kelas 10
 
 Dibuang sayang
 
-Tugas B. Indonesia
+Tugas B. [[Indonesia]]
 
 - Tema 1 : Persahabatan, Percintaan, dsb.
 - Tema 2 : Bebas
@@ -45,7 +45,7 @@ Di dunia yang hanya sementara
 
 ```text
 Penjahat Mental
-Indonesia dilanda kecacatan
+[[Indonesia]] dilanda kecacatan
 Cacat akal yang memicu peperangan
 Perang melawan darah sendiri
 Di negeri sendiri

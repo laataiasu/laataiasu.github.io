@@ -8,9 +8,9 @@ I miss Slack, Jira, Confluence, and all the project management tools I used to t
 
 Implementing a growth mindset often feels challenging because, in many large corporations and government organizations, managers tend to be rigid, resistant to change, and determined to enforce outdated cultures. Despite this, they somehow manage to project an image of success and the right course of action.
 
-It's essential to recognize that success is a subjective and socially constructed concept. In Indonesia, success can be defined at the lowest level, such as the "tingkat taraf kemiskinan."
+It's essential to recognize that success is a subjective and socially constructed concept. In [[Indonesia]], success can be defined at the lowest level, such as the "tingkat taraf kemiskinan."
 
-The relatively slow internet in Indonesia doesn't come as a surprise. According to a report on ![liputan6.com](https://www.liputan6.com/tekno/read/5246376/internet-indonesia-paling-lemot-se-asia-tenggara-ketinggalan-jauh-dari-myanmar-dan-filipina), Indonesia has the slowest internet in Southeast Asia, lagging far behind countries like Myanmar and the Philippines.
+The relatively slow internet in [[Indonesia]] doesn't come as a surprise. According to a report on ![liputan6.com](https://www.liputan6.com/tekno/read/5246376/internet-[[Indonesia]]-paling-lemot-se-asia-tenggara-ketinggalan-jauh-dari-myanmar-dan-filipina), [[Indonesia]] has the slowest internet in Southeast Asia, lagging far behind countries like Myanmar and the Philippines.
 
 Engineering news and influencers play a crucial role in what some may term as a victory. Embracing a growth mindset and staying on the hedonic treadmill are key to overcoming challenges.
 

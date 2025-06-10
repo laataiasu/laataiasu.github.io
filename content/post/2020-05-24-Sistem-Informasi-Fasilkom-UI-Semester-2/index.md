@@ -1,7 +1,7 @@
 ---
 date: "2020-05-24T00:00:00Z"
 tags: ["cs/is"]
-title: Review Sistem Informasi UI ~Semester 2
+title: Review Sistem Informasi  ~Semester 2
 ---
 
 Akhirnya 23 SKS udah selesai. Agak nyesel sih gara-gara nyodok matkul yang dosen dan asdosnya kurang bersahabat *nilaily* (secara nilai). Jadi pada turun nilainya tapi alhamdulillah dapet 1 matkul yang nilainya A, yakni MPKS Apresiasi Film wkwkwk

@@ -6,13 +6,15 @@ title: Referensi Bitcoin (archieved)
 
 Whitepapernya banyak yg niat bngt
 
-https://www.islamicfinanceguru.com/investment/scholars-who-say-cryptocurrency-is-haram-and-those-who-say-its-halal/
+https://www.Islamicfinanceguru.com/investment/scholars-who-say-cryptocurrency-is-haram-and-those-who-say-its-halal/
 
 https://kumparan.com/kumparannews/11-poin-mui-tentang-bitcoin-yang-diharamkan-sebagai-investasi/full
 
 tinggal nunggu bubblenya pecah, atau taunya diterima sama mayoritas trs jadi mata uang stabil
 
 https://coinmarketcap.com/alexandria/article/tesla-buys-1-5-billion-in-bitcoin-and-will-accept-crypto-as-a-payment-method-soon
+
+[[Cryptocurrency]]
 
 https://pintu.co.id/blog/perusahaan-retail-dunia-yang-terima-pembayaran-dengan-bitcoin
 
@@ -50,7 +52,7 @@ defi
 
 https://en.wikipedia.org/wiki/Decentralized_finance
 
-https://www.cnnindonesia.com/ekonomi/20180115175339-78-269063/bank-indonesia-sebut-bitcoin-bisa-ganggu-stabilitas-keuangan
+https://www.cnnindonesia.com/ekonomi/20180115175339-78-269063/bank-[[Indonesia]]-sebut-bitcoin-bisa-ganggu-stabilitas-keuangan
 
 https://www.forbes.com/sites/shehanchandrasekera/2021/01/11/how-are-cryptocurrencies-taxed/?sh=74fe4b506812
 
@@ -83,3 +85,5 @@ decentralized atau centralized ujung2nya tergantung marketing kalo menurut pak p
 https://fourweekmba.com/sales-distribution-peter-thiel/
 
 yg jago marketingnya atau jago manipulasi bakal menang. Decentralized atau centralized system sama2 punya mudarat sama manfaatnya masing2. 
+
+[[Investment]]

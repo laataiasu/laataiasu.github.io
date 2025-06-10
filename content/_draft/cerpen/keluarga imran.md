@@ -2,7 +2,7 @@
 draft: true
 ---
 
-Keluarga harmonis, islamik, ga kaya2 bgngt gara-gara salah pesen nasi
+Keluarga harmonis, Islamik, ga kaya2 bgngt gara-gara salah pesen nasi
 bakar,
 
 Pa Imran: gila kerja, agak kikuk, ga socialable, tapi cerdas, cukup
@@ -92,7 +92,7 @@ ke video porno
 *Riba itu menghancurkan keluarga, menghancurkan negara. Dari hadist
 disebutkan bahwa apabila ada sesuatu yang haram dari dagingnya, maka
 keseluruhannya juga haram. Maka ini tak diperhatikan lagi oleh negara
-khususnya negara agama seperti Indonesia, ungkapan ini kayak cocoklogi.
+khususnya negara agama seperti [[Indonesia]], ungkapan ini kayak cocoklogi.
 Sama kaya ibu maria yang sering berprasangka sampe bapaknya kesel, dan
 jadi ga harmonis. Cocoklogi kalo smeua bencana di dunia itu akibat dr
 tumbuhan yang merasa ga diperlukakukan baik manusia, quran nyuruh baca
@@ -212,7 +212,7 @@ sedang ingin menangis? Bukankah tangisan itu suatu bentuk kebutuhan.
 Maka pada saat itu aku tidak ikuti perintah rasulullah untuk terus
 berusaha tersenyum.
 
-Bagiku Islam itu perlu selalu menimbang yang baik dan buruk, minimal
+Bagiku [[Islam]] itu perlu selalu menimbang yang baik dan buruk, minimal
 mengusahakan kebaikan lebih dari keburukan. Anak ini sebenarnya ingin
 menjadi angin, yang terus menggelorakan api yang ada, tapi tidak terlalu
 besar apabila terlihat apinya masih kecil karena nantinya justru akan

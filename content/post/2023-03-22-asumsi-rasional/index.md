@@ -7,7 +7,7 @@ title: Asumsi Rasional
 {{< youtube id="JFOhvquQiS8" >}}
 
 {{< youtube id="fQ4rc7npiXQ" >}}
-```
+
 "specialization makes it hard to evaluate. sub-specialists propagandize"
 
 "I love him who wants to create over and beyond himself and thus perishes."
@@ -22,7 +22,7 @@ teman, sekolah, bahasa, agama, sains, diri sendiri, semuanya menipu
 nipu dan ditipu -><- growth & learning -><- transaksi muamalah
 
 mirip teori modern finance, CAPM, MPT, and Black&Scholes
-tapi alhamdulillah ada mandelbrot
+tapi alhamdulillah ada [[Benoit Mandelbrot|mandelbrot]]
 salafi wahabi nya finance
 fractal dalam defi gimana ceritanya
 
@@ -32,7 +32,7 @@ ketawa boleh, tapi bunuh dulu lah tuhan-tuhanmu
 
 orang-orang MBA pada sangean sama KPI kuantitatif
 guru 300 ribu makan apa, junk bond?
-mau tambah kompleks? tracking semua, social credit system
+mau tambah kompleks? tracking semua, [[Social Credit System]]
 siapa yg dapet insentif paling tinggi? dionisyan atau apollonian?
 musyawarah mana yang dibayar untuk menentukan?
 kurzweil dan michio, mana mobil terbangnya
@@ -124,5 +124,3 @@ lihat? hanya satu asumsi, tapi dampaknya luar biasa besar, chaos & complex theor
 multiple mental model adalah multiple negasi, selayaknya growth mindset, dan ketiadaan asumsi itu pun membuatmu luput dari gajah di pelupuk mata. sesederhana potongan kalimat the sixth sense. "I see dead people. Walking around like regular people. They don't see each other. They only see what they want to see. They don't know they're dead." 
 
 dan saat itu dihilangkan (asumsi hal itu dapat dihilangkan), tiadalah yang namanya nafsu, sehingga hanya ada rasionalitas, tanpa bias, mati, seperti robot. bahkan kamu masih mempercayai kita memiliki bahasa yang sama? dengan pemodelan yang memiliki banyak cacat? maka dari itu, hapalkanlah cerita-cerita, tentukan probabilitasnya, jangan jalan tergesa-gesa, empatilah pada penghotbah mantra, ketundukan spirit-spirit agung, ia yang tidak menginginkan apa-apa, kerinduan dengan si maha sepi, pembangunan menuju stagnasi, penyelamatan dari interim dan lestari
-
-```

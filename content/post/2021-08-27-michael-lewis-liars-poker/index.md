@@ -10,7 +10,7 @@ Awal mulanya dari nonton Big Short, film tentang krisis tahun 2008
 
 Filmnya diadaptasi dari buku-buku Michael Lewis, buku2 lainnya juga bagus
 
-Rekomendasi M. Burry, yang prediksi krisis itu:
+Rekomendasi [[Michael Burry]], yang prediksi krisis itu:
 
 
 
@@ -23,7 +23,7 @@ https://www.allencheng.com/liars-poker-book-summary-michael-lewis/
 ### Ringkasannya
 
 - Kebobrokan korporasi keuangan, khususnya broker jaman 80 90an dulu di US. 
-- Dia pernah jadi salah satu banking investment anlyst, lebih spesifik lagi jadi bond trader, gatau lah apaan itu
+- Dia pernah jadi salah satu banking[[Investment]]anlyst, lebih spesifik lagi jadi bond trader, gatau lah apaan itu
 - Diceritain proses masuknya, kemunafikan proses recruitmennya, saling menjatuhkan antara kandidat, tentang MBA, dll
 
 Banyak hikmah yang bisa diambil, salah satunya cheat dr warcraft III,

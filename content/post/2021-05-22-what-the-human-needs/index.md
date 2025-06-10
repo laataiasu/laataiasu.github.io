@@ -10,7 +10,7 @@ When I was a junior high school and tried to get into selection of math Olympiad
 
 At that time, I was looking for someone to blame, I wish I had a typical Asian parent who forced their kids to study hard. My parents are somehow religious, but unfortunately, they really make a democratic system which have this kind of problem.
 
->"Di Negara demokrasi kamu bebas bicara apa saja tapi duit harus cari sendiri. Di Negara komunis makan dicukupi tapi kamu gak boleh kritik pemerintah. Di Indonesia kamu dilarang kritik pemerintah tapi uang harus cari sendiri"
+>"Di Negara demokrasi kamu bebas bicara apa saja tapi duit harus cari sendiri. Di Negara komunis makan dicukupi tapi kamu gak boleh kritik pemerintah. Di [[Indonesia]] kamu dilarang kritik pemerintah tapi uang harus cari sendiri"
 >
 >([[Emha Ainun Nadjib|Cak Nun]])
 

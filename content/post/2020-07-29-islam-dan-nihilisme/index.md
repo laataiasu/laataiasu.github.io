@@ -1,24 +1,24 @@
 ---
 date: "2020-07-29T00:00:00Z"
 tags: ["muslim", "essay"]
-title: Islam dan Nihilisme
+title: [[Islam]] dan Nihilisme
 ---
 
-Islam dan nihilisme memang bertentangan, tapi di setiap pertentangan pastilah ada sesuatu kesamaan yang tidak dapat dilihat apabila hanya "satu" yang dilihat. 
+[[Islam]] dan nihilisme memang bertentangan, tapi di setiap pertentangan pastilah ada sesuatu kesamaan yang tidak dapat dilihat apabila hanya "satu" yang dilihat. 
 
 Setiap yang berkecukupan secara materi mencari sesuatu yang lebih dan itulah yang saya lakukan untuk menutupi apa yang disebut sebagai kekosongan. Bahagia adalah sesuatu yang mudah dalam hidup sehingga bukanlah suatu yang perlu dibanggakan untuk menaruhnya ke dalam kekosongan.
 
 Untuk menemukan sesuatu yang kosong itu diperlukan suatu keberanian. Dari sedikit keberanian seorang penakut murni mungkin didapati setelahnya adalah kesombongan yang apabila diliat dari seorang penakut lainnya adalah suatu kemegahan. Dan apabila keberaniannya terus meningkat dan takutnya mulai hilang, pastilah didapatkan dari keberanian yang megah itu tujuannya adalah hanya untuk mendapatkan ketakutan.
 
-Islam dan Nihilisme pada padasarnya hanyalah perasaan takut. Dibawa melalui pendekatan berbeda, yang pada akhirnya menurut saya sama. Siapa pun yang meremehkan rasa takut, dia pulalah yang mengerdilkan keberanian. Karena keberanian sejatinya digunakan hanya untuk menemukan ketakutan.
+[[Islam]] dan Nihilisme pada padasarnya hanyalah perasaan takut. Dibawa melalui pendekatan berbeda, yang pada akhirnya menurut saya sama. Siapa pun yang meremehkan rasa takut, dia pulalah yang mengerdilkan keberanian. Karena keberanian sejatinya digunakan hanya untuk menemukan ketakutan.
 
 Jangan melakukan perdebatan, ikuti yang muhkam. Apabila terdapat yang mutasyabih, cari orang yang berilmu, bukan hanya satu dua, tapi dari kumpulan yang paling baik tabiatnya. Jauhi yang syubhat.
 
 Saya tidak memiliki referensi yang jelas tentang eksistensialisme maupun nihilisme, saya hanya seperti orang yang ketakutan pada umumnya, mencari nabi yang saya kira ia adalah memang “nabi", sumber dari segala kemegahan.
 
-Dalam Islam semuanya seakan sudah beres, dan tidak perlu lagi usaha untuk menemukan. Padahal usaha untuk “berusaha" adalah hal yang sejak dulu tidak pernah saya pahami, yang membuat saya mencari kepada yang lain, yang begitu saya dapatkan ternyata mengarah kepada usaha untuk “berusaha".
+Dalam [[Islam]] semuanya seakan sudah beres, dan tidak perlu lagi usaha untuk menemukan. Padahal usaha untuk “berusaha" adalah hal yang sejak dulu tidak pernah saya pahami, yang membuat saya mencari kepada yang lain, yang begitu saya dapatkan ternyata mengarah kepada usaha untuk “berusaha".
 
-Bukan seperti Yahudi yang terus mencari dan akan menaklukan “rumah", bukan pula cinta kasih Kristen yang merasa pengorbanan adalah yang membuatnya bebas dan takut melakukan apa saja, tapi Islam, yang secara referensi saya yang lemah adalah sebuah penyerahan, usaha untuk “berusaha", simbol dari penyerahan yang membuahkan kesuksesan, kekuasaan. Dan kekuasaan dan kesuksesan bukan apa-apa melainkan milik suatu simbol yang tidak dapat dinilaikan.
+Bukan seperti Yahudi yang terus mencari dan akan menaklukan “rumah", bukan pula cinta kasih Kristen yang merasa pengorbanan adalah yang membuatnya bebas dan takut melakukan apa saja, tapi [[Islam]], yang secara referensi saya yang lemah adalah sebuah penyerahan, usaha untuk “berusaha", simbol dari penyerahan yang membuahkan kesuksesan, kekuasaan. Dan kekuasaan dan kesuksesan bukan apa-apa melainkan milik suatu simbol yang tidak dapat dinilaikan.
 
 Maka dari itu, saya berusaha serasional mungkin, dan memang bijak bahwa dari kerasionalan dan empirisme, sesuatu itu tidak dapat diuji dan digali lebih dalam. Saya bisa saja menyerah dalam tahap ini. Membiarkan “tidak mengetahui" berada dalam sistem kesadaran yang terjauh. Tapi rasionalitas dan kegilaan saya bahkan tidak dapat menempatkannya selagi saya melangkah lebih jauh untuk mencari di antara yang terbid’ah dan yang termutasyabih.
 

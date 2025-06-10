@@ -232,11 +232,11 @@ pernah dianggap serius. Penyakit jiwa.
 Ia yang perlu kebenaran maka ia mencari, ia yang perlu kepuasan maka ia
 percaya. Kaum ini, bani israil selalu diberkahi dengan segalanya,
 kebaikan dan kutukan. Tidak seperti bani-bani yang lain, apalagi makhluk
-indonesia ini yang tidak memiliki asal-usul yang jelas, maka sepantasnya
+[[Indonesia]] ini yang tidak memiliki asal-usul yang jelas, maka sepantasnya
 disebut pribumi. Lebih proletar dari proletar tapi jiwanya tidak sedia
 disebut proletar dan merasa ia sederajat, maka ia menyembah ekualitas.
-Alam Indonesia diberkati, tapi manusianya tidak. Sudah sepatutnya
-manusia menjadi khalifah di muka bumi. Tapi si manusia indonesia ini
+Alam [[Indonesia]] diberkati, tapi manusianya tidak. Sudah sepatutnya
+manusia menjadi khalifah di muka bumi. Tapi si manusia [[Indonesia]] ini
 tidak jelas asal-usulnya. Tidak pernah disebutkan di kitab manapun.
 Makanya mereka perlu mencipta atau mengikuti. Akhirnya dituliskannya
 kitab sendiri, babab jawa dsb. Tapi lebih banyak yang mengikuti,
@@ -264,7 +264,7 @@ komikus doktor guru blablabla. Diciptakannya di nusantara ini ahli-ahli.
 Tapi mental tidak memiliki asal-usul ini terus bersarang di setiap
 bagian nusantara, ada yang mengikuti tradisi-tradisi dahulu, ada yang
 mengikuti pemikiran-pemikiran bangsa eropa yang maju, libertarian atau
-sosialisme, tapi manusia indonesia ini cnederung malah berakhir mencipta
+sosialisme, tapi manusia [[Indonesia]] ini cnederung malah berakhir mencipta
 tragedinya sendiri. Itu dinamakan pancasila, ia merasa pemikirannya itu
 cocok buat semua, tapi mental manusia yang lain masih belum kuat
 menerima, apa yang ada di kata maknanya harus selalu sama, tak perlu

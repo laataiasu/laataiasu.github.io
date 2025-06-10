@@ -11,11 +11,11 @@ Machiavellianism believes that every activity that is aimed at the stability of 
 
 Every individual is the government of themselves. So based on Machiavellianism, it doesn't care about the morality or in the long term which influenced the existence of any government or in the scope individual are other people, friends, family, or anyone, as long as they don't bother the stability of the individual government, the individuals didn't care because it only cares about its government.
 
-So it is the concept which Indonesia or those who glorify about nationalism taught to its people. They educated their people, that they should stabilize their country and themselves and don't care about the long term of what they're doing to any other than themselves.
+So it is the concept which [[Indonesia]] or those who glorify about nationalism taught to its people. They educated their people, that they should stabilize their country and themselves and don't care about the long term of what they're doing to any other than themselves.
 
-I don't know if people considered this as bad, but I agree with the government about this and regard what the Indonesia government does is good.
+I don't know if people considered this as bad, but I agree with the government about this and regard what the [[Indonesia]] government does is good.
 
-And I want to look deeper into the educational system of Indonesia to praise what they're doing.
+And I want to look deeper into the educational system of [[Indonesia]] to praise what they're doing.
 
 First, they taught about everything to the students. They believe every aspect is critical to students. So the students have to master all the lessons even if the students don't do well or don't like some lessons.
 

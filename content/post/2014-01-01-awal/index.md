@@ -25,7 +25,7 @@ Mari kita tarik kesimpulan, kalo kita bicara mengenai awal, mau bahas sampe keuj
 
   
 
-Mungkin dalang dari dunia bisa tersenyum dan membuatkan tempat khusus untuk ente setelah ente matek. Kalo setelah ente matek ga ada kehidupan lagi ya baguslah. Ga ada yg bisa dipercayai di dunia ini. Perspektif orang beda2 tergantung dari sudut mana ente memandang dunia. Cukup percaya apa yang ente percayai. Dalam Islam disebutin "Untukku agama (kepercayaan)ku dan untukmu agama (kepercayaan)mu" Jadi ente bisa bebas memandang berbagai macam sudut dunia dengan langkah yang ente awali. Jangan pernah takut terlambat untuk membuat awalan, karena ente bisa merevisi awalan itu ditengah dan bisa jadi akhiran yang indah. Tergantung apa yang ente perbuat. Ga usah nyari2 awal dunia, kita cuman perlu paham history, sekarang, dan apa yang akan dilakukan dimasa depan. Karena Awal adalah Kamu
+Mungkin dalang dari dunia bisa tersenyum dan membuatkan tempat khusus untuk ente setelah ente matek. Kalo setelah ente matek ga ada kehidupan lagi ya baguslah. Ga ada yg bisa dipercayai di dunia ini. Perspektif orang beda2 tergantung dari sudut mana ente memandang dunia. Cukup percaya apa yang ente percayai. Dalam [[Islam]] disebutin "Untukku agama (kepercayaan)ku dan untukmu agama (kepercayaan)mu" Jadi ente bisa bebas memandang berbagai macam sudut dunia dengan langkah yang ente awali. Jangan pernah takut terlambat untuk membuat awalan, karena ente bisa merevisi awalan itu ditengah dan bisa jadi akhiran yang indah. Tergantung apa yang ente perbuat. Ga usah nyari2 awal dunia, kita cuman perlu paham history, sekarang, dan apa yang akan dilakukan dimasa depan. Karena Awal adalah Kamu
 
   
 

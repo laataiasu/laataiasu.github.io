@@ -51,7 +51,7 @@ saya jadi inget zee jkt48 senyum doang ada yh nontontin, saya senyum ke anak kec
 
 saya pernah kejadian di angkot gitu ya, 
 
-disini ada yg gatau angkot? siapa tau gitu kan ada orng kaya mirip livy renata yg tiap hari dianter supir kan ga akan ngerti tau angkot. ya jadi gw definisikan terlebih dahulu, menurut wikipedia, angkot merupakan transportasi umum yg sering berada di kota-kota kecil di Indonesia. sering membuat anda terlambat karena sering ngetem ga jelas, kadang masuk pengamen yg suaranya jelek tapi sering malak, terkadang ada copet seperti di film preman pensiun, dan abang2 angkot sering memutar musik bergenre EDM koplo atau dangdut di angkot ini. 
+disini ada yg gatau angkot? siapa tau gitu kan ada orng kaya mirip livy renata yg tiap hari dianter supir kan ga akan ngerti tau angkot. ya jadi gw definisikan terlebih dahulu, menurut wikipedia, angkot merupakan transportasi umum yg sering berada di kota-kota kecil di [[Indonesia]]. sering membuat anda terlambat karena sering ngetem ga jelas, kadang masuk pengamen yg suaranya jelek tapi sering malak, terkadang ada copet seperti di film preman pensiun, dan abang2 angkot sering memutar musik bergenre EDM koplo atau dangdut di angkot ini. 
 
 ada tmen saya yg ganteng senyum ke anak kecil. suka gasih lu kalo ada anak kecil terus ibunya ga ngeliat, lu suka bikin muka aneh, terus giliran gw senyj eh malah dia ketakutan, padahal itu adalah senyum termanis yg bisa gw beri. 
 
@@ -109,7 +109,7 @@ Orang indo tuh gampang bngt ditipu, terlalu khusnudzon ada orng arab lngsng dian
 
 Ada 2 tipe orng agnostik sok2an males solat aja
 
-orang minoritas/kafir tuh ga bisa berpikir sepintar dan seadil orang mayoritas. ada orang ceramah2 tuh sebenarnya kan ada dokter tht yang siap untuk ketiban rezeki, ada orang psikolog juga, nanti ada juga di tv pakar agama, reporter tentang suara azan, ada orang standup comedy juga yg . penguasa di indonesia itu mayoritas minoritas kan ya. karena ya kerjanya aja disuruh trading dll
+orang minoritas/kafir tuh ga bisa berpikir sepintar dan seadil orang mayoritas. ada orang ceramah2 tuh sebenarnya kan ada dokter tht yang siap untuk ketiban rezeki, ada orang psikolog juga, nanti ada juga di tv pakar agama, reporter tentang suara azan, ada orang standup comedy juga yg . penguasa di [[Indonesia]] itu mayoritas minoritas kan ya. karena ya kerjanya aja disuruh trading dll
 
 tuhan itu menciptakan tidak sia-sia, tapi ada 1 kasus yg bikin gw ga percaya sama statement ini. yaitu adalah sjw. sjw goblok memperjuangkan kesetaraan. lu nih kalo mau setara lu harus punya jakun dulu, mana bisa gw punya memek kalo ga transgender macam lucinta luna. harusnya yg diperjuangkan tuh keadilan dan hak, sepatu hak misalnya. Atau HAK UNTUK DIAM.
 
@@ -145,7 +145,7 @@ Gw dulu tuh ingin jsdi guru ya, to setelah tau guru bisa korupsi
 
 Goblok bngt ya pas smp sma belajar pencernaan sapi. Astronaut ke luar angkasa aja lu buay apa pencernaan sapi? Ustad aja gasampe bilang *jelasin sistem pencernaan sapi. Tp kalo jd standup comedy kepake ya. Dan akhirjya gw nyadar, bahwabada jg loh pelajaran yg dulublo pelajarin berguna, walaupun lebih banyak yg ga gunanya
 
-Raditya dika konten horror vs investasi/opportunity cost. jerome polin hiburan atau matematika, ujung2nya hiburan. Pendidikan itu harusnya liat gini ya, karena hiburan lebih dibutuhkan.
+Raditya dika konten horror vs [[Investment]]/opportunity cost. jerome polin hiburan atau matematika, ujung2nya hiburan. Pendidikan itu harusnya liat gini ya, karena hiburan lebih dibutuhkan.
 Jangan bikin ujian, ujian hidup dr allah. Jangan menyaingi allah. Banyak guru agama ngomong jangan menyaingi tuhan, lah ini guru agama. Makanya diubah namanya gitukan jadi ulangan, ganti lockdown ppkm level 1. snmptn sbmptn
 
 Sbmptn
@@ -216,7 +216,7 @@ meanwhile ibunya adalah pahlawan perang aceh, bawa senjata, ternyata cut nyak di
 
 sering terjadi di kota2 besar
 
-gw kasih tau ya dek, Itu memang udah pantas woi circle lu bikin grup baru yg ga ada lunya. gw kalo masuk circlelu aja gw pasti ban lu dari kehidupan. kok ada gitu orng macam beginian. kalo mesin bundir yg ada di swedia itu ada ya di indonesia, gw biayain lu buat masuk situ serius. atau kalo ga ada gw bisa kirim lu langsung kesana. atau kalo gamau bayar buat alatnya, gw selundupin lu deh ke taliban, terus gw sebut lu lbgt. eh tapi lu cw ya kalo gw sebut lu ternyata l, mereka nanti pada seneng lg. kalo laki2 dibilang gay kan gampang, langsung penggal, atau dijatuhin dr gedung tinggi. ya pokonya gw bakal buat lu menghilang lah dari kehidupan ini, sama petrus atau apalah. loh kok gw malah jadi kayak mantan presiden indonesia? 
+gw kasih tau ya dek, Itu memang udah pantas woi circle lu bikin grup baru yg ga ada lunya. gw kalo masuk circlelu aja gw pasti ban lu dari kehidupan. kok ada gitu orng macam beginian. kalo mesin bundir yg ada di swedia itu ada ya di [[Indonesia]], gw biayain lu buat masuk situ serius. atau kalo ga ada gw bisa kirim lu langsung kesana. atau kalo gamau bayar buat alatnya, gw selundupin lu deh ke taliban, terus gw sebut lu lbgt. eh tapi lu cw ya kalo gw sebut lu ternyata l, mereka nanti pada seneng lg. kalo laki2 dibilang gay kan gampang, langsung penggal, atau dijatuhin dr gedung tinggi. ya pokonya gw bakal buat lu menghilang lah dari kehidupan ini, sama petrus atau apalah. loh kok gw malah jadi kayak mantan presiden [[Indonesia]]? 
 
 dan karena akhirnya si anak merasa dikhianati kehidupan, malas kuliah, merasa tidak ada yg menerimanya di kehidupan, akhirnya si anak memutuskan untuk menjadi wanita karir cabang only fans dengan saudari kembarnya untuk menyambung kehidupan dan memenuhi gaya hidupnya? Pembajakan itu haram
 
@@ -301,17 +301,17 @@ lu licik sumpah orang2 masochist. pengaturan score, lebih jahat daripada mafia b
 
 sama biasanya ya, kalo lu doa untuk sendiri tuh jarang kekabul minta semoga dia jodoh gw, eh temen deket lu kan tiba2 ngelamar besoknya, menikung dengan tajam. minta ini minta itu eh orang lain yang dapet gitukan. Nah ini tuh sama gasih kasusnya, orang masochist tuh “ya tuhan aku ingin menderita”, nah ini sama nih kaya tadi, dia ingin banget dan itu biasanya ga kekabul, dan si kampretnya ini malah ke yang lain anjir. 
 
-Iya gitu kan ga ada orang yang minta disakitin, eh tiba2 disakitin. Mungkin karena itu ya, makanya banyak yg sakit, banyak yg menderita, sakit mental, perang. perang. Mungkin ada yang doa ingin perang, tapi karena saking inginnya dia ga dikabulin coy, mungkin ini ya viking bonek doa ingin perang viking bonek itu fans bola persib sama persija. nah ini doa mereka ini ga kekabul, perangnya tuh malah di ukraina, sama di palestina tuh ga kelar2. Ada orang yg berdoa ingin diperbudak (bondage) eh dia juga dikabulin ga ada yg mau ngejadiin orang ini jadi budak, yg diperbudak malah orang2 uyghur, sama para unpaid intern yang digaji terima kasih
+Iya gitu kan ga ada orang yang minta disakitin, eh tiba2 disakitin. Mungkin karena itu ya, makanya banyak yg sakit, banyak yg menderita, sakit mental, perang. perang. Mungkin ada yang doa ingin perang, tapi karena saking inginnya dia ga dikabulin coy, mungkin ini ya viking bonek doa ingin perang viking bonek itu fans bola persib sama persija. nah ini doa mereka ini ga kekabul, perangnya tuh malah di ukraina, sama di [[Palestine]] tuh ga kelar2. Ada orang yg berdoa ingin diperbudak (bondage) eh dia juga dikabulin ga ada yg mau ngejadiin orang ini jadi budak, yg diperbudak malah orang2 uyghur, sama para unpaid intern yang digaji terima kasih
 
 Makannya gitu kan, gua tuh berhenti memaksakaan apa yang gw rasa orang tuh harus sejalan sama gw. Kaya tadi, misalkan gw tuh inginnya penderitaan orang2 tuh dikurangi, nah itu gw ga akan lagi kaya gitu karena ga semuanya pengen gitu. Gw ingin pintar dan gw ga akan maksa orang juga ingin pintar, joget2 tiktok buat bikin nafsu orang2 sangean, dengan dalih its aestetic bro and i am just happy doing things like this, ya itu terserah lah gw ga akan maksa orang lain lagi sesuai kemauan gw, maksudnya lu belajar lah, menyelesaikan masalah lingkungan dan manusia, kemiskinan kesenjangan sosial, global warming, hadeh gw udah mirip gretha tunber itu sjw spg sgd development. 
 
-Dan dari pembelajaran itupula gitu ya gw mengubah doa gitu. Dulu kan, ya tuhan selamatkan muslim di indonesia, muslim di dunia, dimana saja gitu, hilangkanlah penderitaannya, berikanlah kebahagiaan dunia dan akhirat, persatukanlah kami agar damai sentosa.  nah sekarang tuh ngga gitu gw. Banyak Doa gw biasanya yg udah dimodif ya, udah dicustom. Jadi doa gw ini ya, bagi orang yg kesakitan atau tersakiti, bagi orang yg cacat, bagi orang jelek, bagi orang bodoh, nah ini khususnya bagi orang palestina yg menderita karena perang sama zionis wahyudi, gua doain ya, biar lu bisa menikmati penderitaan, semoga lu semua jadi mashocist.
+Dan dari pembelajaran itupula gitu ya gw mengubah doa gitu. Dulu kan, ya tuhan selamatkan muslim di [[Indonesia]], muslim di dunia, dimana saja gitu, hilangkanlah penderitaannya, berikanlah kebahagiaan dunia dan akhirat, persatukanlah kami agar damai sentosa.  nah sekarang tuh ngga gitu gw. Banyak Doa gw biasanya yg udah dimodif ya, udah dicustom. Jadi doa gw ini ya, bagi orang yg kesakitan atau tersakiti, bagi orang yg cacat, bagi orang jelek, bagi orang bodoh, nah ini khususnya bagi orang [[Palestine]] yg menderita karena perang sama zionis wahyudi, gua doain ya, biar lu bisa menikmati penderitaan, semoga lu semua jadi mashocist.
 
 ## stupid government 
 
-Indonesia suka banget ya hal-hal yang sifatnya simbolik. Banyak yang mengagung2kan founding father indonesia, tapi ada juga kekonyolannya kan tiap orang tuh pasti ada kekonyolannya. Contohnya monas aja, maksud bangungan ini fungsinya apa coba. bentuknya tuh kayak titit. tapi titit tuh ga segede monas tapi banyak fungsinya ya, ini monas udah gede panjang, tajem, mahal, apa coba fungsinya?
+[[Indonesia]] suka banget ya hal-hal yang sifatnya simbolik. Banyak yang mengagung2kan founding father [[Indonesia]], tapi ada juga kekonyolannya kan tiap orang tuh pasti ada kekonyolannya. Contohnya monas aja, maksud bangungan ini fungsinya apa coba. bentuknya tuh kayak titit. tapi titit tuh ga segede monas tapi banyak fungsinya ya, ini monas udah gede panjang, tajem, mahal, apa coba fungsinya?
 
-katanya sebagai lambat nasional ya, mana nasional nya coba, kepunyaan indonesia tuh kecil-kecil. Atau mungkin pak founding father ini sebenarnya emang niatnya bukan melambangkan orang-orang indonesia, tapi ingin agar punya kita ini panjang seperti apa yang dicita-citakannya, berarti kita mau jadi porn star.
+katanya sebagai lambat nasional ya, mana nasional nya coba, kepunyaan [[Indonesia]] tuh kecil-kecil. Atau mungkin pak founding father ini sebenarnya emang niatnya bukan melambangkan orang-orang [[Indonesia]], tapi ingin agar punya kita ini panjang seperti apa yang dicita-citakannya, berarti kita mau jadi porn star.
 
 Sama contohnya kemarin ya bukit algoritma coba, itu buat apa2, ekskusivitas, yg kita haruskan demokratisasi, pemerataan pendidikan, ini malah ngebuat 1 tempat yang sentralistis gitu, nah yg bisa masuk kesana tuh nantinya orang2 yg pinter aja,. Kalo gitu gimana daerah lainnya bisa berkembang gitu. nama silicon valley aja salah coba, katanya pembangunannya tuh berbasis penelitian. dan katanya nih ya, oh rakyat biasa tuh ga berhak berkomentar karena itu katanya dibangun swasta.
 
@@ -319,7 +319,7 @@ Tapi gua nih curiga ya, kalo swasta biasanya bagus, rencananya rengkap, karena a
 
 pemerintah tuh kaya ahh duitnya kan ditalangin rakyat, kalo bangkrut juga lah uang rakyat ini.
 
-## 2023-06-02 islam dan muhammad
+## 2023-06-02 [[Islam]] dan muhammad
 
 muslim's god itu kayak pemilik indsutri rokok. dah tau toxic tapi ttp dibuat. trs nyalahin, lah kan lo dikasih free will dan dijanjikan surga woawkoakwoakwok
 
@@ -333,11 +333,11 @@ nabi isa tuh gagal karena justru malah gw udah selametin lo semua dr dosa, nah i
 
 ada kontradiksi nabi muhammad katanya jangan ketawa karena mematikan hati. musik tertinggi kata [[Friedrich Nietzsche|nietzsche]]. dan nabi muhammad tau betul itu, makanya dia ngeralang jangan. padahal kalo anda tau, banyak loh nasyid, quran itu gapake alat musik, saat dilantunkan ada iramanya, dan itu bagian dari musik yang tertingggi. keindahan quran itu kalo ga ada langgamnya susah juga buat diindahkan, tapi justru itu juga inklusif buat para tuli.
 
-tpai nabi [[Muhammad]] saking cerdasnya dia karena tau ada orang yg tuli maka dia haramkan musik, untuk berempati. islam itu agama paling empati dan paling disegani.
+tpai nabi [[Muhammad]] saking cerdasnya dia karena tau ada orang yg tuli maka dia haramkan musik, untuk berempati. [[Islam]] itu agama paling empati dan paling disegani.
 
 sebenernya kaya liberal, memperjuangkan kebebasan, termasuk senpi jadi meninggal.
 
-tapi islam itu lebih rasional, justru jangan meninggal cepet2 coy, perlu menderita dulu.
+tapi [[Islam]] itu lebih rasional, justru jangan meninggal cepet2 coy, perlu menderita dulu.
 
 kapasitas manusia untuk menggenaralisasi itu ga ada, makanya yang baginda sampaikan itu semuanya kontradiksi, bahwa memang ada kontradiksi itu, kalo anda bilang ga ada maka anda ga nyampe spiritualnya kaya para saintis.
 

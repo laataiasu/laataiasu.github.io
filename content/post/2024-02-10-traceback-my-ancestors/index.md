@@ -56,7 +56,7 @@ Great! Below is your content reformatted with `[[wikilinks]]` so it's ready to d
 
 ---
 
-### 💻 [[Computer Science & Information Systems (CSIS)]]
+### 💻 [[[[Computer Science]] & Information Systems (CSIS)]]
 
 #### 📊 [[Business / System Analysis]]
 

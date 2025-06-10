@@ -24,4 +24,4 @@ One should limit their viewpoint because curiosity is nothing but a castration p
 
 Statisticians, data analysts, and knowledge seekers are like eunuchs who have castrated themselves. They consider all women to be equally good, yet the woman within them is never understood. They often justify their cowardice with a thousand excuses, and the only courage they possess is to kill the woman within themselves.
 
-Would you die for Islam, my brother?
+Would you die for [[Islam]], my brother?

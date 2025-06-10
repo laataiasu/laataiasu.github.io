@@ -5,7 +5,7 @@ tags: ["essay"]
 title: Pengantar Ketelanjangan
 ---
 
-Bosen woy pake sua saya, pake bahasa indonesia yang baku dll. Harus mikir apa yang perlu ditulis biar semuanya nyambung. Tapi pas cape-cape dipikirin ga ada yang nyambung. Daripada baku tapi ga nyambung kenapa sekalian aja ga baku dan ga nyambung ? kan lebih sia-sia ?
+Bosen woy pake sua saya, pake bahasa [[Indonesia]] yang baku dll. Harus mikir apa yang perlu ditulis biar semuanya nyambung. Tapi pas cape-cape dipikirin ga ada yang nyambung. Daripada baku tapi ga nyambung kenapa sekalian aja ga baku dan ga nyambung ? kan lebih sia-sia ?
 
 
 "Demi masa. Sesungguhnya manusia dalam kerugian. Masa Bodo!" –KH. Jati.

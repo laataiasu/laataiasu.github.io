@@ -21,7 +21,7 @@ Bullying is part of nature or evolution. It is only the form of competition, whe
 
 Challenging homeostasis means to get out of the comfort zone. I mean, those who are weak, can't be ignored, unless they want to still be in the comfort zone, not to grow nor to develop. It is something common in the system of evolution where who can adapt will survive, even can be a beast after they got something that pressured them. Then their condition will grow and being developed.
 
-Businesses, investing, systems developing, learning, work out, and everything need this kind of pressure. Let's see this investing thing, there's something called J- Curve
+Businesses, [[Investment|investing]], systems developing, learning, work out, and everything need this kind of pressure. Let's see this [[Investment|investing]] thing, there's something called J- Curve
 
 ![time x performance](https://catatankemalasan.files.wordpress.com/2021/11/u-zfnh3j-2zaimcdcg9xpvb5_l1kxc28cpm06e_kd5bbi4z-kvawi_6vnppntbc1oketnwjiaqyzwl88kbqbnjcmtg8eypmijb1iqu4bzytfhseok02j9dep2uc6jitloudk4fy6.png)
 

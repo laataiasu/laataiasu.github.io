@@ -22,7 +22,7 @@ Overthinking, insecurity, anxiety, depression, serious disease, and any other th
 
 Painful memory can be eliminated, stress when thinking can be stopped, all things are easily obtained and eliminated. Everyone is forced by society or themself to be happy, not sick, clever, beautiful, and perfect. And there will be no more things that the majority of people perceive as illness or scarcity.
 
-As neuroscience, computer science, and others develop into that way, you will be longing a lot of scarcities, dumbness, poorness, sadness, or disease. Based on doing fictional thinking such that you're gonna enjoy all your circumstances. And you're gonna conclude that,
+As neuroscience, [[Computer Science]], and others develop into that way, you will be longing a lot of scarcities, dumbness, poorness, sadness, or disease. Based on doing fictional thinking such that you're gonna enjoy all your circumstances. And you're gonna conclude that,
 
 Disease is not a bug. It's a feature.
 

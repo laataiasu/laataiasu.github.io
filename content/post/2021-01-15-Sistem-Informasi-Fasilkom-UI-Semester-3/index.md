@@ -22,7 +22,7 @@ Intinya, kalo tertarik dengan web dan sejenisnya, harus belajar sendiri karena d
 
 3. DDAK: Dari matkul ini saya cukup bisa membayangkan proses pembuatan komputer. Keren banget tapi ga sampe dalem banget, beda dengan anak Ilkom atau Tekkom mungkin yang sampe detail. Seru sih tapi kerasa masih banyak yang kurang.
 
-4. Adbis: Seumur hidup baru ngerasain dapet kelompok random tapi cooperative banget kayak di matkul ini. Tugas utamanya bikin business plan. Alhamdulillah saya kebagian ngerjain finance, jadi lumayan paham tentang financial statement, yang bisa diaplikasiin langsung buat analisis fundamental, screening saham, atau milih-milih saham buat investasi hehe.
+4. Adbis: Seumur hidup baru ngerasain dapet kelompok random tapi cooperative banget kayak di matkul ini. Tugas utamanya bikin business plan. Alhamdulillah saya kebagian ngerjain finance, jadi lumayan paham tentang financial statement, yang bisa diaplikasiin langsung buat analisis fundamental, screening saham, atau milih-milih saham buat [[Investment]] hehe.
 
 5. PPM: Matkul underrated yang gapenting-penting amat tapi sebenarnya kalo dipelajarin bener-bener bisa ngebuat framework berpikir tentang manajemen. Utamanya planning, leading, organizing, controlling. Ntahlah, disini belajar self-improvement juga dari teori-teori psikologi, sosiologi, manajemen, bisnis. Ya walaupun ada beberapa teori yang seakan-akan dipaksain sih, tapi cukup keren juga. Tugas mingguannya sangat menyenangkan, yaitu disuruh nonton clip video dari film dan sejenisnya terus dianalisis dihubungin sama teori manajemen. Terus ujiannya ditugasin buat artikel ilmiah. Matkul yang cukup menyenangkan.
 
@@ -32,7 +32,7 @@ Intinya, kalo tertarik dengan web dan sejenisnya, harus belajar sendiri karena d
 
 1. Organisasi: Saya sangat kutu-kutu (kuliah tidur kuliah tidur). Udah diamanahin jadi PJ Web Fuki tapi saya males belajar web parah. Sebenarnya udah lumayan bisa, tapi mau ngerjain males banget karena saya malas mengerjakan sesuatu yang effortnya gede tapi gatau outputnya apa atau outputnya kecil banget.
 
-Saya ngerasa Fuki tuh ga butuh web wkwk. Sayang aja target dari Fuki itu cuma Fasilkom, padahal bisa mengaplikasikan ilmunya lebih luas lagi, targetnya bisa ke luar daerah Depok, Jakarta, bahkan Indonesia, bahkan dunia. Tapi ya, saya mau ngasih feedback juga agak percuma karena mungkin yang lainnya lebih suka kesibukan yang lain jadi otomatis Fuki itu organisasi yang terpinggirkan dan cuman bisa beroperasi di lingkungan Fasilkom doang, padahal bisa lebih. Ya tapi not bad lah, lagian saya sangat tidak mengerti tentang dakwah.
+Saya ngerasa Fuki tuh ga butuh web wkwk. Sayang aja target dari Fuki itu cuma Fasilkom, padahal bisa mengaplikasikan ilmunya lebih luas lagi, targetnya bisa ke luar daerah Depok, Jakarta, bahkan [[Indonesia]], bahkan dunia. Tapi ya, saya mau ngasih feedback juga agak percuma karena mungkin yang lainnya lebih suka kesibukan yang lain jadi otomatis Fuki itu organisasi yang terpinggirkan dan cuman bisa beroperasi di lingkungan Fasilkom doang, padahal bisa lebih. Ya tapi not bad lah, lagian saya sangat tidak mengerti tentang dakwah.
 
 2. Asdos: Pertama kali ngerasain jadi asdos Kalkulus 1. Lumayanlah recall apa yang udah dipelajarin sebelumnya. Ternyata menilai pekerjaan orang itu bukan sesuatu yang mudah. Penilaian oleh manusia sangat bias dan menurut saya sangat tidak reliable, lagian masih belum diketahui penilaian yang bener-bener objektif dan tidak bias. Disini juga saya lumayan belajar excel, fungsi sum, vlookup, average, dll.
 

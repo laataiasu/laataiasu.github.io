@@ -9,7 +9,7 @@ title: Why This Earth Of Mankind Is A Dangerous Book
 
 ![bumi manusia ikan](https://d1ldy8a769gy68.cloudfront.net/300/068/809/373/6/0688093736.jpg)
 
-Let's praise the old Indonesia's government who succeeded at doctrined the boomer generations or in their length of service about the danger of communism.
+Let's praise the old [[Indonesia]]'s government who succeeded at doctrined the boomer generations or in their length of service about the danger of communism.
 
 Including one of the books banned from circulation at that period, namely "Bumi Manusia".
 
@@ -21,7 +21,7 @@ They don't prove, they just accuse, and that's what their genius is. It may seem
 
 And let me explain further.
 
-What the previous, authoritarian-looking government wanted to fight was not communism, but it was much more than that. The act of genocide, the silencing of freedom of speech and so on is not a form of wanting to become something powerful, but they want to spread another spirit to rule.
+What the previous, authoritarian-looking government wanted to fight was not communism, but it was much more than that. The act of [[Genocide|genocide]], the silencing of freedom of speech and so on is not a form of wanting to become something powerful, but they want to spread another spirit to rule.
 
 And the thing they are fighting against is, **Humanity**. Yes, humanity.
 
@@ -35,7 +35,7 @@ In communism there is an aspect that is upheld in high esteem, namely humanism. 
 
 The book was praised by moral people. But I criticize the book, and I am more supportive of Soeharto Rezime's actions. It is clear that what is considered to be the highest, namely Humanity, is nothing more than life-destroying nonsense.
 
-We see at this time how many ecological problems, how social gap is increasing, how many corruption, and another problems in Indonesia. The number is neither reduced nor increased. It seems that the problem is reduced by technology, but in reality the problem is permanent. It never increases or decreases, it just passes to another form.
+We see at this time how many ecological problems, how social gap is increasing, how many corruption, and another problems in [[Indonesia]]. The number is neither reduced nor increased. It seems that the problem is reduced by technology, but in reality the problem is permanent. It never increases or decreases, it just passes to another form.
 
 The effectiveness and efficiency echoed by moralists is an example of this ignorance. What do the effective and efficient aim to achieve? Of course the naivety of something, the low cost, the high profit, and nothing else, is intended only for humanity.
 

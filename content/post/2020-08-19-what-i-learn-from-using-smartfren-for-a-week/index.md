@@ -5,7 +5,7 @@ title: What I Learn from Using Smartfren for a Week
 ---
 Warning!!! Don't read it if you don't want to waste your time
 
-I am the typical person who always decide or prejudice something by first impression that he/she/it did to me without doing critical thinking and analyzing it. Even I have known prejudice especially bad prejudice is not good and in Islam it is prohibited, I don't know my feeling is always said that what is true is what its seen at first.
+I am the typical person who always decide or prejudice something by first impression that he/she/it did to me without doing critical thinking and analyzing it. Even I have known prejudice especially bad prejudice is not good and in [[Islam]] it is prohibited, I don't know my feeling is always said that what is true is what its seen at first.
 
 My thinking and intuition still judge something based on its first experienced related with me even that I know that something not always consistent in the term of physical or mental. In other hand if it's related to human behaviour, it didn't constanly as it is. That activity, behaviour, or habbits can be changed in short term or in long term by some specicific event, or in simple ways, a bad can turn to be good, and otherwise.
 

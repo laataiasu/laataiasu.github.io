@@ -77,8 +77,8 @@ i remember pak mus, my Indonesian teacher in elementary school. there was a task
 
 "tanpa cinta, hidup terasa hampa"
 
-pak mus has a heavy javanese accent. he pronounces indonesia as "inddonesa" with medok style. the majority of my classes are sundanese students and of course that was funny. my class always mocks him, when he walks toward us, we usually scream, "inddonesa inddonesa". he got frustrated being bullied by us until he resigned from our school. 
+pak mus has a heavy javanese accent. he pronounces [[Indonesia]] as "inddonesa" with medok style. the majority of my classes are sundanese students and of course that was funny. my class always mocks him, when he walks toward us, we usually scream, "inddonesa inddonesa". he got frustrated being bullied by us until he resigned from our school. 
 
-i remember him when I read this somehow. love is still bullshit for me, because how can an islamic private school students bombard an innocent teacher like that, but it is still funny though. i hope he does well right now. 
+i remember him when I read this somehow. love is still bullshit for me, because how can an Islamic private school students bombard an innocent teacher like that, but it is still funny though. i hope he does well right now. 
 
 what is love? baby don't hurt me ~

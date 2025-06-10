@@ -12,7 +12,7 @@ Mengenai konsep bahwa hal buruk tidak dapat bersatu dengan yang baik, saya meras
 
 Berhipotesis menjadi salah satu bentuk usaha yang paling mudah bagi saya. Saya percaya bahwa tidak ada hipotesis yang bisa diremehkan; setiap hipotesis hanya bisa dibuktikan kesahihannya atau tidak. Oleh karena itu, saya memulai dengan menyusun hipotesis dan menganalisis fakta yang dapat saya amati. Hipotesis saya saat ini adalah perlunya menghapus batasan-batasan yang ada. Saya menyadari bahwa ini merupakan hipotesis yang sulit untuk dibuktikan kesahihannya, namun saya tetap berpegang pada penjabaran masalah yang terlihat di hadapan saya, atau setidaknya yang direfleksikan oleh pemikiran saya sebagai masalah.
 
-Saat ini, saya melihat beberapa masalah di Indonesia yang relevan dengan argumen saya. Namun, saya belum memiliki cukup sumber daya untuk mengkonfirmasi fakta-fakta ini sepenuhnya. Oleh karena itu, saya sepenuhnya bergantung pada sumber-sumber lain untuk memberikan klarifikasi.
+Saat ini, saya melihat beberapa masalah di [[Indonesia]] yang relevan dengan argumen saya. Namun, saya belum memiliki cukup sumber daya untuk mengkonfirmasi fakta-fakta ini sepenuhnya. Oleh karena itu, saya sepenuhnya bergantung pada sumber-sumber lain untuk memberikan klarifikasi.
 
 Pendidikan yang kurang jelas arah tujuannya,
 Pentingnya klasifikasi dalam masyarakat,

@@ -1,2 +1,4 @@
-# Islam
+# [[Islam]]
+
+#muslim
 

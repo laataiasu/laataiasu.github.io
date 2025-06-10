@@ -1,7 +1,7 @@
 ---
 date: "2020-05-20T00:00:00Z"
 tags: ["cs/is"]
-title: Review Sistem Informasi Fasilkom UI - Index
+title: Review Sistem Informasi Fasilkom  - Index
 ---
 
 *Karena gabut, saya ingin sedikit nulis tentang pengalaman kuliah di fasilkom, materi kuliah, dll. Semoga aja bermanfaat hehe. Ini index blognya dan bakal terus diupdate.*
@@ -31,4 +31,4 @@ title: Review Sistem Informasi Fasilkom UI - Index
 
 ### Lain-lain
 
-[Why I Choose SI UI]({{ site.baseurl }}/posts/why-i-choose-sistem-informasi-ui/)
+[Why I Choose SI ]({{ site.baseurl }}/posts/why-i-choose-sistem-informasi-ui/)

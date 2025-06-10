@@ -14,9 +14,9 @@ you see your friends. they only care about themselves, they want to be the star.
 so most teenager just believe in whatever they saw in movies, short clips, songs, news, whatever being taught to them, without consciousness or realization. your college friends, include you just look for something that make them feel great, while the truth is, noone knows the truth. the truth just doesn't exist. and while you are forcing your problems to them, they are just don't care about it. so you think it is feasible? yes it is. but you're a part of munafiqun, dont try to speak in front of people something you don't do by yourself!
 
 2. second option: data engineer/industrial clerk work.
-pursuing data engineer, computer science, information system in general. you fuckin hate it. you know it. when someone request you to do something, industrial things, it is all meaningless. first you got an intern at one of big company in OTA, you somehow feel grateful. then you're just go into it, you feel like shit. all meaningless, all bullshit jobs, that anyone can do that. why the recruitment process is such hell? 
+pursuing data engineer, [[Computer Science]], [[Information System]] in general. you fuckin hate it. you know it. when someone request you to do something, industrial things, it is all meaningless. first you got an intern at one of big company in OTA, you somehow feel grateful. then you're just go into it, you feel like shit. all meaningless, all bullshit jobs, that anyone can do that. why the recruitment process is such hell? 
 
-you try to keep it up, try to focus on data engineering. but the things it you dont care about it. you experienced as backend engineer or frontend, designing some information system , drawing process, chart, analysis nonsense. you fuckin hate it. you enjoy the coding for a little while, but in the end you know that it is meaningless. it is too little. 
+you try to keep it up, try to focus on data engineering. but the things it you dont care about it. you experienced as backend engineer or frontend, designing some [[Information System]] , drawing process, chart, analysis nonsense. you fuckin hate it. you enjoy the coding for a little while, but in the end you know that it is meaningless. it is too little. 
 
 maybe someday you might find enjoyment in it, but not with people tell you need to do something. you fucking hate user so much. they are scum stupid people fucking lazy to read and to learn, so they are just fucking asking everything while it s so ffcking obvious. you hate all those creators, all users, you hate much of those. 
 
@@ -25,7 +25,7 @@ you want to work with someone you admire. none of it you admire. what is the imp
 would you continue pursuing data engineer or industrial clerk in general my friends? i believe you dont want. 
 
 3. option 3: quant.
-ah this another bullshit jobs. you sure knows that trader is just a fucking moron who believe in astrology. you know from mandelbrot or munger that it is fucking stupid. no real value. financial engineering is just stupid and doesnt create any value. their richness is stupid. they can buy real things, but there's no value in it, it is all illusions. they are all gambler, you want to end up like them? i dont thing so. 
+ah this another bullshit jobs. you sure knows that trader is just a fucking moron who believe in astrology. you know from [[Benoit Mandelbrot]] or [[Charlie Munger]] that it is fucking stupid. no real value. financial engineering is just stupid and doesnt create any value. their richness is stupid. they can buy real things, but there's no value in it, it is all illusions. they are all gambler, you want to end up like them? i dont thing so. 
 
 but you somehow dream to be well financially independent, so you can do anything you want. i think it is just a start to be rich quickly other than other options. but how do you continue this.
 

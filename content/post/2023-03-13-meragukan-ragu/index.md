@@ -55,12 +55,12 @@ Begitu terbatasnya ia, karena hanya kata-kata itu saja yang diketahuinya.
 
 ...
 
-Barangkali hanya ingin tahu itu saja perlu ditekan, perlu dilakukan tawar menawar dengan ia yang tahu. Maka langkah paling bijak adalah tetap mengikuti Islam
+Barangkali hanya ingin tahu itu saja perlu ditekan, perlu dilakukan tawar menawar dengan ia yang tahu. Maka langkah paling bijak adalah tetap mengikuti [[Islam]]
 
 - junjung tinggi ia yang berkata-kata kasar dan berpendirian teguh
 - beli air dari yang didoakan mereka dengan harga yang paling tinggi, bahkan bila perlu menjual jiwa, jualah jiwamu untuk membelinya dari mereka
 - jangan lihat dari kata-kata kasar atau kemewahannya, melainkan dari apa yang baik-baik saja darinya
 - sembunyikan aibnya, hormatilah ia yang merendahkan dirinya untuk dapat bertanggung jawab terhadap setiap bentuk manipulasinya
 - belajarlah dari pengikutnya, karena barangkali itu bentuk dari keimanan dan keiklasan yang tak ada tandingannya, berkat dari ketidaktahuannya
-- dan bila hal itu diterapkan tidak hanya untuk golongannya, melainkan semua yang berdosa, siapa tau hal itu bentuk tertinggi dari pengabdian terhadap islam
-- dengan begitu, menjalani hidup ini hanyalah sesederhana meragukan semuanya, termasuk meragukan keraguan terhadap islam.
+- dan bila hal itu diterapkan tidak hanya untuk golongannya, melainkan semua yang berdosa, siapa tau hal itu bentuk tertinggi dari pengabdian terhadap [[Islam]]
+- dengan begitu, menjalani hidup ini hanyalah sesederhana meragukan semuanya, termasuk meragukan keraguan terhadap [[Islam]].

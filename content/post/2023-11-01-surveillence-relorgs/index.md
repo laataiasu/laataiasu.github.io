@@ -20,7 +20,7 @@ But my hypothesis is that the combination of any of these factors gives them a s
 
 ---
 
-I'm perverted to the extent that I need more of those. I not only need statistics about that particular group, but also about any other groups that exist, at least in Indonesia. I want to know what rituals they perform, what activities each group finds most enjoyable. I want to know more.
+I'm perverted to the extent that I need more of those. I not only need statistics about that particular group, but also about any other groups that exist, at least in [[Indonesia]]. I want to know what rituals they perform, what activities each group finds most enjoyable. I want to know more.
 
 Ahlu Sunnah, Khawarij, Shia, Murjia'ah, Mu'tazilah, Musyabbihah, Jahamiyyah, Dhirariyyah, Najjariyyah, Kilabiyyah, Ahmadiyah, JIL, Atheist, all groups affiliated with a system of belief, categories/clusters related to their organizational coverage, and their contributions to social, economic, and spiritual metrics.
 
@@ -38,7 +38,7 @@ If a service/data/products like that exists, these are the benefits:
 
 - The government doesn't need to forcibly dissolve gatherings that it disagrees with. The government only needs to monitor and prevent physical contact. The government only takes action when there is a conflict involving physical violence between groups.
 
-If one group considers another group misguided, the government can allow it because it's not a big deal. For example, if a Shia Islamic group considers Sunni Islam misguided or vice versa, the government only needs to encourage the group labeling the other as misguided to consider it as a difference in religion. They can be treated the same in name, but there may be specific tags that differentiate them.
+If one group considers another group misguided, the government can allow it because it's not a big deal. For example, if a Shia Islamic group considers Sunni [[Islam]] misguided or vice versa, the government only needs to encourage the group labeling the other as misguided to consider it as a difference in religion. They can be treated the same in name, but there may be specific tags that differentiate them.
 
 - Minimizing destructive competition. The government only needs to present data about these various groups with indicators or KPIs: social, economic, human index, spirituality. There doesn't need to be any ranking to avoid too much stress; at a minimum, it should be descriptive.
 
@@ -58,7 +58,7 @@ Data is the most perverted things akin to the devil's mephistophelean influence.
 
 Anyone who is passionate about building data-intensive applications has a voyeuristic inclination. While voyeurism is considered bad, it is now normalized in business. Essentially, people are being the target of voyeuristic all the time, but they close their eyes and numb themselves, or they don't realize that they enjoy being under surveillance because only then can they feel like they're getting what they desire and being taught how to desire every day.
 
-But we can always gaslight ourselves. Giving our data is part of sodaqoh and charity in Islam. And we trust others perfectly as we have faith in Allah, especially businessmen, that we believe they will hide our aib if we have. And by that we can have ihsan attitude (where you always feel watched over by God so that you always behave in a commendable manner).
+But we can always gaslight ourselves. Giving our data is part of sodaqoh and charity in [[Islam]]. And we trust others perfectly as we have faith in Allah, especially businessmen, that we believe they will hide our aib if we have. And by that we can have ihsan attitude (where you always feel watched over by God so that you always behave in a commendable manner).
 
 ![designing surveillance app](<designing surveillance app.png>)
 

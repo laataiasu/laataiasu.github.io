@@ -41,7 +41,7 @@ It is deceitful
 
 Everlasting happiness?
 
-What nonsense? Nihilism is seductive, isn't Islam nihilism?
+What nonsense? Nihilism is seductive, isn't [[Islam]] nihilism?
 
 True happiness, true purity, or true passion.
 

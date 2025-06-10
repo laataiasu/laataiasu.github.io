@@ -10,9 +10,9 @@ Konsumsi konten self-improvement biasanya membuat saya jijik dan eneg, tapi yang
 
 Mungkin karena kebetulan backgroundnya cukup saya minati, 
 
-- computer science
+- [[Computer Science]]
 - ekonomi
-- investasi
+- [[Investment]]
 - crypto
 - pemalas
 

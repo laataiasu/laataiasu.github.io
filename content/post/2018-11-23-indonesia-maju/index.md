@@ -40,7 +40,7 @@ INTINYA 1, konspirasi selalu bekerja dalam setiap momen. New World Order, Butter
 
 Seperti kata guru fisikaku yang kalau dilihat-lihat seperti si botak di Family Guy, naik motor Dilan dan kerjaannya ngudud, tidak berwibawa tapi selalu punya sisi jenaka, jadinya aku makin cinta.
 
-"Aneh dek, Indonesia seolah-olah dibuat bodoh begitu saja, disusupi apa gitu kayaknya. Kerjanya aja khotbah, jangan mencuri uang banyak yang korupsi. Kalau aku jadi Gusti Allah dek, aku kiamatkan nih dunia. Tahu gak daerah mana yang pertama kali aku kasih meteor? HAHA betul dek, Sma***!"
+"Aneh dek, [[Indonesia]] seolah-olah dibuat bodoh begitu saja, disusupi apa gitu kayaknya. Kerjanya aja khotbah, jangan mencuri uang banyak yang korupsi. Kalau aku jadi Gusti Allah dek, aku kiamatkan nih dunia. Tahu gak daerah mana yang pertama kali aku kasih meteor? HAHA betul dek, Sma***!"
 
 "Lihat noh pakai mata kepala lu sendiri! Apakah aku atau kamu yang salah?"
 "Aku nih ya orang jujur, tapi karena aku orang kecil, ya aku yang disalahkan."

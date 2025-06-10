@@ -24,7 +24,7 @@ I don't aspire to be the main actor. I do the best I can in a proper way. Even w
 
 It's so common for people to engage in such behavior. 'Be kind,' they say.
 
-In Islam, the best jihad is to fight tyrannical figures.
+In [[Islam]], the best jihad is to fight tyrannical figures.
 
 But I rarely find this in most Muslims. Instead, they do just as I do: engage in something that feels good, and then others exploit their work, and they act as if they're okay with it. They never take the bait of the abuser.
 

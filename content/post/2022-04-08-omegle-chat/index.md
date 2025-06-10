@@ -12,7 +12,7 @@ On the internet you can be anything you want. I should've just read quran and pr
 I was trying to learn english, speaking especially. But ffffff only Indonesian there. 
 When I check there's an international guy, it turns out that most of them just horny guys and doesn't wanna talk except I am a girl. 
 I tried VPN and still not work, maybe thats because its because free. 
-I'm a computer science student, 6th semester, but still dont know the concept of VPN and dont want to learn. 
+I'm a [[Computer Science]] student, 6th semester, but still dont know the concept of VPN and dont want to learn. 
 I feel so bad, why am I still detected as Indonesian, I want to learn pleasssssseeeee.
 And I was giving up livestreaming. 
 
@@ -328,9 +328,9 @@ Stranger: Muslim
 
 You: stupid
 
-Stranger: Islam*
+Stranger: [[Islam]]*
 
-You: what is islam
+You: what is [[Islam]]
 
 Stranger: Never mind
 

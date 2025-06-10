@@ -28,7 +28,7 @@ The economy seems obsolete. While all sciences evolve, the economy remains stagn
 
 We need a new currency, a new economy. Crypto? Meh. Cryptocurrency and decentralized finance merely facilitate easier exploitation.
 
-Why hasn't Universal Basic Income (UBI) been experimented with? What challenges does post-scarcity pose? We're complacent, watching without realizing the looming threat, as those in comfort gaslight us with phrases like, "We're safe, far from that," "There's always opportunity," or "Don't be lazy! Work hard! Stay positive, and you'll find success."
+Why hasn't Universal Basic Income (UBI) been experimented with? What challenges does [[Post-scarcity]] pose? We're complacent, watching without realizing the looming threat, as those in comfort gaslight us with phrases like, "We're safe, far from that," "There's always opportunity," or "Don't be lazy! Work hard! Stay positive, and you'll find success."
 
 ---
 

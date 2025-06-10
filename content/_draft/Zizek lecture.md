@@ -101,7 +101,7 @@ draft: true
 
 ---
 
-# Please compare Žižek with Peter Thiel, each advantage and disadvantages. What things they are agreed on or disagreed.
+# Please compare [[Slavoj Žižek]] with Peter Thiel, each advantage and disadvantages. What things they are agreed on or disagreed.
 
 Hello, dear readers! Today I want to talk about two fascinating and influential thinkers who have very different views on the world: Slavoj Žižek and Peter Thiel. You may have heard of them, or you may not, but I assure you they are worth your attention. In this blog post, I will compare and contrast their ideas, their strengths and weaknesses, and their points of agreement and disagreement. Let's get started!
 

@@ -23,7 +23,7 @@ Imagine if at that moment there is a smart contract or bitcoin to transfer money
 
 Actually, the primary thing that I want to talk about is cryptocurrency development nowadays. There's a huge demand for bitcoin and any other cryptocurrency now. The white paper from a lot of coins is pretty comprehensive for the top cryptocurrency which is built by the [[Blockchain]] system by relying on complicated math such as cryptography and any other methods (for a basic definition you could check <https://academy.binance.com/> ).
 
-Each crypto coin has their own uses. But the main point of persuading people to invest or buy bitcoin is I think is to decentralize the financial system so that there's no authority to control the money like the bank and government. It means that the financial control in the world could become pure supply and demand.
+Each [[Cryptocurrency|crypto]] coin has their own uses. But the main point of persuading people to invest or buy bitcoin is I think is to decentralize the financial system so that there's no authority to control the money like the bank and government. It means that the financial control in the world could become pure supply and demand.
 
 Or in short, if cryptocurrency is used by most people in the world, any nation's currency will have no value if no one is using that again and decentralized finance can be implemented well so liberal environment can happen in the world overall. Then, the libertarian would be chirpy waiting that moment to come.
 
@@ -47,7 +47,7 @@ I am kind of enthusiastic with this kind of technology but somehow feeling distr
 
 It is hard to demand liberal people for the responsibility. It could be used for a lot of illegal activities like drug selling, money laundering, and any other things anonymously, even though I don't know if cyber police could trace the activities (I haven't read more about that, but there are many journals and scientific articles written about it on <https://scholar.google.com/> ).
 
-From crypto traders or a deceitful group of people that has intention to pump and dump and want to gain profit instantly could make the value of the currency highly by spreading fake news about the hype of the coin so that the value of the coin becomes speculative. So it is kind of hard to control it even though there's a liquidity effort from the exchange but still I think it is hard to strive for game theory because there must be someone cheating to manipulate the market and so on to their personal benefit.
+From [[Trading|crypto traders]] or a deceitful group of people that has intention to pump and dump and want to gain profit instantly could make the value of the currency highly by spreading fake news about the hype of the coin so that the value of the coin becomes speculative. So it is kind of hard to control it even though there's a liquidity effort from the exchange but still I think it is hard to strive for game theory because there must be someone cheating to manipulate the market and so on to their personal benefit.
 
 Not only that, the cryptocurrency that has a pseudonymous characteristic could make the process of transferring something become unknown for the world. It means when you are developing some illegal things or something that is really dangerous and you want to maximize your profit, you could finance your businesses anonymously.
 

@@ -4,7 +4,7 @@ tags: ["story", "essay"]
 title: After Arsjad Rasyid Endgame Podcast
 ---
 
-i imagine myself, goes traveling through all indonesia. selfies.
+i imagine myself, goes traveling through all [[Indonesia]]. selfies.
 
 this why i prefer cities human-made more than natures god-made
 
@@ -14,7 +14,7 @@ this why i prefer cities human-made more than natures god-made
 - nature now become part of traveller/lazy tourism management doctrinal that even you're ok enjoy yourself stay at room / village, then they say it means you're not happy normal person. 
 - city has so much diversity. some accept it some dont. individuality is embraced.
 
-- mandelbrot fractalian at first is elegant, but some degraded or devaluing the human part of development. 
+- [[Benoit Mandelbrot]]'s [[Fractal|fractalian]] at first is elegant, but some degraded or devaluing the human part of development. 
 - 2-bit, square, aristotlian, minecraft graphic is perfect. surely cloud <is not sphered>, ** and so on. but god-made is already perfect. they lack of appreciation to the process. 
 - al ghazali scepticism to science at that time is comprehensible, since at that time they follow blindly science, not realize that science is as capacable as lying as religion. science itself is religion. but to say that there's no cause and effect except from god is somehow uncomprehensible by the limitation of human mind.  
 - ** ghibli, some say farm nature is beauty, but it is human made.

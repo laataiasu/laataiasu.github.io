@@ -10,7 +10,7 @@ Irrelevant for me but still can be related to my perspective of my life. The gee
 
 I don't want to describe all, you could read it somewhere about the synopsis. Just don't watch it so that only me who killing my time with this unfaedah (unbeneficial) thing and maybe you could imagine the story of the series by my writing.
 
-So my friends from my faculty (computer science) once said that our faculty is creepy.
+So my friends from my faculty ([[Computer Science]]) once said that our faculty is creepy.
 
 > "Just look at the personality type of these students, most of them are introvert and analytical. You know that in this world those kinds of types are rare. And here, they are just gathered in this faculty." 
 

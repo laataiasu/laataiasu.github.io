@@ -42,6 +42,6 @@ Penyembah dewa Apollo berhasil menekan ketakutannya dengan ilusi kontrol diri Se
 
 Di sisi lain, terdapat humor dimana upaya untuk menjelaskan intelligence dalam rangka perbaikan sendiri ditentang, dianggap melampaui batas. Dimanakah limit spektrum yang membatasi suatu tindakan dianggap melampaui batas atau tidak? 
 
-Bartleby mengajak siapapun yang mengalami kejadian tersebut untuk menyampaikan, "I would prefer not to". Bukan untuk menunggu hingga mati kelaparan, melainkan hanya sebagai bentuk awal perlawanan. Gandhi tanpa audiens, terhadap doktrin untuk konsumsi dan menuhankan ekologi. 
+[[Bartleby]] mengajak siapapun yang mengalami kejadian tersebut untuk menyampaikan, "I would prefer not to". Bukan untuk menunggu hingga mati kelaparan, melainkan hanya sebagai bentuk awal perlawanan. [[Mahatma Gandhi|Gandhi]] tanpa audiens, terhadap doktrin untuk konsumsi dan menuhankan ekologi. 
 
 Bila itu langkah awal, lantas hingga kapan dan apa selanjutnya?

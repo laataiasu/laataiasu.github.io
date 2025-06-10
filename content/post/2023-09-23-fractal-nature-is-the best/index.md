@@ -21,3 +21,5 @@ do you think the sun is arrogant for shed a light too much uv particle in after 
 defend your ideology
 
 we should burn the phoenix to make it rebirth
+
+[[Fractal]]

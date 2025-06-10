@@ -20,6 +20,6 @@ title: Review Economic Films
 
 "The Great Hack" reveals the unsettling collaboration between Facebook and Cambridge Analytica, highlighting the erosion of privacy in the digital age.
 
-"Edward Snowden" portrays its titular figure as a controversial figure, prompting viewers to question the notion of privacy in today's interconnected world.
+"[[Edward Snowden]]" portrays its titular figure as a controversial figure, prompting viewers to question the notion of privacy in today's interconnected world.
 
 "2057" offers speculative insights into the future, grounded in interviews with physicists like Michio Kaku. While not a traditional film, it provides a thought-provoking glimpse into potential future scenarios.

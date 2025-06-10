@@ -18,7 +18,7 @@ Ujung-ujungnya kata Jack Dorsey harus jadi egois, tidak terlalu peduli dengan ya
 
 Mirip dengan konsep Ibnu Bajjah tentang **Tadbir Al-Mutawahid**
 
-Secara tidak langsung, konsep itu ada hubungannya juga dengan apa yang ingin saya nyinyiri saat ini, yaitu Lembawa Dakwah Kampus, atau saya bakal kerucutkan akan nyinyir khusus untuk **FUKI Fasilkom UI**.
+Secara tidak langsung, konsep itu ada hubungannya juga dengan apa yang ingin saya nyinyiri saat ini, yaitu Lembawa Dakwah Kampus, atau saya bakal kerucutkan akan nyinyir khusus untuk **FUKI Fasilkom **.
 
 > Tulisan saya sering muter-muter, gatau kenapa selalu ngerasa ada banyak hal yang berhubungan -__-
 > 

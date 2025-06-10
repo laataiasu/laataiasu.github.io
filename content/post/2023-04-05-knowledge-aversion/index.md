@@ -18,13 +18,13 @@ The suppression of emoticon ":v"
 
 Ah to fill the hole
 It must have been the wind of ideology
-Islamic Sharia law, Chinese totalitarian AI, hyper-environmentalism
+[[Sharia|Islamic Sharia law]], Chinese totalitarian AI, hyper-environmentalism
 To globalize something local
 To generalize something special
 
 The first step is understanding the limitation of fractals
 Second is the Bartlebian movement, 
-a Gandhi without an audience
+a [[Mahatma Gandhi|Gandhi]] without an audience
 Quo Vadis?
 
 Perhaps the awakening of Pacman's ideology

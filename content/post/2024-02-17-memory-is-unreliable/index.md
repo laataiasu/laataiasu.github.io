@@ -14,7 +14,7 @@ Maybe remembering you will cause her to stop functioning and lose her big idea r
 
 Perhaps you're not that important to her.
 
-Perhaps you are a disgrace/stain in her memory. And as Islam says,
+Perhaps you are a disgrace/stain in her memory. And as [[Islam]] says,
 
 لاَ يَسْتُرُ اللَّهُ عَلَى عَبْدٍ فِى الدُّنْيَا إِلاَّ سَتَرَهُ اللَّهُ يَوْمَ الْقِيَامَةِ
 
@@ -39,7 +39,7 @@ Haters will justify only the bad.
 
 Philosophy is a tool to justify cowardice and laziness.
 
-Even in the most cowardly statement and act from Bartleby and Gus Dur, we know that there are the greatest virtues in it.
+Even in the most cowardly statement and act from [[Bartleby]] and [[Abdurrahman Wahid|Gus Dur]], we know that there are the greatest virtues in it.
 
 ![gus dur](image-1.png)
 
@@ -101,7 +101,7 @@ Anatomy of a Fall
 
 ...
 
-then it is reasonable why a war criminal win Indonesia presidenctial election.
+then it is reasonable why a war criminal win [[Indonesia]] presidenctial election.
 
 supporters will justify only the good.
 haters will justify only the bad. 

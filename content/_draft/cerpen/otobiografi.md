@@ -355,7 +355,7 @@ jadi stranger kayanya kalo liat aku. Walaupun temen-temen SD dan SMP
 juga sama gampang melupakan dan dilupakan, terus ujung-ujungnya sama aja
 wkwkwk.
 
-Jadi, aku bersekolah di SDIT swasta Islam di salah satu daerah di
+Jadi, aku bersekolah di SDIT swasta [[Islam]] di salah satu daerah di
 Cimahi. Temen pertamaku namanya Ilang dikenalin sama ibuku karena waktu
 dulu masih malu-malu banget. Terus hari berjalan dan aku gampang banget
 akrab sama semua angkatan. Karena angkatan pertama yang waktu itu kelas
@@ -385,8 +385,8 @@ kealamin. Dan dari hari itu, aku gatau kenapa tiba-tiba suka sama cewe
 di SD, padahal aku masih kelas 1 SD!* Bisa dibilang aku puber terlalu
 cepat.
 
-Jangan menggeralisasi kalo SD Islam itu baik-baik. Gurunya aja yang
-berusaha ngedidik islami, tapi anak-anaknya ya tetep aja ada yg
+Jangan menggeralisasi kalo SD [[Islam]] itu baik-baik. Gurunya aja yang
+berusaha ngedidik Islami, tapi anak-anaknya ya tetep aja ada yg
 baragajul, baik, konyol, dan aku yang polos waktu itu diajarkan sesuatu
 yang ga mendidik sama temen dan kaka kelas *wkwkwk*. Bayangin aja kaka
 kelas aku ngajarin tentang jari tangan kanan dibuletin, terus jari
@@ -474,7 +474,7 @@ masing-masing kami sukai.
 Udah gitu ga ada peningkatan lagi, kita semua sekelas tetep main
 bareng-bareng, dan aku tetep gabisa ngungkepin yang sebenernya sama si
 Santhi. Karena waktu itu pacaran kelas 1 SD pasti tabu, meski sekarang
-pun masih. Dan untungnya aku SD Islam jadi diperhatiin banget sama guru
+pun masih. Dan untungnya aku SD [[Islam]] jadi diperhatiin banget sama guru
 dan ortu, akhirnya aku takut banget untuk bertindak yang ga sesuai sama
 yang diajarin ortu sama guru. Kayanya kalo aku SD di tahun sekarang ini,
 dari rasa suka aku, pasti aku bakal update status di BBM ngode-ngodean

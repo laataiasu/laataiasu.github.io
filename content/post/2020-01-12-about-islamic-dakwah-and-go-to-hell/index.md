@@ -26,7 +26,7 @@ The slow development of the country is not caused by the stupidity of its people
 
  The first reason is what usually happens to greedy rulers, thus they really want the stupidity of their people, and the second is because they are not good at negotiating. I have a good prejudice of the current Indonesian government so I assume that the cause is the number 2. Yes, the authorities have good intentions to develop the country, but they are just not good at negotiating.
 
-The education sector is one example. Why Indonesia's PISA score is bad and the problems surrounding education occur, it is clear that policy makers cannot negotiate.
+The education sector is one example. Why [[Indonesia]]'s PISA score is bad and the problems surrounding education occur, it is clear that policy makers cannot negotiate.
 
 Many students don't have the pressure of not being good at math or in any other subject because everyone knows that many of them are useless in life. Everyone knows that without learning math, everyone can still eat and drink and have fun like a normal human being. The point is they didn't find hell in what they went through.
 
@@ -48,7 +48,7 @@ The bad thing about Islamic marketing is when the preacher cannot convince his f
 
 And in business, this is market segmentation, where Total Available Market is all targets who can access services or products from the business.
 
-So it is really ironic, a country with a Muslim majority, where Islam was always depicted with victory and excellence, has become something that oscillates between right and left ideologies, becomes a consumptive nation, lacks innovation, is swept away by westernization or extremism which claims to be zuhud or khalwat when in fact, it only isolate itself, plus its intelligence is logically low, even though it is clear that there is an order to achieve its potential so that he can become a blessing for the universe, to become a caliph on earth
+So it is really ironic, a country with a Muslim majority, where [[Islam]] was always depicted with victory and excellence, has become something that oscillates between right and left ideologies, becomes a consumptive nation, lacks innovation, is swept away by westernization or extremism which claims to be zuhud or khalwat when in fact, it only isolate itself, plus its intelligence is logically low, even though it is clear that there is an order to achieve its potential so that he can become a blessing for the universe, to become a caliph on earth
 
 Therefore, to achieve excellence and to rule again, I can think of nothing more than to think about how to form a system that prioritizes business, negotiation, that if someone does not follow this business, then that party will face hell.
 

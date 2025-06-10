@@ -10,7 +10,7 @@ the lesson learned from copper, uragawa, mizutani, kitami stories, and [[Pramoed
 2. the one who is being bullied,
 3. and the one who only watches when a bullying event happens.
 
-when you see land seized, genocide, warfare in a certain place, how lifeless technologies snatch jobs from luddites, the ignorance of workers who feel irreplaceable not engaging in long-term solutions to encourage capital owners to implement aspects of justice, poor-quality food, unsanitary living conditions, working day after day, galactic collisions, tidal interactions.
+when you see land seized, [[Genocide|genocide]], warfare in a certain place, how lifeless technologies snatch jobs from luddites, the ignorance of workers who feel irreplaceable not engaging in long-term solutions to encourage capital owners to implement aspects of justice, poor-quality food, unsanitary living conditions, working day after day, galactic collisions, tidal interactions.
 
 everything is nothing but a mere elementary school/kindergarten friendship bullying scene on a large scale, national-global, outer space level.
 

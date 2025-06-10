@@ -61,6 +61,10 @@ Embracing counterintuitive paradox, accepting and justifying any cognitive bias 
 
 ![mandelbrot-fractal](https://catatankemalasan.files.wordpress.com/2023/07/fractal-mandelbrotian.png)
 
+[[Benoit Mandelbrot]]
+
+[[Fractal]]
+
 Like the Flexibility of the rubber hegelian master in Luffy plotted by a relative morality ethics from Oda sensei to become a pirate as a free man,
 
 ![sun-god-nika](https://catatankemalasan.files.wordpress.com/2023/07/sun-god-nika.jpg)

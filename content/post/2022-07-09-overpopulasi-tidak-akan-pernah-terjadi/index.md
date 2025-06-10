@@ -16,11 +16,11 @@ Dulu, eksistensialis hanya sedikit orang yang mapan, dengan kemurahan internet, 
 
 Semakin banyak orang pintar, semakin banyak persaingan. Orang yang malas bersaing mati, survival of the fittest.
 
-Indonesia iklimnya masih muslim. Cenderung menerima ketololan, "sami'na wa ato'na," jadi tidak terlalu banyak yang bundir. Tapi lihat nanti, ideologi sudah masuk ke Indonesia, makin banyak yang bosan dan akhirnya berkata, "kayanya lebih enak gitu seperti orang bebas."
+[[Indonesia]] iklimnya masih muslim. Cenderung menerima ketololan, "sami'na wa ato'na," jadi tidak terlalu banyak yang bundir. Tapi lihat nanti, ideologi sudah masuk ke [[Indonesia]], makin banyak yang bosan dan akhirnya berkata, "kayanya lebih enak gitu seperti orang bebas."
 
 Pop culture, magnet para pengikut popularitas polos yang tidak tahu tujuan. Disaat kaya gitu terjadi, yang bundir makin banyak. Kembali lagi ke zaman romantisisme.
 
-Jika misalnya ada idealisme tinggi dan Islam menang, maka kemungkinan besar ada overpopulasi.
+Jika misalnya ada idealisme tinggi dan [[Islam]] menang, maka kemungkinan besar ada overpopulasi.
 
 Pasti muncul orang gila saat ada overpopulasi, wabah gara-gara kesalahan sendiri, terorisme yang dari kemiskinan, meskipun dalam jurnal argumen tersebut dipatahkan bahwa terorisme itu bukan terjadi karena kemiskinan, tapi murni ideologi.
 

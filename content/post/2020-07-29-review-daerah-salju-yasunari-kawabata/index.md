@@ -14,7 +14,7 @@ Awal baca ini taun kemarin sebenernya pas lagi gabut di rumah sodara nunggu ujia
 "Hah? kok bisa menang ya? B aja perasaan, ya walaupun ada quotes ala-ala realist yang lumayan sih..."
 dan w tutup itu buku dengan perasaan kecewa.......
 
-Setaun berlalu, alhamdulillah udah diterima di UI. UAS udah beres, lagi masa pandemi, internet smartfren lelet banget, film ga ada yang seru, liat rak buku, penasaran, ingin baca lagi.
+Setaun berlalu, alhamdulillah udah diterima di . UAS udah beres, lagi masa pandemi, internet smartfren lelet banget, film ga ada yang seru, liat rak buku, penasaran, ingin baca lagi.
 
 Dan akhirnya w baca dengan selow dari kata pengantar, berusaha mahamin semua kata-katanya....
 Pengarangnya bunuh diri, novel ini katanya susah banget buat diterjemahin, alirannya beda sama novel2 pada umumnya, dan setelah w baca ulang, Walaupun ga relate dan banyak istilah aneh2 ditambah terjemahannya menurut w kurang pas ada banyak hal yang ternyata bisa dipelajarin dari novel yang cukup singkat ini yang endingnya gatau kemana, juga ada banyak hal "bagus" yang bisa dibayangin dari baca ini.

@@ -4,7 +4,7 @@ tags: ["muslim", "business", "essay"]
 title: Curhat Tentang Lembaga Dakwah
 ---
 
-## Keresahan saya setelah menjalani organisasi bercorak muslim (DKM SMAN 4 Bdg, HIROKOBA, terutama FUKI Fasilkom UI)
+## Keresahan saya setelah menjalani organisasi bercorak muslim (DKM SMAN 4 Bdg, HIROKOBA, terutama FUKI Fasilkom )
 - Masalah utama organisasi adalah tidak mengetahui masalahnya apa, akhirnya bikin program tidak terlalu penting kemudian semua anggotanya dipaksa untuk ikut program
 
 Visi misi nilai dijadikan formalitas belaka.
@@ -69,7 +69,7 @@ Serta manajemen FUKI perlu memastikan bahwa anggota FUKI bisa memaksimalkan pote
 
 _Dilihat dari banyak anggotanya, ada yang jago mengembangkan web, aplikasi, kemudian ada juga yang jago dalam cyber security, systemic thinking, Competitive Proragmming, analisis data, desain, bisnis, dan lain sebagainya. Lalu dilihat dari berbagai macam background anggotanya, dari sekolah “unggulan”, ada yang dulunya juara berbagai macam kompetisi, juara umum di sekolahnya, pimpinan dari berbagai macam organisasi atau kepanitiaan, dan pengalaman keren lainnya._
 
-Pertanyaannya adalah, apakah ada yang benar-benar tahu dan mendalami Islam secara menyeluruh? Seperti hafal qur’an 30 juz beserta terjemahan dan tafsirnya, hafal hadist, dll yang intinya benar-benar _expert_ dalam agama Islam seperti para Da’i professional? Ada mungkin, tapi jumlahnya hanya sedikit. Menurut pandangan saya, kita sebagai Muslim ilmunya masih sangat kurang dalam menyebarkan agama, sehingga dakwah secara langsung tidak tepat dilakukan.
+Pertanyaannya adalah, apakah ada yang benar-benar tahu dan mendalami [[Islam]] secara menyeluruh? Seperti hafal qur’an 30 juz beserta terjemahan dan tafsirnya, hafal hadist, dll yang intinya benar-benar _expert_ dalam agama [[Islam]] seperti para Da’i professional? Ada mungkin, tapi jumlahnya hanya sedikit. Menurut pandangan saya, kita sebagai Muslim ilmunya masih sangat kurang dalam menyebarkan agama, sehingga dakwah secara langsung tidak tepat dilakukan.
 
 Maka saya harapkan bahwa anggota FUKI berfokus pada apa yang menjadi latar belakangnya (dalam hal ini Ilmu komputer) untuk berdakwah. Potensi dari berbagai bidang IT perlu dimaksimalkan agar kita bisa berpikir secara menyeluruh sehingga proker tersebut disesuaikan dengan kapasitas kita dan jangan sampai justru fokus kepada hal yang tidak kita ahli tentangnya, seperti ilmu agama secara mendalam.
 
@@ -77,4 +77,4 @@ Kemudian untuk mengatasi pemahaman agama yang kurang, kita serahkan pada ahlinya
 
 ~BERSAMBUNG
 
-
+[[Universitas Indonesia]]

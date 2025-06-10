@@ -26,7 +26,7 @@ In our childhood, we used to exchange items like binders, showcasing our newest 
 
 Everything sought in a Faustian bargain... a deal with the devil...
 
-The main problem lies in the incentives, whether they lean towards social proof, knowledge, material possessions, or spirituality. Indonesia may struggle with innovation because the incentives are not heavily weighted in that direction. People have resources, so the economy becomes the primary focus. Then, what comes next? Information. Media outlets manipulate news using various personal biases.
+The main problem lies in the incentives, whether they lean towards social proof, knowledge, material possessions, or spirituality. [[Indonesia]] may struggle with innovation because the incentives are not heavily weighted in that direction. People have resources, so the economy becomes the primary focus. Then, what comes next? Information. Media outlets manipulate news using various personal biases.
 
 The art of clear thinking, personal bias, and mental models are never taught in schools. The reasons behind this could be subject to further research.
 
@@ -44,7 +44,7 @@ For me, knowledge and wisdom remain top priorities.
 
 Should one choose to be a believer or a skeptic?
 
-If you choose to be a believer, you may isolate your child and pray wholeheartedly (controlling their choices). However, for me, that doesn't work. Embracing faith and Islam can be achieved through skepticism, gratitude for being endowed with desires and intelligence to scrutinize the concept of gods.
+If you choose to be a believer, you may isolate your child and pray wholeheartedly (controlling their choices). However, for me, that doesn't work. Embracing faith and [[Islam]] can be achieved through skepticism, gratitude for being endowed with desires and intelligence to scrutinize the concept of gods.
 
 
 ## Draft
@@ -105,7 +105,7 @@ bagi saya prioritas itu tetap knowledge dan wisdom
 
 pilih jadi orang beriman atau skeptis?
 
-kalo pilih jadi beriman, bisa isolasi anaknya dan berdoa sepenuh hati (control kaya anaknya siapa). bagi saya, its not work. dan branch menjadi beriman dan islam itu ya lewat skeptisisme, rasa syukur diberikan nafsu dan intelligence untuk scrutiny the concept of gods.
+kalo pilih jadi beriman, bisa isolasi anaknya dan berdoa sepenuh hati (control kaya anaknya siapa). bagi saya, its not work. dan branch menjadi beriman dan [[Islam]] itu ya lewat skeptisisme, rasa syukur diberikan nafsu dan intelligence untuk scrutiny the concept of gods.
 
 <insert arabic kullu nafsin da ikotul maut>
 

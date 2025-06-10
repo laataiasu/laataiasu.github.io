@@ -10,17 +10,17 @@ title: "Manifesto"
 
 ### Keywords
 
-Social Credit System, Sistem Organisasi Masyarakat, Sistem Pendidikan, Akselerasi Smart City
+[[Social Credit System]], Sistem Organisasi Masyarakat, Sistem Pendidikan, Akselerasi Smart City
 
 ### Abstrak
 
-Pembuatan Social Credit System di tingkat individu dan Sistem Organisasi Masyarakat di ruang lingkup masyarakat.
+Pembuatan [[Social Credit System]] di tingkat individu dan Sistem Organisasi Masyarakat di ruang lingkup masyarakat.
 
 ### Latar Belakang
 
-- Infrastruktur sudah tersedia, namun belum dimanfaatkan secara optimal. Dengan jumlah masjid mencapai sekitar **800.000** di Indonesia, masih banyak masjid yang belum aktif atau tidak memiliki kegiatan terkait teknologi dan keberlanjutan manusia. Sistem informasi masjid masih banyak yang dikelola secara manual meskipun sudah ada berbagai aplikasi yang dapat memudahkan dan mempercepat proses tersebut.
+- Infrastruktur sudah tersedia, namun belum dimanfaatkan secara optimal. Dengan jumlah masjid mencapai sekitar **800.000** di [[Indonesia]], masih banyak masjid yang belum aktif atau tidak memiliki kegiatan terkait teknologi dan keberlanjutan manusia. Sistem informasi masjid masih banyak yang dikelola secara manual meskipun sudah ada berbagai aplikasi yang dapat memudahkan dan mempercepat proses tersebut.
 
-- Masjid, yang tersebar di seluruh Indonesia, dapat menjadi tempat bagi seluruh elemen masyarakat, tanpa memandang agama. Di daerah non-Muslim atau di tempat tanpa masjid, ruang karang taruna atau ruang kosong yang nyaman dapat dijadikan alternatif untuk berkumpul.
+- Masjid, yang tersebar di seluruh [[Indonesia]], dapat menjadi tempat bagi seluruh elemen masyarakat, tanpa memandang agama. Di daerah non-Muslim atau di tempat tanpa masjid, ruang karang taruna atau ruang kosong yang nyaman dapat dijadikan alternatif untuk berkumpul.
 
 - Masyarakat dengan jiwa sosial yang tinggi dan sering berkontribusi dalam kegiatan sedekah dapat menjadi dukungan yang signifikan untuk kelancaran program ini.
 
@@ -50,7 +50,7 @@ Penjelasan:
 
 - **Kurikulum Pendidikan yang Membosankan** ➔ Rombak kurikulum menjadi lebih sederhana, memberikan kebebasan kepada masyarakat untuk mengejar minat mereka melalui organisasi masyarakat.
 
-- **Hoax & Hate Speech di Medsos** ➔ Percepat pengembangan Machine Learning, Deep Learning, AI, atau teknologi lainnya. Diperlukan investasi besar dalam sektor pendidikan untuk melatih lebih banyak orang dalam bidang ini.
+- **Hoax & Hate Speech di Medsos** ➔ Percepat pengembangan Machine Learning, Deep Learning, AI, atau teknologi lainnya. Diperlukan [[Investment]] besar dalam sektor pendidikan untuk melatih lebih banyak orang dalam bidang ini.
 
 - **Korupsi** ➔ Transparansi total mengenai kekayaan masyarakat, termasuk sumber dan jumlah pajak. Implementasikan sistem social credit.
 
@@ -80,7 +80,7 @@ Pengintegrasian teknologi terhadap semua organisasi masyarakat.
 Web atau aplikasi Android/IOS yang dapat diakses untuk memahami keadaan dan kondisi organisasi di sekitar rumah.
 
 #### Harapan dari Program
-Terwujudnya sebuah aplikasi yang dapat diakses oleh semua orang untuk mendorong inovasi masyarakat dalam menyelesaikan permasalahan lokal maupun global. Masyarakat dan pemerintah dapat mendorong inovasi dari organisasi melalui investasi atau pendanaan program. Diharapkan masyarakat menjadi proaktif dalam berpartisipasi di organisasi lokal untuk terus belajar, berinovasi, dan bahkan menjadi entrepreneur guna menciptakan lapangan pekerjaan, mengurangi pengangguran, serta kesenjangan sosial.
+Terwujudnya sebuah aplikasi yang dapat diakses oleh semua orang untuk mendorong inovasi masyarakat dalam menyelesaikan permasalahan lokal maupun global. Masyarakat dan pemerintah dapat mendorong inovasi dari organisasi melalui [[Investment]] atau pendanaan program. Diharapkan masyarakat menjadi proaktif dalam berpartisipasi di organisasi lokal untuk terus belajar, berinovasi, dan bahkan menjadi entrepreneur guna menciptakan lapangan pekerjaan, mengurangi pengangguran, serta kesenjangan sosial.
 
 ### Kendala yang Mungkin
 
@@ -132,7 +132,7 @@ Terwujudnya sebuah aplikasi yang dapat diakses oleh semua orang untuk mendorong 
 
 ### Tujuan Khusus
 
-Saya bertujuan untuk mentransformasi masjid-masjid dan organisasi masyarakat menjadi entitas yang benar-benar profesional dalam pengelolaan keuangannya, dengan istilah bahwa setiap masjid seakan-akan melakukan IPO (Initial Public Offering) untuk mencapai tingkat transparansi yang tinggi. Sedekah, zakat, dan dana lainnya dari masyarakat dianggap sebagai investasi.
+Saya bertujuan untuk mentransformasi masjid-masjid dan organisasi masyarakat menjadi entitas yang benar-benar profesional dalam pengelolaan keuangannya, dengan istilah bahwa setiap masjid seakan-akan melakukan IPO (Initial Public Offering) untuk mencapai tingkat transparansi yang tinggi. Sedekah, zakat, dan dana lainnya dari masyarakat dianggap sebagai [[Investment]].
 
 Dalam konteks ini, penting bagi pihak manajemen masjid untuk melakukan manajemen dana masyarakat dengan cermat. Saya berharap agar dana yang terkumpul tidak hanya digunakan untuk biaya operasional atau pembangunan fisik/infrastruktur yang hanya meningkatkan prestise masjid tanpa memberikan manfaat nyata kepada masyarakat.
 
@@ -238,7 +238,7 @@ Contohnya, jika ada yang ingin memperjuangkan ideologi komunis atau khilafah, me
 
 Jika pada akhirnya tidak ada kesimpulan dari kedua pihak, biarkan begitu adanya. Perbedaan ide atau pendapat harus dihadapi dengan adu argumen berdasarkan fakta dan dalil ilmiah.
 
-Tantangan muncul saat perbedaan ini berujung pada pelecehan atau kekerasan fisik. Inilah saat aplikasi *social credit* dapat berperan, memungkinkan masyarakat mengetahui siapa yang terlibat dalam tindakan kekerasan. Dari sini, riwayat hidup, golongan, dan pelaku kekerasan dapat dilihat melalui *social credit system* untuk mengurangi fasilitas hidup mereka.
+Tantangan muncul saat perbedaan ini berujung pada pelecehan atau kekerasan fisik. Inilah saat aplikasi *social credit* dapat berperan, memungkinkan masyarakat mengetahui siapa yang terlibat dalam tindakan kekerasan. Dari sini, riwayat hidup, golongan, dan pelaku kekerasan dapat dilihat melalui *[[Social Credit System]]* untuk mengurangi fasilitas hidup mereka.
 
 Hal ini bertujuan untuk mengurangi bias dan ketidakobjektifan. Orang yang mengaku netral perlu dinilai ulang agar meminimalkan bias, dan sistem harus dapat mengkategorikan tingkah laku manusia menjadi spektrum. Dengan adanya sistem ini, masyarakat dapat mengetahui latar belakang calon pemimpin atau wakil rakyat, termasuk pergantian partai atau ideologi, sikap oportunis, atau kurangnya pendirian. Diharapkan sistem ini dapat memberikan pemahaman menyeluruh terkait apa yang terjadi.
 
@@ -256,7 +256,7 @@ Reward digunakan sebagai stimulus atau dorongan agar semua pihak aktif berkontri
 
 ### Persyaratan Aplikasi
 
-#### Social Credit System (Aplikasi untuk Individu)
+#### [[Social Credit System]] (Aplikasi untuk Individu)
 
 1. **Identitas Pengguna:**
    - Nomor Induk Kependudukan (NIK)
@@ -305,7 +305,7 @@ Reward digunakan sebagai stimulus atau dorongan agar semua pihak aktif berkontri
    ii. Detail kegiatan, timeline, dan jenis kegiatan yang tersedia
 
 12. **Peringkat Masjid di Daerah:**
-   i. Informasi tentang semua masjid di Indonesia
+   i. Informasi tentang semua masjid di [[Indonesia]]
    ii. Peringkat berdasarkan pembobotan kegiatan yang memajukan daerah, menggunakan ilmu statistika, dan sejenisnya
    iii. Ringkasan keuangan dari semua masjid
    iv. Kontak pihak manajemen masjid
@@ -340,9 +340,9 @@ Sistem ini mengakibatkan banyak individu terperangkap dalam rutinitas. Bagi yang
 
 Oleh karena itu, harapan saya adalah agar anggaran untuk pendidikan tidak dihambur-hamburkan dengan dasar pemaksaan. Saya ingin melihat bahwa belajar tidak perlu dibatasi oleh seragam atau persyaratan yang ketat. Belajar seharusnya memberikan perspektif kepada peserta didik bahwa banyak masalah yang ada di dunia ini, dan tugas mereka adalah mengembangkan potensi diri untuk mencari solusi atas berbagai permasalahan tersebut.
 
-Saya berharap ketika ada seseorang yang membutuhkan mentor untuk mempelajari suatu bidang, ada sistem yang memudahkan mereka untuk menemukan individu yang ahli di bidang tersebut. Selanjutnya, diharapkan masyarakat dapat lebih mengenal satu sama lain, meningkatkan aspek sosial, sehingga Indonesia tidak berubah menjadi negara yang cenderung individualistik dengan banyak masalah sosial seperti utang berbasis finansial, masalah kesehatan mental, prostitusi, kesenjangan sosial, dan lain sebagainya.
+Saya berharap ketika ada seseorang yang membutuhkan mentor untuk mempelajari suatu bidang, ada sistem yang memudahkan mereka untuk menemukan individu yang ahli di bidang tersebut. Selanjutnya, diharapkan masyarakat dapat lebih mengenal satu sama lain, meningkatkan aspek sosial, sehingga [[Indonesia]] tidak berubah menjadi negara yang cenderung individualistik dengan banyak masalah sosial seperti utang berbasis finansial, masalah kesehatan mental, prostitusi, kesenjangan sosial, dan lain sebagainya.
 
-- Setelah menyelesaikan kuliah di Universitas Indonesia, saya menyadari bahwa banyak teman sekelas saya yang memiliki keahlian dalam berbagai bidang dan dapat memberikan kontribusi positif bagi masyarakat.
+- Setelah menyelesaikan kuliah di [[Universitas Indonesia]], saya menyadari bahwa banyak teman sekelas saya yang memiliki keahlian dalam berbagai bidang dan dapat memberikan kontribusi positif bagi masyarakat.
 
 Namun, saya juga merasakan ketidaksetaraan dalam infrastruktur dan pendidikan. Jika banyak lulusan kuliah memilih bekerja di perusahaan di pusat kota atau bahkan di luar negeri, bagaimana dengan nasib daerah-daerah yang masih belum memiliki akses seperti yang kami nikmati?
 
@@ -361,7 +361,7 @@ Jika ada yang merasa tidak membuang waktu, maka ini mungkin merupakan sindiran u
 - [Situs Simas Kementerian Agama](https://simas.kemenag.go.id/)
 - Aplikasi Manajemen Masjid di Playstore: "Masjid Kita" dan aplikasi lainnya ang sejenis
 - QS University
-- Social Credit System di China
+- [[Social Credit System]] di China
 - Masjid Salman ITB, Masjid Jogokaryan, Himpunan Rohis Kota Bandung
 - https://play.google.com/store/apps/details?id=com.blessindonesia.masjidkukom
 - https://play.google.com/store/apps/details?id=com.halomasjiddkm

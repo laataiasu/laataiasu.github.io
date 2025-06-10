@@ -50,9 +50,9 @@ More worker replace by Automata. The profit one is only the owner and the capita
 
 Covid-19 Pandemic spread,
 
-"It's okay we don't need to worry. Our ulama always do kunud so indonesia is free from covid 19. Everything is save because we are ready from this!"
+"It's okay we don't need to worry. Our ulama always do kunud so [[Indonesia]] is free from covid 19. Everything is save because we are ready from this!"
 
-Covid went to Indonesia, a lot of personal health fall and died. Economy collapsed, everyone is blaming each other.
+Covid went to [[Indonesia]], a lot of personal health fall and died. Economy collapsed, everyone is blaming each other.
 
 ...
 

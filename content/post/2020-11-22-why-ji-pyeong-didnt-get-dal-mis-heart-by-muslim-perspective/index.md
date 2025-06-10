@@ -12,11 +12,11 @@ The reasons why Ji Pyeong didn't get Dal Mi's heart even though he is rich:
 - He didn't get the wealth in a halal way.
 
 He invests in haram companies.  
-Since he was an orphan, he learned to invest because he wants to be rich as fast as he can so he didn't care about the sources of the money. He studied economy and finance but didn't learn about sharia principles. He ended up investing in prohibited businesses, such as conventional banking companies, as well as companies that produce or trade haram and un-"tayyib" goods (for example cigarette and liquor factories). The company that gave him a lot of profit is the Soju producer because Soju is selling well in South Korea.
+Since he was an orphan, he learned to invest because he wants to be rich as fast as he can so he didn't care about the sources of the money. He studied economy and finance but didn't learn about [[Sharia]] principles. He ended up [[Investment|investing]] in prohibited businesses, such as conventional banking companies, as well as companies that produce or trade haram and un-"tayyib" goods (for example cigarette and liquor factories). The company that gave him a lot of profit is the Soju producer because Soju is selling well in South Korea.
 
-- He is not only did investing but also speculating
+- He is not only did [[Investment|investing]] but also speculating
 
-Investment is not prohibited, but speculating is yes. Trading which has speculative characteristics is prohibited because it is like gambling. Speculating could bring someone to gain wealth fastly, but at the same time, it doesn't give certainty to the company or the economy. But he didn't care about his activities so in his leisure at the early stage, he did trading a lot. Because of that, he can fund his study by himself at the university even if he is an orphan. But of course it is not a good way, because actually he can look for the fund for study by scholarship and others, and not depend on trading.  
+Investment is not prohibited, but speculating is yes. Trading which has speculative characteristics is prohibited because it is like [[Gambling|gambling]]. Speculating could bring someone to gain wealth fastly, but at the same time, it doesn't give certainty to the company or the economy. But he didn't care about his activities so in his leisure at the early stage, he did trading a lot. Because of that, he can fund his study by himself at the university even if he is an orphan. But of course it is not a good way, because actually he can look for the fund for study by scholarship and others, and not depend on trading.  
   
 - He always doubts and full of suudzon
 

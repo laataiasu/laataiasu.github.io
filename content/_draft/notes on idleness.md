@@ -11,7 +11,7 @@ Catatan kemalasan: Seni dan anti panduan untuk yang merasa bukan normal
 “First of all: what is work? Work is of two kinds: first, altering the position of matter at or near the earth’s surface relatively to other such matter; second, telling other people to do so. The first kind is unpleasant and ill paid; the second is pleasant and highly paid.”
 ― [[Bertrand Russell]], In Praise of Idleness and Other Essays
 
-cara nyelametin luddite itu ada 3 cara, jadiin dia sebagai muselmann/muslim, biarin aja kayak bartleby/gandhi tanpa penonton, atau perbanyak tarian ting ting tang tang tang
+cara nyelametin luddite itu ada 3 cara, jadiin dia sebagai muselmann/muslim, biarin aja kayak [[Bartleby]]/[[Mahatma Gandhi]] tanpa penonton, atau perbanyak tarian ting ting tang tang tang
 
 The road to hell is paved with good intentions
 

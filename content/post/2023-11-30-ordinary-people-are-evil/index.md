@@ -18,7 +18,7 @@ watching sinnu and shai leaders and their followers gather to debate over trivia
 
 ![Alt text](_b234d530-f4c0-45bf-a890-4b5cd9d30fbe.jpg)
 
-they compete by hastening social, economic, cultural, and spiritual KPIs through experiments involving neuro-GMOs and quantum computing projects conducted by some mad scientists. they also focus on building happy families through effective indoctrination, asserting that children don't deserve happiness until palestine is free. 
+they compete by hastening social, economic, cultural, and spiritual KPIs through experiments involving neuro-GMOs and quantum computing projects conducted by some mad scientists. they also focus on building happy families through effective indoctrination, asserting that children don't deserve happiness until [[Palestine]] is free. 
 
 ![Alt text](_4ca9880e-c5f4-4b7b-9f37-073b5597bcb0.jpg)
 

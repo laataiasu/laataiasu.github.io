@@ -10,9 +10,9 @@ I often guess something. It is strange for some people, and I am not suggesting 
 
 That's what data scientists do. Trying to get some pattern, and practical business beliefs if it could make more profit, then it is true. Like any other graphical analysis, it is something stochastic and a lot of mathematicians try to find the relationship between variables, which is directed to chance/opportunity/probability.
 
-Probability means gambling. But data analysts don't want to be told so. They feel like they're using math to solve something, or they feel like they're 'solving' something. There is a correlation and without searching further they sure that it is a causation. In business sometimes the analysis is work, then it is believed as the truth.
+Probability means [[Gambling|gambling]]. But data analysts don't want to be told so. They feel like they're using math to solve something, or they feel like they're 'solving' something. There is a correlation and without searching further they sure that it is a causation. In business sometimes the analysis is work, then it is believed as the truth.
 
-When in stock or crypto trading, a novice just looks at the graph and makes a position because they feel that this issuer or this coin has a potential to "go to the moon". They are increasingly convinced when there's someone who seems like a pro suggesting to buy that stock or coint.
+When in stock or [[Cryptocurrency]] [[Trading]], a novice just looks at the graph and makes a position because they feel that this issuer or this coin has a potential to "go to the moon". They are increasingly convinced when there's someone who seems like a pro suggesting to buy that stock or coint.
 
 On the other hand, there's a trader who pays attention well by a lot of fundamental and technical analysis and he is sure that what the novice instincts are true. After a long period, the value of the stock or the coint is increased. In the end, both the novice and the pro make a profit from the stock or the coint. And the question is, is there anyone blaming one of them for making profit?
 

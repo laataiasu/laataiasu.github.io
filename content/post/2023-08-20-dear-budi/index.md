@@ -6,7 +6,7 @@ title: Dear Budiman Sudjatmiko
 
 Untuk Budi, 
 
-rather than building 'BUKIT ALGORITMA' the hills of wannabe Silicon Valley algorithms that are centralized, elitist, and stagnant, it's better to develop a mosque-based social credit system like Chongqing. The title is 'AKSELERASI SMART CITY MELALUI MASJID BERPRESTASI' which is more decentralized and prioritizes equal distribution.
+rather than building 'BUKIT ALGORITMA' the hills of wannabe Silicon Valley algorithms that are centralized, elitist, and stagnant, it's better to develop a mosque-based [[Social Credit System]] like Chongqing. The title is 'AKSELERASI SMART CITY MELALUI MASJID BERPRESTASI' which is more decentralized and prioritizes equal distribution.
 
 It gets boring every time there's a beggar, making it very difficult to verify whether they are genuinely in need or not.
 
@@ -28,6 +28,6 @@ Digitizing the mosque system can have a significant impact; the stock market mov
 
 [[Data-driven]], transparent.
 
-The presence of religion is there to be exploited. Religion is a blessing from God. Materialism doesn't fit in Indonesia. Those who cannot exploit religion will suffer.
+The presence of religion is there to be exploited. Religion is a blessing from God. Materialism doesn't fit in [[Indonesia]]. Those who cannot exploit religion will suffer.
 
 I hate data labeling and all labels, but one must do the dirty job.

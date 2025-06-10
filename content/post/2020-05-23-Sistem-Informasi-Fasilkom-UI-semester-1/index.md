@@ -1,7 +1,7 @@
 ---
 date: "2020-05-23T00:00:00Z"
 tags: ["cs/is"]
-title: Review Sistem Informasi UI ~Semester 1
+title: Review Sistem Informasi  ~Semester 1
 ---
 
 

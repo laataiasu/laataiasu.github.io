@@ -1,7 +1,7 @@
 ---
 date: "2023-03-01T17:23:09Z"
 tags: ["muslim", "story", "review", "film"]
-title: "Islam and the Data Scientist's Quest: Seeking Insights Amidst Biases and Mental Models"
+title: "[[Islam]] and the Data Scientist's Quest: Seeking Insights Amidst Biases and Mental Models"
 ---
 
 ![data-science.jpg](https://catatankemalasan.files.wordpress.com/2023/07/data-science.jpg)
@@ -33,7 +33,7 @@ kalo udah lama dan ternyata ga ketemu, what will the data scientist do? tetap me
 
 muter-muter cari bisa jadi balik lagi ke titik asal.
 
-terserah hipotesisnya apa, boleh "islam itu cukup", "islam itu ga cukup"
+terserah hipotesisnya apa, boleh "[[Islam]] itu cukup", "[[Islam]] itu ga cukup"
 
 tapi dari situ eksperimen, 
 
@@ -55,7 +55,7 @@ dan balik lagi dari banyak mental model, fallacy, bias, dan sebagainya.
 
 dan jadi sederhana lagi. 
 
-islam itu cukup, sidik fatonah amanah tablig
+[[Islam]] itu cukup, sidik fatonah amanah tablig
 
 jauhi masalah-masalah kaya gitu, jangan gunakan sains untuk normalisasi your shitty behaviour
 

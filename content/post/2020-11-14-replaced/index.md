@@ -19,7 +19,7 @@ I think it is an unethical question because from this,
 
 I conjecture about what my lecturer will answer. Then she gave my question to the class and let everyone think about the answers. Sometimes I ask, what should I ask others. How can I make a good question so that my question is understood completely by others?
 
-From the answers, I assume that my questions are considered the paranoid question, that I am afraid that the Manager is a profession that can be replaced by robots. Some answers we challenge robots to do the job, some answers in the short term especially in Indonesia the development of technology still slow so the manager can't be replaced by robots.
+From the answers, I assume that my questions are considered the paranoid question, that I am afraid that the Manager is a profession that can be replaced by robots. Some answers we challenge robots to do the job, some answers in the short term especially in [[Indonesia]] the development of technology still slow so the manager can't be replaced by robots.
 
 But that's not the point of my question.
 
@@ -53,7 +53,7 @@ In the transition of the replacement money system to the new system, we need to 
 
 {{< youtube id="iMEwVXv2aQc" autoplay="true" >}}
 
-Maybe there is something more effective than this idea, but It's hard to figure out what that is. It is being experimented with by South Korea but I am pessimistic if it is applied in Indonesia because it will likely worsen the Indonesian economic system.
+Maybe there is something more effective than this idea, but It's hard to figure out what that is. It is being experimented with by South Korea but I am pessimistic if it is applied in [[Indonesia]] because it will likely worsen the Indonesian economic system.
 
 The problem of hunger should be finished, but technology is something that should be developed first. With Moore's Law, the machine will be cheaper and more advanced over time. The main idea is replacing all of the repetitive works previously done by humans so that goods will be surplus.
 

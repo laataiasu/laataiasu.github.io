@@ -24,7 +24,7 @@ Instead of doing things they don't understand like collecting donations or organ
 
 - How do you define the success metrics for a lot of public places of worship? 
 - Is it only in terms of religious aspects, like the grandeur and quantity of places of worship?
-- Could they contribute on a more fundamental level, like combating poverty, fighting gambling and destructive lending practices, or tackling social media addiction? 
+- Could they contribute on a more fundamental level, like combating poverty, fighting [[Gambling|gambling]] and destructive lending practices, or tackling social media addiction? 
 - What kind of things can we contribute to this process?
 
 Most Muslim tech enthusiasts could advocate and pressure the government to OPEN SOURCE the process of building. To integrate, because we'd like to know which areas are still lagging behind, not self-sufficient, and are facing hunger or are filled with criminal activity.
@@ -41,7 +41,7 @@ Teenagers from Rengasdengklok know exactly that their voices are useless, so the
 
 [[Mohammad Hatta]]
 
-If you're interested in shariah finance, then go into that. If it's public health, tech, politics, anthropology, law, and so on, then focus on those.
+If you're interested in [[Islamic Finance]], then go into that. If it's public health, tech, politics, anthropology, law, and so on, then focus on those.
 
 Sometimes pseudo activism is worse than inaction because you don't see the alternatives. You think you're already doing your best by doing a lot of things, while there are alternatives you don't see.
 
@@ -73,7 +73,7 @@ The thing is, I'm just curious about a summarized report of all mosques. I want 
 
 ![ss_ajaib](https://storage.googleapis.com/finansialku_media/wordpress_media/2020/06/44457832-terbaru-dari-ajaib-ss-05b-finansialku.jpg)
 
-, with many customizable metrics, to classify Muslims in Indonesia, their presentations, contributions, conflicts, and scandals, their relationships with political parties, and so on. Not limited to just social media trends like https://pers.droneemprit.id/ from @ismailfahmi, but any form of event.
+, with many customizable metrics, to classify Muslims in [[Indonesia]], their presentations, contributions, conflicts, and scandals, their relationships with political parties, and so on. Not limited to just social media trends like https://pers.droneemprit.id/ from @ismailfahmi, but any form of event.
 
 But I think it's worth considering since most students struggle academically, so it's understandable they need an organization to refresh and enjoy for a while. So it's just my problem then.
 
